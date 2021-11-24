@@ -635,6 +635,42 @@
                 }
             ],
             "keyName": "kit029"
+        },
+        {
+            "number": "030",
+            "name": "KIT ARAñA BLAIZER Y GRAND BLAIZER",
+            "uPrice": 0.34,
+            "keyName": "kit030"
+        },
+        {
+            "number": "031",
+            "name": "KIT DE INYECCION ASIATICO 4 CIL. VITON/VITON",
+            "uPrice": 2.51,
+            "keyName": "kit031"
+        },
+        {
+            "number": "032",
+            "name": "KIT DE INYECCION ASIATICO 6 CIL. VITON/VITON ",
+            "uPrice": 3.53,
+            "keyName": "kit032"
+        },
+        {
+            "number": "033",
+            "name": "KIT DE INYECCION ASIATICO 8CIL. NBR/VITON ",
+            "uPrice": 4.05,
+            "keyName": "kit033"
+        },
+        {
+            "number": "034",
+            "name": "KIT DE INYECCION ASIATICO 6CIL MODELO NUEVO 2012-2018 NBR/VITON ",
+            "uPrice": 4.33,
+            "keyName": "kit034"
+        },
+        {
+            "number": "035",
+            "name": "KIT INYECCION RENAULT 4CIL. NBR/NBR ",
+            "uPrice": 2.044,
+            "keyName": "kit035"
         }
     ],
     "oiny": [
@@ -735,6 +771,18 @@
             "name": "MICROFILTRO UNIVERSAL LARGO METALICO ",
             "uPrice": 0.19,
             "keyName": "mic006"
+        },
+        {
+            "number": "007",
+            "name": "MICROFILTRO DIESEL KIA PREGIO ",
+            "uPrice": 0.2381,
+            "keyName": "mic007"
+        },
+        {
+            "number": "008",
+            "name": "MICROFILTRO UNIVERSAL MINI CORTO ( RENAUL: MEGANNE -CLIO )",
+            "uPrice": 0.2381,
+            "keyName": "mic008"
         }
     ],
     "oba": [
@@ -767,6 +815,18 @@
             "name": "BOMBA DE AGUA FORD: ECO SPORT 2.0/ FOCUS",
             "uPrice": 0.6131,
             "keyName": "oba005"
+        },
+        {
+            "number": "006",
+            "name": "ORING BOMBA DE AGUA 1 HP",
+            "uPrice": 1.3728,
+            "keyName": "oba006"
+        },
+        {
+            "number": "007",
+            "name": "ORING BOMBA DE AGUA 3/4 HP",
+            "uPrice": 0.4219,
+            "keyName": "oba007"
         }
     ],
     "obg": [
@@ -853,6 +913,24 @@
             "name": "BOMBA DE GASOLINA CHERY TIGGO",
             "uPrice": 2.4293,
             "keyName": "obg014"
+        },
+        {
+            "number": "015",
+            "name": "BOMBA DE GASOLINA CHEVROLET CRUZE",
+            "uPrice": 2.295,
+            "keyName": "obg015"
+        },
+        {
+            "number": "016",
+            "name": "BOMBA GASOLINA CHEYENNE - SILVERADO(2003-2007) ",
+            "uPrice": 2.2216,
+            "keyName": "obg016"
+        },
+        {
+            "number": "017",
+            "name": "BOMBA DE GASOLINA FORD EXPLORER EDDIE BAUER (2005-2011)-FORD EXPLORER MOTOR 3.5( 2011-2020)",
+            "uPrice": 2.295,
+            "keyName": "obg017"
         }
     ],
     "oct": [
@@ -875,6 +953,12 @@
             "name": "Oring Viton Distribuidor tapa",
             "uPrice": 4.5,
             "keyName": "odt002"
+        },
+        {
+            "number": "003",
+            "name": "ORING DISTRIBUIDOR TAPA BASE BOBINA  FESTIVA ",
+            "uPrice": 0.3522,
+            "keyName": "odt003"
         }
     ],
     "or000": [
@@ -2715,6 +2799,24 @@
             "name": "Kit Refrigeración para Compresor FX15FS10 Verde",
             "uPrice": 1.81,
             "keyName": "orefk002"
+        },
+        {
+            "number": "003",
+            "name": "KIT COMPRESOR PARA TOYOTA TERIUS ",
+            "uPrice": 1.81,
+            "keyName": "orefk003"
+        },
+        {
+            "number": "004",
+            "name": "KIT REFREGIRACION PARA COMPRESOR VITARA ",
+            "uPrice": 1.69,
+            "keyName": "orefk004"
+        },
+        {
+            "number": "005",
+            "name": "KIT REFRIGERACION PARA COMPRESOR  SISTEMA ESS CARGO 815",
+            "uPrice": 0.73,
+            "keyName": "orefk005"
         }
     ],
     "ormm": [
@@ -3279,6 +3381,18 @@
             "name": "TUBO DE AGUA CHEVROLET: ORLANDO MOTOR 2.4",
             "uPrice": 0.7301,
             "keyName": "ota003"
+        },
+        {
+            "number": "004",
+            "name": "TUBO DE AGUA CHEVROLET OPTRA -AVEO ",
+            "uPrice": 0.2575,
+            "keyName": "ota004"
+        },
+        {
+            "number": "005",
+            "name": "TUBO DE AGUA CHEVROLET-CORSA ( TODOS ) ",
+            "uPrice": 0.3053,
+            "keyName": "ota005"
         }
     ],
     "otv": [
@@ -3305,6 +3419,12 @@
             "name": "Kit Tapa Valvula Aveo LT",
             "uPrice": 3,
             "keyName": "otv004"
+        },
+        {
+            "number": "005",
+            "name": "KIT TAPA VALVULA AVEO LS (NBR)",
+            "uPrice": 1.801,
+            "keyName": "otv005"
         }
     ],
     "obc": [
@@ -3425,4 +3545,4 @@
     "ofk": [],
     "ofb": [],
     "lim": []
-  }
+}
