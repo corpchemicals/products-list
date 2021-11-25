@@ -2792,31 +2792,96 @@
             "number": "001",
             "name": "Kit Refrigeración para",
             "uPrice": 3.56,
-            "keyName": "orefk001"
+            "keyName": "orefk001",
+            "content": [
+                {
+                    "category": "oref",
+                    "number": "014",
+                    "amount": 2
+                },
+                {
+                    "category": "or100",
+                    "number": "118",
+                    "amount": 2
+                },
+                {
+                    "category": "oref",
+                    "number": "015",
+                    "amount": 2
+                }
+            ]
         },
         {
             "number": "002",
             "name": "Kit Refrigeración para Compresor FX15FS10 Verde",
             "uPrice": 1.81,
-            "keyName": "orefk002"
+            "keyName": "orefk002",
+            "content": [
+                {
+                    "category": "oref",
+                    "number": "013",
+                    "amount": 1
+                },
+                {
+                    "category": "oref",
+                    "number": "015",
+                    "amount": 2
+                }
+            ]
         },
         {
             "number": "003",
             "name": "KIT COMPRESOR PARA TOYOTA TERIUS ",
             "uPrice": 1.81,
-            "keyName": "orefk003"
+            "keyName": "orefk003",
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "154",
+                    "amount": 2
+                }
+            ]
         },
         {
             "number": "004",
             "name": "KIT REFREGIRACION PARA COMPRESOR VITARA ",
             "uPrice": 1.69,
-            "keyName": "orefk004"
+            "keyName": "orefk004",
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "237",
+                    "amount": 1
+                },
+                {
+                    "category": "or000",
+                    "number": "042",
+                    "amount": 1
+                }
+            ]
         },
         {
             "number": "005",
             "name": "KIT REFRIGERACION PARA COMPRESOR  SISTEMA ESS CARGO 815",
             "uPrice": 0.73,
-            "keyName": "orefk005"
+            "keyName": "orefk005",
+            "content": [
+                {
+                    "category": "oref",
+                    "number": "008",
+                    "amount": 1
+                },
+                {
+                    "category": "oref",
+                    "number": "011",
+                    "amount": 1
+                },
+                {
+                    "category": "or100",
+                    "number": "118",
+                    "amount": 1
+                }
+            ]
         }
     ],
     "ormm": [
