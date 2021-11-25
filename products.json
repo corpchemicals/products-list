@@ -3537,12 +3537,104 @@
             "keyName": "osp001"
         }
     ],
-    "ocm": [],
-    "ouu": [],
-    "ogk": [],
-    "ook": [],
-    "ohk": [],
-    "ofk": [],
-    "ofb": [],
-    "lim": []
+    "ocm": [
+        {
+            "number": "001",
+            "name": "ORING CONECTOR MANGUERA DE AGUA 3/8",
+            "uPrice": 0.0319,
+            "keyName": "ocm001"
+        },
+        {
+            "number": "002",
+            "name": "ORING CONECTOR MANGUERA DE AGUA 3/4",
+            "uPrice": 0.02278,
+            "keyName": "ocm002"
+        }
+    ],
+    "ouu": [
+        {
+            "number": "001",
+            "name": "ORING PARA UNION UNIVERSAL PUNTA SOLDADA TUBRICA 1/2 PULGADAS ",
+            "uPrice": 0.2278,
+            "keyName": "ouu001"
+        },
+        {
+            "number": "002",
+            "name": "ORING PARA UNION UNIVERSAL PUNTA SOLDADA  TUBRICA3/4",
+            "uPrice": 0.248,
+            "keyName": "ouu002"
+        }
+    ],
+    "ogk": [
+        {
+            "number": "001",
+            "name": "KIT PARA VASTAGOS (100 PIEZAS)",
+            "uPrice": 4,
+            "keyName": "ogk001"
+        },
+        {
+            "number": "002",
+            "name": "KIT PARA CUELLOS (120 PIEZAS) ",
+            "uPrice": 8.98,
+            "keyName": "ogk002"
+        },
+        {
+            "number": "003",
+            "name": "KIT PARA MONOMANDOS (40 PIEZAS) ",
+            "uPrice": 12.31,
+            "keyName": "ogk003"
+        }
+    ],
+    "ook": [
+        {
+            "number": "001",
+            "name": "KIT BOMBONAS DE OXIGEN (140 PIEZAS) ",
+            "uPrice": 7.96,
+            "keyName": "ook001"
+        }
+    ],
+    "ohk": [
+        {
+            "number": "001",
+            "name": "KIT PARA REPARACION DE GATOS Y CAJETINES HIDRAULICOS (110 PIEZAS) ",
+            "uPrice": 10.88,
+            "keyName": "ohk001"
+        }
+    ],
+    "ofk": [
+        {
+            "number": "001",
+            "name": "KIT PARA FENOS (200 PIEZAS) ",
+            "uPrice": 25.57,
+            "keyName": "ofk001"
+        }
+    ],
+    "ofb": [
+        {
+            "number": "001",
+            "name": "ORING BOMBA DE FRENO WAGONEER-CAPRICE-MALIBU ",
+            "uPrice": 1.98,
+            "keyName": "ofb001"
+        }
+    ],
+    "lim": [
+        {
+            "number": "001",
+            "name": "COMBO LIQUIDO LIMPIADOR DE INYECTORES (CONCENTRADO+LIQUIDO PRUEBA DE INYECTOR) 3.75L",
+            "uPrice": 25,
+            "keyName": "lim001"
+        },
+        {
+            "number": "002",
+            "name": "LIQUIDO LIMPIADOR DE INYECTOR( CONCENTRADO ) 3.75L AMARILLO ",
+            "uPrice": 10,
+            "keyName": "lim002"
+        },
+        {
+            "number": "003",
+            "name": "LIQUIDO PRUEBA DE INYECTOR 3.75L ROJO",
+            "uPrice": 16,
+            "keyName": "lim003"
+        }
+    ]
 }
