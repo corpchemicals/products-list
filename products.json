@@ -3788,6 +3788,13 @@
             "number": "001",
             "name": "ORING REGULADOR DE GASOLINA TOYOTA COROLLA",
             "uPrice": 0.042,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "106",
+                    "amount": 1
+                }
+            ],
             "keyName": "ore001"
         }
     ],
