@@ -3611,6 +3611,13 @@
             "number": "001",
             "name": "ORING TERMOSTATO AVEO LT",
             "uPrice": 0.6755,
+            "content": [
+                {
+                    "category": "or300",
+                    "number": "325",
+                    "amount": 1
+                }
+            ],
             "keyName": "ote001"
         }
     ],
