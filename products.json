@@ -3626,30 +3626,65 @@
             "number": "001",
             "name": "ORING TAPA ACEITE AVEO/OPTRA ",
             "uPrice": 0.3522,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "222",
+                    "amount": 1
+                }
+            ],
             "keyName": "otp001"
         },
         {
             "number": "002",
             "name": " ORING TAPA ACEITE CHERY/X1",
             "uPrice": 0.5378,
+            "content": [
+                {
+                    "category": "or300",
+                    "number": "321",
+                    "amount": 1
+                }
+            ],
             "keyName": "otp002"
         },
         {
             "number": "003",
             "name": "ORING GRANDE TAPA DE ACEITE MOTO SINCRONICAS CHINA (MATRIX/OWEN/EMPIRE/UM/UNKO/SKYGO/BERAROMPER)",
             "uPrice": 0.2802,
+            "content": [
+                {
+                    "category": "or900",
+                    "number": "918",
+                    "amount": 1
+                }
+            ],
             "keyName": "otp003"
         },
         {
             "number": "004",
             "name": "ORING PEQUEñO TAPA DE ACEITE MOTO SINCRONICAS CHINAS (MATRIX/OWEN/UM/EMPIRE/UNKO/SKYGO/BERAROMPER)",
             "uPrice": 0.1905,
+            "content": [
+                {
+                    "category": "or900",
+                    "number": "913",
+                    "amount": 1
+                }
+            ],
             "keyName": "otp004"
         },
         {
             "number": "005",
             "name": "ORING TAPA DE ACEITES MOTOS AUTOMATICAS ( DE PUñO)",
             "uPrice": 0.1872,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "211",
+                    "amount": 1
+                }
+            ],
             "keyName": "otp005"
         }
     ],
@@ -3814,5 +3849,6 @@
             "uPrice": 16,
             "keyName": "lim003"
         }
-    ]
+    ],
+    "ogf": []
 }
