@@ -4021,6 +4021,43 @@
             "number": "001",
             "name": "KIT BOMBONAS DE OXIGEN (140 PIEZAS) ",
             "uPrice": 7.96,
+            "content": [
+                {
+                    "category": "or000",
+                    "number": "004",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "010",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "011",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "013",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "020",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "021",
+                    "amount": 20
+                },
+                {
+                    "category": "or110",
+                    "number": "110",
+                    "amount": 20
+                }
+            ],
             "keyName": "ook001"
         }
     ],
