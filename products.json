@@ -3760,12 +3760,26 @@
             "number": "001",
             "name": "ORING BASE DEL FILTRO DE ACEITE CHEROKEE 4.0 (1998-1999)",
             "uPrice": 0.6131,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "230",
+                    "amount": 1
+                }
+            ],
             "keyName": "obf001"
         },
         {
             "number": "002",
             "name": "ORING BASE DEL FILTRO DE ACITE OPTRA ",
             "uPrice": 0.3165,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "133",
+                    "amount": 1
+                }
+            ],
             "keyName": "obf002"
         }
     ],
