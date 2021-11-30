@@ -803,6 +803,13 @@
             "number": "002",
             "name": "Oring NBR para Bomba de",
             "uPrice": 0.41,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "140",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba002"
         },
         {
@@ -848,12 +855,26 @@
             "number": "006",
             "name": "ORING BOMBA DE AGUA 1 HP",
             "uPrice": 1.3728,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "146",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba006"
         },
         {
             "number": "007",
             "name": "ORING BOMBA DE AGUA 3/4 HP",
             "uPrice": 0.4219,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "141",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba007"
         }
     ],
