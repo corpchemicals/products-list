@@ -3803,6 +3803,13 @@
             "number": "001",
             "name": "ORING SENSOR DE POSICION DE SIGUEñAL GRAND VITARA 2.0",
             "uPrice": 0.2575,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "217",
+                    "amount": 1
+                }
+            ],
             "keyName": "osp001"
         }
     ],
