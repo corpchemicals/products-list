@@ -3874,12 +3874,26 @@
             "number": "001",
             "name": "ORING CONECTOR MANGUERA DE AGUA 3/8",
             "uPrice": 0.0319,
+            "content": [
+                {
+                    "category": "or000",
+                    "number": "010",
+                    "amount": 1
+                }
+            ],
             "keyName": "ocm001"
         },
         {
             "number": "002",
             "name": "ORING CONECTOR MANGUERA DE AGUA 3/4",
             "uPrice": 0.02278,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "214",
+                    "amount": 1
+                }
+            ],
             "keyName": "ocm002"
         }
     ],
