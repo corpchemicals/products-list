@@ -1017,18 +1017,39 @@
             "number": "001",
             "name": "Oring NBR Distribuidor Tapa",
             "uPrice": 0.49,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "227",
+                    "amount": 1
+                }
+            ],
             "keyName": "odt001"
         },
         {
             "number": "002",
             "name": "Oring Viton Distribuidor tapa",
             "uPrice": 4.5,
+            "content": [
+                {
+                    "category": "orv",
+                    "number": "227",
+                    "amount": 1
+                }
+            ],
             "keyName": "odt002"
         },
         {
             "number": "003",
             "name": "ORING DISTRIBUIDOR TAPA BASE BOBINA  FESTIVA ",
             "uPrice": 0.3522,
+            "content": [
+                {
+                    "category": "orv",
+                    "number": "222",
+                    "amount": 1
+                }
+            ],
             "keyName": "odt003"
         }
     ],
