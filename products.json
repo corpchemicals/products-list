@@ -3930,18 +3930,89 @@
             "number": "001",
             "name": "KIT PARA VASTAGOS (100 PIEZAS)",
             "uPrice": 4,
+            "content": [
+                {
+                    "category": "or000",
+                    "number": "008",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "009",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "010",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "011",
+                    "amount": 20
+                },
+                {
+                    "category": "or100",
+                    "number": "110",
+                    "amount": 20
+                }
+            ],
             "keyName": "ogk001"
         },
         {
             "number": "002",
             "name": "KIT PARA CUELLOS (120 PIEZAS) ",
             "uPrice": 8.98,
+            "content": [
+                {
+                    "category": "or000",
+                    "number": "016",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "017",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "018",
+                    "amount": 20
+                },
+                {
+                    "category": "or000",
+                    "number": "019",
+                    "amount": 20
+                },
+                {
+                    "category": "or100",
+                    "number": "113",
+                    "amount": 20
+                },
+                {
+                    "category": "or100",
+                    "number": "114",
+                    "amount": 20
+                }
+            ],
             "keyName": "ogk002"
         },
         {
             "number": "003",
             "name": "KIT PARA MONOMANDOS (40 PIEZAS) ",
             "uPrice": 12.31,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "218",
+                    "amount": 20
+                },
+                {
+                    "category": "or200",
+                    "number": "221",
+                    "amount": 20
+                }
+            ],
             "keyName": "ogk003"
         }
     ],
