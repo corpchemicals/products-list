@@ -790,6 +790,13 @@
             "number": "001",
             "name": "Oring NBR Bomba de Agua",
             "uPrice": 0.7691,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "234",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba001"
         },
         {
@@ -802,18 +809,39 @@
             "number": "003",
             "name": "Oring NBR Bomba de Agua",
             "uPrice": 0.8305,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "235",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba003"
         },
         {
             "number": "004",
             "name": "Oring NBR Bomba de Agua",
             "uPrice": 0.8979,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "238",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba004"
         },
         {
             "number": "005",
             "name": "BOMBA DE AGUA FORD: ECO SPORT 2.0/ FOCUS",
             "uPrice": 0.6131,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "230",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba005"
         },
         {
