@@ -3902,12 +3902,26 @@
             "number": "001",
             "name": "ORING PARA UNION UNIVERSAL PUNTA SOLDADA TUBRICA 1/2 PULGADAS ",
             "uPrice": 0.2278,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "214",
+                    "amount": 1
+                }
+            ],
             "keyName": "ouu001"
         },
         {
             "number": "002",
             "name": "ORING PARA UNION UNIVERSAL PUNTA SOLDADA  TUBRICA3/4",
             "uPrice": 0.248,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "216",
+                    "amount": 1
+                }
+            ],
             "keyName": "ouu002"
         }
     ],
