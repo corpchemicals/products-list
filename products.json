@@ -3568,6 +3568,13 @@
             "number": "001",
             "name": "ORING COLADOR DE BOMBA DE ACEITE AVEO/OPTRA ",
             "uPrice": 0.0941,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "114",
+                    "amount": 1
+                }
+            ],
             "keyName": "obc001"
         }
     ],
