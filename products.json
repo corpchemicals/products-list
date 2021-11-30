@@ -4074,6 +4074,108 @@
             "number": "001",
             "name": "KIT PARA FENOS (200 PIEZAS) ",
             "uPrice": 25.57,
+            "content": [
+                {
+                    "category": "or000",
+                    "number": "010",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "011",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "012",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "013",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "014",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "015",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "016",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "017",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "018",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "019",
+                    "amount": 10
+                },
+                {
+                    "category": "or100",
+                    "number": "115",
+                    "amount": 10
+                },
+                {
+                    "category": "or100",
+                    "number": "116",
+                    "amount": 10
+                },
+                {
+                    "category": "or100",
+                    "number": "117",
+                    "amount": 10
+                },
+                {
+                    "category": "or200",
+                    "number": "210",
+                    "amount": 10
+                },
+                {
+                    "category": "or200",
+                    "number": "211",
+                    "amount": 10
+                },
+                {
+                    "category": "or200",
+                    "number": "213",
+                    "amount": 10
+                },
+                {
+                    "category": "or200",
+                    "number": "214",
+                    "amount": 10
+                },
+                {
+                    "category": "or200",
+                    "number": "215",
+                    "amount": 10
+                },
+                {
+                    "category": "or200",
+                    "number": "217",
+                    "amount": 10
+                },
+                {
+                    "category": "or200",
+                    "number": "219",
+                    "amount": 10
+                }
+            ],
             "keyName": "ofk001"
         }
     ],
