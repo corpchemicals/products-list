@@ -4184,6 +4184,13 @@
             "number": "001",
             "name": "ORING BOMBA DE FRENO WAGONEER-CAPRICE-MALIBU ",
             "uPrice": 1.98,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "212",
+                    "amount": 10
+                }
+            ],
             "keyName": "ofb001"
         }
     ],
