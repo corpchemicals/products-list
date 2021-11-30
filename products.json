@@ -3553,6 +3553,13 @@
             "number": "005",
             "name": "KIT TAPA VALVULA AVEO LS (NBR)",
             "uPrice": 1.801,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "111",
+                    "amount": 15
+                }
+            ],
             "keyName": "otv005"
         }
     ],
