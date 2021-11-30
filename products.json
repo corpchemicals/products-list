@@ -852,6 +852,13 @@
             "number": "004",
             "name": "Oring Bomba Gas - Ford FX",
             "uPrice": 2.104,
+            "content": [
+                {
+                    "category": "obg",
+                    "number": "003",
+                    "amount": 1
+                }
+            ],
             "keyName": "obg004"
         },
         {
@@ -876,6 +883,13 @@
             "number": "008",
             "name": "Oring Bomba Gas- Toyota",
             "uPrice": 2.104,
+            "content": [
+                {
+                    "category": "obg",
+                    "number": "003",
+                    "amount": 1
+                }
+            ],
             "keyName": "obg008"
         },
         {
@@ -900,6 +914,13 @@
             "number": "012",
             "name": "BOMBA DE GASOLINA CHEVROLET:CHEYENNE(HASTA 2005) / GRAND BLAZER TBI (1999-2001)",
             "uPrice": 1.7209,
+            "content": [
+                {
+                    "category": "or300",
+                    "number": "343",
+                    "amount": 1
+                }
+            ],
             "keyName": "obg012"
         },
         {
@@ -912,6 +933,13 @@
             "number": "014",
             "name": "BOMBA DE GASOLINA CHERY TIGGO",
             "uPrice": 2.4293,
+            "content": [
+                {
+                    "category": "or400",
+                    "number": "417",
+                    "amount": 1
+                }
+            ],
             "keyName": "obg014"
         },
         {
@@ -924,7 +952,15 @@
             "number": "016",
             "name": "BOMBA GASOLINA CHEYENNE - SILVERADO(2003-2007) ",
             "uPrice": 2.2216,
+            "content": [
+                {
+                    "category": "or300",
+                    "number": "354",
+                    "amount": 1
+                }
+            ],
             "keyName": "obg016"
+            
         },
         {
             "number": "017",
