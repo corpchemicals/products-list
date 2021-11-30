@@ -3525,30 +3525,65 @@
             "number": "001",
             "name": "Oring NBR Tubo de agua",
             "uPrice": 0.2575,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "217",
+                    "amount": 1
+                }
+            ],
             "keyName": "ota001"
         },
         {
             "number": "002",
             "name": "TUBO DE AGUA VW:FOX",
             "uPrice": 0.3522,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "222",
+                    "amount": 1
+                }
+            ],
             "keyName": "ota002"
         },
         {
             "number": "003",
             "name": "TUBO DE AGUA CHEVROLET: ORLANDO MOTOR 2.4",
             "uPrice": 0.7301,
+            "content": [
+                {
+                    "category": "or300",
+                    "number": "326",
+                    "amount": 1
+                }
+            ],
             "keyName": "ota003"
         },
         {
             "number": "004",
             "name": "TUBO DE AGUA CHEVROLET OPTRA -AVEO ",
             "uPrice": 0.2575,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "217",
+                    "amount": 1
+                }
+            ],
             "keyName": "ota004"
         },
         {
             "number": "005",
             "name": "TUBO DE AGUA CHEVROLET-CORSA ( TODOS ) ",
             "uPrice": 0.3053,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "219",
+                    "amount": 1
+                }
+            ],
             "keyName": "ota005"
         }
     ],
