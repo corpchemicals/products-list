@@ -1002,6 +1002,13 @@
             "number": "001",
             "name": "Oring NBR Copa de Tripoide",
             "uPrice": 0.63,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "150",
+                    "amount": 1
+                }
+            ],
             "keyName": "oct001"
         }
     ],
