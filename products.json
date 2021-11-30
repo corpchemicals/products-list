@@ -3693,30 +3693,65 @@
             "number": "001",
             "name": "ORING CAJA TOYOTA COROLLA DEL 99 AL 2002",
             "uPrice": 2.4597,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "265",
+                    "amount": 1
+                }
+            ],
             "keyName": "oca001"
         },
         {
             "number": "002",
             "name": "ORING VACUM CAJA HIDROMATICA C6-C4",
             "uPrice": 0.0758,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "110",
+                    "amount": 1
+                }
+            ],
             "keyName": "oca002"
         },
         {
             "number": "003",
             "name": "ORING DIRECCION HIDRAULICA CHEVROLET 6 Y 8 CIL",
             "uPrice": 1.0456,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "246",
+                    "amount": 1
+                }
+            ],
             "keyName": "oca003"
         },
         {
             "number": "004",
             "name": "ORING CONECTOR 3/8 PARA MANGUERA DIRECCION HIDRAULICA ",
             "uPrice": 0.0353,
+            "content": [
+                {
+                    "category": "or000",
+                    "number": "011",
+                    "amount": 1
+                }
+            ],
             "keyName": "oca004"
         },
         {
             "number": "005",
             "name": "ORING EJE DE LA CAJA DE CAMION CHEYENNE",
             "uPrice": 0.0975,
+            "content": [
+                {
+                    "category": "or000",
+                    "number": "022",
+                    "amount": 1
+                }
+            ],
             "keyName": "oca005"
         }
     ],
