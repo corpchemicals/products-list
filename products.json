@@ -640,36 +640,129 @@
             "number": "030",
             "name": "KIT ARAñA BLAIZER Y GRAND BLAIZER",
             "uPrice": 0.34,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "109",
+                    "amount": 1
+                },
+                {
+                    "category": "or100",
+                    "number": "110",
+                    "amount": 6
+                }
+            ],
             "keyName": "kit030"
         },
         {
             "number": "031",
             "name": "KIT DE INYECCION ASIATICO 4 CIL. VITON/VITON",
             "uPrice": 2.51,
+            "content": [
+                {
+                    "category": "oiny",
+                    "number": "009",
+                    "amount": 4
+                },
+                {
+                    "category": "oiny",
+                    "number": "010",
+                    "amount": 4
+                },
+                {
+                    "category": "mic",
+                    "number": "001",
+                    "amount": 4
+                }
+            ],
             "keyName": "kit031"
         },
         {
             "number": "032",
             "name": "KIT DE INYECCION ASIATICO 6 CIL. VITON/VITON ",
             "uPrice": 3.53,
+            "content": [
+                {
+                    "category": "oiny",
+                    "number": "009",
+                    "amount": 6
+                },
+                {
+                    "category": "oiny",
+                    "number": "010",
+                    "amount": 6
+                },
+                {
+                    "category": "mic",
+                    "number": "001",
+                    "amount": 6
+                }
+            ],
             "keyName": "kit032"
         },
         {
             "number": "033",
             "name": "KIT DE INYECCION ASIATICO 8CIL. NBR/VITON ",
             "uPrice": 4.05,
+            "content": [
+                {
+                    "category": "oiny",
+                    "number": "001",
+                    "amount": 8
+                },
+                {
+                    "category": "oiny",
+                    "number": "010",
+                    "amount": 8
+                },
+                {
+                    "category": "mic",
+                    "number": "001",
+                    "amount": 8
+                }
+            ],
             "keyName": "kit033"
         },
         {
             "number": "034",
             "name": "KIT DE INYECCION ASIATICO 6CIL MODELO NUEVO 2012-2018 NBR/VITON ",
             "uPrice": 4.33,
+            "content": [
+                {
+                    "category": "oiny",
+                    "number": "003",
+                    "amount": 6
+                },
+                {
+                    "category": "oiny",
+                    "number": "010",
+                    "amount": 6
+                },
+                {
+                    "category": "mic",
+                    "number": "001",
+                    "amount": 6
+                }
+            ],
             "keyName": "kit034"
         },
+        
         {
             "number": "035",
             "name": "KIT INYECCION RENAULT 4CIL. NBR/NBR ",
             "uPrice": 2.044,
+            "content": [
+                {
+                    "category": "oiny",
+                    "number": "003",
+                    "amount": 8
+                },
+                {
+                    "category": "mic",
+                    "number": "008",
+                    "amount": 4
+                }
+            ],
             "keyName": "kit035"
         }
     ],
