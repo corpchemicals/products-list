@@ -364,8 +364,7 @@
         {
             "number": "018",
             "name": "Kit Oring y Estopera para distribuidor Toyota Corolla VITON",
-            "uPrice": 8,
-            "content": [],
+            "uPrice": 6,
             "keyName": "kit018"
         },
         {
@@ -993,13 +992,6 @@
             "number": "004",
             "name": "Oring Bomba Gas - Ford FX",
             "uPrice": 2.104,
-            "content": [
-                {
-                    "category": "obg",
-                    "number": "003",
-                    "amount": 1
-                }
-            ],
             "keyName": "obg004"
         },
         {
@@ -1023,14 +1015,7 @@
         {
             "number": "008",
             "name": "Oring Bomba Gas- Toyota",
-            "uPrice": 2.104,
-            "content": [
-                {
-                    "category": "obg",
-                    "number": "003",
-                    "amount": 1
-                }
-            ],
+            "uPrice": 2.29,
             "keyName": "obg008"
         },
         {
