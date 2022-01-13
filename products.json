@@ -62,7 +62,7 @@
         {
             "number": "004",
             "name": "Kit Iny. Chevy - Aveo (2011 en adelante) NBR/NBR",
-            "uPrice": 0.88,
+            "uPrice": 1.49,
             "content": [
                 {
                     "category": "oiny",
@@ -85,7 +85,7 @@
         {
             "number": "005",
             "name": "Kit Iny. Universal Webber (Europeo) 4 CILINDROS NBR/NBR",
-            "uPrice": 1.2,
+            "uPrice": 1.44,
             "content": [
                 {
                     "category": "oiny",
@@ -126,7 +126,7 @@
         {
             "number": "007",
             "name": "Kit Iny. Universal 4 Cil NBR/NBR",
-            "uPrice": 1.65,
+            "uPrice": 0.97,
             "content": [
                 {
                     "category": "oiny",
@@ -144,7 +144,7 @@
         {
             "number": "008",
             "name": "Kit Iny. Universal 4 Cil VITON/NBR",
-            "uPrice": 2.45,
+            "uPrice": 1.65,
             "content": [
                 {
                     "category": "oiny",
@@ -547,7 +547,7 @@
         {
             "number": "026",
             "name": "Kit Iny. Asiático 4 Cil. NBR/VITON",
-            "uPrice": 1.97,
+            "uPrice": 1.87,
             "content": [
                 {
                     "category": "oiny",
@@ -649,7 +649,7 @@
                 {
                     "category": "or100",
                     "number": "110",
-                    "amount": 6
+                    "amount": 1
                 }
             ],
             "keyName": "kit030"
@@ -746,7 +746,6 @@
             ],
             "keyName": "kit034"
         },
-        
         {
             "number": "035",
             "name": "KIT INYECCION RENAULT 4CIL. NBR/NBR ",
@@ -1102,7 +1101,6 @@
                 }
             ],
             "keyName": "obg016"
-            
         },
         {
             "number": "017",
