@@ -393,7 +393,7 @@
         {
             "number": "020",
             "name": "Kit para Compresor FS10-FX15 NBR/NBR",
-            "uPrice": 1.34,
+            "uPrice": 1.58,
             "content": [
                 {
                     "category": "or100",
@@ -2882,7 +2882,7 @@
         {
             "number": "001",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.05,
+            "uPrice": 0.0528,
             "keyName": "oref001"
         },
         {
@@ -2906,49 +2906,49 @@
         {
             "number": "005",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.08,
+            "uPrice": 0.0768,
             "keyName": "oref005"
         },
         {
             "number": "006",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.09,
+            "uPrice": 0.0924,
             "keyName": "oref006"
         },
         {
             "number": "007",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.07,
+            "uPrice": 0.072,
             "keyName": "oref007"
         },
         {
             "number": "008",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.08,
+            "uPrice": 0.084,
             "keyName": "oref008"
         },
         {
             "number": "009",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.09,
+            "uPrice": 0.092,
             "keyName": "oref009"
         },
         {
             "number": "010",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.11,
+            "uPrice": 0.108,
             "keyName": "oref010"
         },
         {
             "number": "011",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.13,
+            "uPrice": 0.1344,
             "keyName": "oref011"
         },
         {
             "number": "012",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.16,
+            "uPrice": 0.156,
             "keyName": "oref012"
         },
         {
@@ -2966,7 +2966,7 @@
         {
             "number": "015",
             "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.28,
+            "uPrice": 0.2832,
             "keyName": "oref015"
         }
     ],
@@ -2974,7 +2974,7 @@
         {
             "number": "001",
             "name": "Kit Refrigeración para",
-            "uPrice": 3.56,
+            "uPrice": 3.556,
             "keyName": "orefk001",
             "content": [
                 {
@@ -2997,7 +2997,7 @@
         {
             "number": "002",
             "name": "Kit Refrigeración para Compresor FX15FS10 Verde",
-            "uPrice": 1.81,
+            "uPrice": 1.909,
             "keyName": "orefk002",
             "content": [
                 {
@@ -3015,7 +3015,7 @@
         {
             "number": "003",
             "name": "KIT COMPRESOR PARA TOYOTA TERIUS ",
-            "uPrice": 1.81,
+            "uPrice": 1.8111,
             "keyName": "orefk003",
             "content": [
                 {
@@ -3028,7 +3028,7 @@
         {
             "number": "004",
             "name": "KIT REFREGIRACION PARA COMPRESOR VITARA ",
-            "uPrice": 1.69,
+            "uPrice": 1.6878,
             "keyName": "orefk004",
             "content": [
                 {
@@ -3046,7 +3046,7 @@
         {
             "number": "005",
             "name": "KIT REFRIGERACION PARA COMPRESOR  SISTEMA ESS CARGO 815",
-            "uPrice": 0.73,
+            "uPrice": 0.7275,
             "keyName": "orefk005",
             "content": [
                 {
@@ -3682,7 +3682,7 @@
         {
             "number": "001",
             "name": "Oring Viton Kit tapa valvula",
-            "uPrice": 4.46,
+            "uPrice": 6.25,
             "keyName": "otv001"
         },
         {
@@ -4284,5 +4284,12 @@
             "keyName": "lim003"
         }
     ],
-    "ogf": []
+    "ogf": [
+        {
+            "number": "001",
+            "name": "Oring Filtro de Agua Planta Ozono",
+            "uPrice": 1.0074,
+            "keyName": "ogf001"
+        }
+    ]
 }
