@@ -62,7 +62,7 @@
         {
             "number": "004",
             "name": "Kit Iny. Chevy - Aveo (2011 en adelante) NBR/NBR",
-            "uPrice": 1.49,
+            "uPrice": 1.13,
             "content": [
                 {
                     "category": "oiny",
@@ -103,7 +103,7 @@
         {
             "number": "006",
             "name": "Kit Iny. Aveo (hasta 2010) NBR/NBR",
-            "uPrice": 0.88,
+            "uPrice": 0.97,
             "content": [
                 {
                     "category": "oiny",
@@ -254,7 +254,7 @@
         {
             "number": "013",
             "name": "Kit Iny. Universal Webber (Europeo) 4 CILINDROS VITON/NBR",
-            "uPrice": 2.27,
+            "uPrice": 2.52,
             "content": [
                 {
                     "category": "oiny",
@@ -272,7 +272,7 @@
         {
             "number": "014",
             "name": "Kit Iny. Silverado 8 Cil NBR/NBR",
-            "uPrice": 1.65,
+            "uPrice": 2.13,
             "content": [
                 {
                     "category": "oiny",
@@ -569,7 +569,7 @@
         {
             "number": "027",
             "name": "Kit Iny. Asiático 6 Cil. NBR/VITON",
-            "uPrice": 3.54,
+            "uPrice": 3.07,
             "content": [
                 {
                     "category": "oiny",
@@ -748,7 +748,7 @@
         {
             "number": "035",
             "name": "KIT INYECCION RENAULT 4CIL. NBR/NBR ",
-            "uPrice": 2.044,
+            "uPrice": 2.04,
             "content": [
                 {
                     "category": "oiny",
@@ -961,6 +961,18 @@
                 }
             ],
             "keyName": "oba007"
+        },
+        {
+            "number": "008",
+            "name": "Oring Bomba de Agua   Peugeot 206 / 207 Motor 1.4 / Partmet",
+            "uPrice": 0.54,
+            "keyName": "oba008"
+        },
+        {
+            "number": "009",
+            "name": "Bomba de agua Peugeot 206/207 motor 1.6 / Centauro",
+            "uPrice": 0.63,
+            "keyName": "oba009"
         }
     ],
     "obg": [
@@ -1052,7 +1064,7 @@
         {
             "number": "014",
             "name": "BOMBA DE GASOLINA CHERY TIGGO",
-            "uPrice": 2.4293,
+            "uPrice": 2.43,
             "content": [
                 {
                     "category": "or400",
@@ -1071,7 +1083,7 @@
         {
             "number": "016",
             "name": "BOMBA GASOLINA CHEYENNE - SILVERADO(2003-2007) ",
-            "uPrice": 2.2216,
+            "uPrice": 2.22,
             "content": [
                 {
                     "category": "or300",
@@ -3812,6 +3824,18 @@
                 }
             ],
             "keyName": "otp005"
+        },
+        {
+            "number": "006",
+            "name": "Oring Tapa Piston de Arranque Motos China (todas) de Balancín Motor 150",
+            "uPrice": 0.5,
+            "keyName": "otp006"
+        },
+        {
+            "number": "007",
+            "name": "Oring Tapa pequeña Embobinado Motos China (todas) de Balancín Motor 150",
+            "uPrice": 0.15,
+            "keyName": "otp007"
         }
     ],
     "oca": [
