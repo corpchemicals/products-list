@@ -3822,12 +3822,26 @@
             "number": "006",
             "name": "Oring Tapa Piston de Arranque Motos China (todas) de Balancín Motor 150",
             "uPrice": 0.5,
+            "content": [
+                {
+                    "category": "or900",
+                    "number": "932",
+                    "amount": 1
+                }
+            ],
             "keyName": "otp006"
         },
         {
             "number": "007",
             "name": "Oring Tapa pequeña Embobinado Motos China (todas) de Balancín Motor 150",
             "uPrice": 0.15,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "120",
+                    "amount": 1
+                }
+            ],
             "keyName": "otp007"
         }
     ],
@@ -4363,6 +4377,13 @@
             "number": "001",
             "name": "Oring Filtro de Agua Planta Ozono",
             "uPrice": 1.0074,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "240",
+                    "amount": 1
+                }
+            ],
             "keyName": "ogf001"
         }
     ],
