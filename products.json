@@ -4365,5 +4365,35 @@
             "uPrice": 1.0074,
             "keyName": "ogf001"
         }
+    ],
+    "oar": [
+        {
+            "number": "001",
+            "name": "Oring Arranque Motos China (Todas) de Balancín Motor 150",
+            "uPrice": 0.21,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "213",
+                    "amount": 1
+                }
+            ],
+            "keyName": "oar001"
+        }
+    ],
+    "ola": [
+        {
+            "number": "001",
+            "name": "Oring Lápiz de Croche Motos China Sincrónica Motor 200",
+            "uPrice": 0.04,
+            "content": [
+                {
+                    "category": "or000",
+                    "number": "012",
+                    "amount": 1
+                }
+            ],
+            "keyName": "ola001"
+        }
     ]
 }
