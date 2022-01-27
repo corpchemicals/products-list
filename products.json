@@ -3750,6 +3750,20 @@
                 }
             ],
             "keyName": "ote001"
+        },
+
+        {
+            "number": "002",
+            "name": "Oring Termostato Aveo hasta 2010",
+            "uPrice": 0.35,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "222",
+                    "amount": 1
+                }
+            ],
+            "keyName": "ote002"
         }
     ],
     "otp": [
