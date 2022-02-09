@@ -966,12 +966,26 @@
             "number": "008",
             "name": "Oring Bomba de Agua   Peugeot 206 / 207 Motor 1.4 / Partmet",
             "uPrice": 0.54,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "228",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba008"
         },
         {
             "number": "009",
             "name": "Bomba de agua Peugeot 206/207 motor 1.6 / Centauro",
             "uPrice": 0.63,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "231",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba009"
         }
     ],
