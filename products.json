@@ -318,7 +318,7 @@
         {
             "number": "016",
             "name": "Kit Iny. Silverado 8 Cil VITON/NBR",
-            "uPrice": 3.08,
+            "uPrice": 3.21,
             "content": [
                 {
                     "category": "oiny",
@@ -1105,6 +1105,12 @@
             "name": "BOMBA DE GASOLINA FORD EXPLORER EDDIE BAUER (2005-2011)-FORD EXPLORER MOTOR 3.5( 2011-2020)",
             "uPrice": 2.295,
             "keyName": "obg017"
+        },
+        {
+            "number": "018",
+            "name": "Oring Bomba de Gasolina Yaris Belta/Sport 2006-2014",
+            "uPrice": 2.28,
+            "keyName": "obg018"
         }
     ],
     "oct": [
@@ -3695,6 +3701,12 @@
                 }
             ],
             "keyName": "ota005"
+        },
+        {
+            "number": "006",
+            "name": "Tubo de Agua Festiva y Turpial",
+            "uPrice": 0.17,
+            "keyName": "ota006"
         }
     ],
     "otv": [
