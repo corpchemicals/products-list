@@ -1,4 +1,18 @@
 {
+    "promocion": [
+        {
+            "number": "001",
+            "name": "Promo OINY003",
+            "uPrice": 0.028,
+            "keyName": "poiny001"
+        },
+        {
+            "number": "002",
+            "name": "Promo LIM001",
+            "uPrice": 20,
+            "keyName": "plim001"
+        }
+    ],
     "kit": [
         {
             "number": "001",
