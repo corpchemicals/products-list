@@ -818,6 +818,12 @@
             "name": "Oring VITON Asiento Asiático",
             "uPrice": 0.35,
             "keyName": "oiny010"
+        },
+        {
+            "number": "011",
+            "name": "Oring Asiento Acanalado Asiático NBR",
+            "uPrice": 0.1367,
+            "keyName": "oiny011"
         }
     ],
     "mic": [
