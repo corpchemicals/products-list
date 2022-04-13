@@ -761,7 +761,7 @@
         },
         {
             "number": "035",
-            "name": "KIT INYECCION RENAULT 4CIL. NBR/NBR ",
+            "name": "KIT INYECCION RENAULT 4 CIL. NBR/NBR ",
             "uPrice": 2.04,
             "content": [
                 {
@@ -776,6 +776,120 @@
                 }
             ],
             "keyName": "kit035"
+        },
+        {
+            "number": "036",
+            "name": "KIT INYECCION RENAULT 4CIL. NBR/VITON ",
+            "uPrice": 2.8,
+            "content": [
+                {
+                    "category": "oiny",
+                    "number": "003",
+                    "amount": 4
+                },
+                {
+                    "category": "oiny",
+                    "number": "004",
+                    "amount": 4
+                },
+                {
+                    "category": "mic",
+                    "number": "008",
+                    "amount": 4
+                }
+            ],
+            "keyName": "kit036"
+        },
+        {
+            "number": "037",
+            "name": "Kit Caterpillar NBR/NBR (132 pz)",
+            "uPrice": 14,
+            "content": [
+                {
+                    "category": "or000",
+                    "number": "014",
+                    "amount": 12
+                },
+                {
+                    "category": "or000",
+                    "number": "018",
+                    "amount": 12
+                },
+                {
+                    "category": "or000",
+                    "number": "021",
+                    "amount": 12
+                },
+                {
+                    "category": "or100",
+                    "number": "110",
+                    "amount": 12
+                },
+                {
+                    "category": "or100",
+                    "number": "111",
+                    "amount": 12
+                },
+                {
+                    "category": "or100",
+                    "number": "112",
+                    "amount": 12
+                },
+                {
+                    "category": "or100",
+                    "number": "113",
+                    "amount": 12
+                },
+                {
+                    "category": "or100",
+                    "number": "117",
+                    "amount": 12
+                },
+                {
+                    "category": "or100",
+                    "number": "125",
+                    "amount": 10
+                },
+                {
+                    "category": "or100",
+                    "number": "130",
+                    "amount": 10
+                },
+                {
+                    "category": "or000",
+                    "number": "025",
+                    "amount": 8
+                },
+                {
+                    "category": "or200",
+                    "number": "219",
+                    "amount": 8
+                }
+            ],
+            "keyName": "kit037"
+        },
+        {
+            "number": "038",
+            "name": "Kit Inyección Asiático Terios 4 Cil. NBR/NBR",
+            "uPrice": 1.60,
+            "content": [
+                {
+                    "category": "oiny",
+                    "number": "001",
+                    "amount": 4
+                },
+                {
+                    "category": "oiny",
+                    "number": "012",
+                    "amount": 4
+                },
+                {
+                    "category": "mic",
+                    "number": "001",
+                    "amount": 4
+                }
+            ],
+            "keyName": "kit038"
         }
     ],
     "oiny": [
@@ -838,6 +952,12 @@
             "name": "Oring Asiento Acanalado Asiático NBR",
             "uPrice": 0.1367,
             "keyName": "oiny011"
+        },
+        {
+            "number": "012",
+            "name": "Oring Asiento Asiático Alto NBR",
+            "uPrice": 0.20,
+            "keyName": "oiny012"
         }
     ],
     "mic": [
@@ -3926,6 +4046,19 @@
                 }
             ],
             "keyName": "otp007"
+        },
+        {
+            "number": "008",
+            "name": "Oring Tapa Aceite Renault Logan",
+            "uPrice": 0.23,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "214",
+                    "amount": 1
+                }
+            ],
+            "keyName": "otp008"
         }
     ],
     "oca": [
@@ -4498,6 +4631,36 @@
                 }
             ],
             "keyName": "ola001"
+        }
+    ],
+    "oal": [
+        {
+            "number": "001",
+            "name": "Oring Árbol de Leva Motos Chinas 150 y 200",
+            "uPrice": 0.12,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "116",
+                    "amount": 1
+                }
+            ],
+            "keyName": "oal001"
+        }
+    ],
+    "oma": [
+        {
+            "number": "001",
+            "name": "Oring Martillera o Cuchara inferior",
+            "uPrice": 0.10,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "115",
+                    "amount": 1
+                }
+            ],
+            "keyName": "oma001"
         }
     ]
 }
