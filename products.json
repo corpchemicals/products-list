@@ -424,48 +424,23 @@
         },
         {
             "number": "021",
-            "name": "Kit Refrigeracion Automotriz NBR/NBR (80 pzas)",
+            "name": "Kit de Inyección TrailBlazer 6 CIL. Motor 4.2",
             "uPrice": 1.55,
             "content": [
                 {
-                    "category": "or000",
-                    "number": "005",
-                    "amount": 10
+                    "category": "oiny",
+                    "number": "001",
+                    "amount": 6
                 },
                 {
-                    "category": "or000",
+                    "category": "oiny",
                     "number": "006",
-                    "amount": 10
+                    "amount": 6
                 },
                 {
-                    "category": "or000",
-                    "number": "008",
-                    "amount": 10
-                },
-                {
-                    "category": "or000",
-                    "number": "011",
-                    "amount": 10
-                },
-                {
-                    "category": "or000",
-                    "number": "015",
-                    "amount": 10
-                },
-                {
-                    "category": "or100",
-                    "number": "108",
-                    "amount": 10
-                },
-                {
-                    "category": "or100",
-                    "number": "110",
-                    "amount": 10
-                },
-                {
-                    "category": "or200",
-                    "number": "205",
-                    "amount": 10
+                    "category": "mic",
+                    "number": "001",
+                    "amount": 6
                 }
             ],
             "keyName": "kit021"
