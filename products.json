@@ -4637,5 +4637,33 @@
             ],
             "keyName": "oma001"
         }
+    ],
+    "ocb": [
+        {
+            "number": "001",
+            "name": "Oring Carburador Motor 150 PZ26 y PZ27",
+            "uPrice": 0.1737,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "122",
+                    "amount": 1
+                }
+            ],
+            "keyName": "ocb001"
+        },
+        {
+            "number": "001",
+            "name": "Oring Carburador Motor 200 PZ30",
+            "uPrice": 0.2084,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "125",
+                    "amount": 1
+                }
+            ],
+            "keyName": "ocb002"
+        }
     ]
 }
