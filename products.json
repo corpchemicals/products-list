@@ -983,6 +983,12 @@
             "name": "MICROFILTRO UNIVERSAL MINI CORTO ( RENAUL: MEGANNE -CLIO )",
             "uPrice": 0.2381,
             "keyName": "mic008"
+        },
+        {
+            "number": "009",
+            "name": "Microfiltro Webber Corto",
+            "uPrice": 0.21,
+            "keyName": "mic009"
         }
     ],
     "oba": [
