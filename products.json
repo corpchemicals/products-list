@@ -267,7 +267,7 @@
         },
         {
             "number": "013",
-            "name": "Kit Iny. Universal Webber (Europeo) 4 CILINDROS VITON/NBR",
+            "name": "Kit Iny. Universal Webber (Europeo) 4 CILINDROS VITON/VITON",
             "uPrice": 2.52,
             "content": [
                 {
@@ -893,6 +893,12 @@
             "keyName": "oiny004"
         },
         {
+            "number": "005",
+            "name": "Oring Asiático Acanalado Toyota/Mitsubishi/Nissan VITON Negro",
+            "uPrice": 0.5273,
+            "keyName": "oiny005"
+        },
+        {
             "number": "006",
             "name": "Oring NBR Iny Delphi Aveo",
             "uPrice": 0.0533,
@@ -989,6 +995,18 @@
             "name": "Microfiltro Webber Corto",
             "uPrice": 0.21,
             "keyName": "mic009"
+        },
+        {
+            "number": "010",
+            "name": "Microfiltro TBI T-Cesta (Nissan D21)",
+            "uPrice": 0.4050,
+            "keyName": "mic010"
+        },
+        {
+            "number": "011",
+            "name": "Microfiltro TBI SUP T-Cesta (Cavalier/Blazer/Grand Blazer/Silverado/Cheyenne)",
+            "uPrice": 0.3420,
+            "keyName": "mic011"
         }
     ],
     "oba": [
@@ -1253,7 +1271,7 @@
         {
             "number": "001",
             "name": "Oring NBR Distribuidor Tapa",
-            "uPrice": 0.49,
+            "uPrice": 0.5148,
             "content": [
                 {
                     "category": "or200",
