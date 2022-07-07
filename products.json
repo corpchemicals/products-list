@@ -4689,5 +4689,20 @@
             ],
             "keyName": "ocb002"
         }
+    ],
+    "ohg": [
+        {
+            "number": "001",
+            "name": "Oring Tapa Guía para gato tipo botella 20 toneladas",
+            "uPrice": 5.38,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "228",
+                    "amount": 10
+                }
+            ],
+            "keyName": "ohg001"
+        }
     ]
 }
