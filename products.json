@@ -1250,6 +1250,19 @@
             "name": "Oring Bomba de Gasolina Yaris Belta/Sport 2006-2014",
             "uPrice": 2.28,
             "keyName": "obg018"
+        },
+        {
+            "number": "019",
+            "name": "Oring Bomba de Gasolina Chevrolet: LuvDmax",
+            "uPrice": 1.8143,
+            "content": [
+                {
+                    "category": "or300",
+                    "number": "345",
+                    "amount": 1
+                }
+            ],
+            "keyName": "obg019"
         }
     ],
     "oct": [
