@@ -4751,8 +4751,8 @@
         { "number": "037", "keyName": "kl037", "name": "Pasador Diferencial M-44 Cod 17878", "uPrice": 8.80 },
         { "number": "038", "keyName": "kl038", "name": "Pasador Diferencial Dodge Dart Cod. 193585", "uPrice": 8.80 },
         { "number": "039", "keyName": "kl039", "name": "Pasador Diferencial Malibu Importado (Corto) Cod 11449", "uPrice": 8.80 },
-        { "number": "040", "keyName": "kl040", "name": "Pasador Diferencial M-60 Cod. 30263 Toyota ", "uPrice":11.20 },
-        { "number": "041", "keyName": "kl041", "name": "Pasador Diferencial M-70 F-350, C-30, Dodge 300 ", "uPrice":12.80 }
+        { "number": "040", "keyName": "kl040", "name": "Pasador Diferencial M-60 Cod. 30263 Toyota ", "uPrice": 11.20 },
+        { "number": "041", "keyName": "kl041", "name": "Pasador Diferencial M-70 F-350, C-30, Dodge 300 ", "uPrice": 12.80 }
     ],
     "bc": [
         { "number": "001", "keyName": "bc001", "name": "Empacadura Base de Carburador Ford 1 Boca", "uPrice": 0.42 },
@@ -4776,6 +4776,20 @@
         { "number": "020", "keyName": "bc020", "name": "Base de Carburador Racer, Cielo, Daewo", "uPrice": 0.45 },
         { "number": "021", "keyName": "bc021", "name": "Base de Carburador Ford 2 B Motor 302 Nuevo", "uPrice": 1.12 },
         { "number": "022", "keyName": "bc022", "name": "Base de Carburador Moto", "uPrice": 0.30 }
+    ],
+    "le": [
+        { "number": "001", "keyName": "le001", "name": "Lápiz Estabilizador 10' Explorer", "uPrice": 15.09 },
+        { "number": "002", "keyName": "le002", "name": "Lápiz Estabilizador 8' Tahoe, Silverado, Avalenche", "uPrice": 12.94 },
+        { "number": "003", "keyName": "le003", "name": "Lápiz Estabilizador 8' l300 Mitsubishi, Dong Feng ZNA Rich", "uPrice": 12.94 },
+        { "number": "004", "keyName": "le004", "name": "Lápiz Estabilizador 7' Fortaleza", "uPrice": 11.57 },
+        { "number": "005", "keyName": "le005", "name": "Lápiz Estabilizador 5' Terius", "uPrice": 9.79 },
+        { "number": "006", "keyName": "le006", "name": "Lápiz Estabilizador 6' Mazda Gran Tiger", "uPrice": 10.74 },
+        { "number": "007", "keyName": "le007", "name": "Lápiz Estabilizador 5' Neon, Focus", "uPrice": 10.11 },
+        { "number": "008", "keyName": "le008", "name": "Lápiz Estabilizador 6' Mitsubishi", "uPrice": 10.74 },
+        { "number": "009", "keyName": "le009", "name": "Lápiz Estabilizador 5' Universal", "uPrice": 10.10 },
+        { "number": "010", "keyName": "le010", "name": "Lápiz Estabilizador 6' Universal", "uPrice": 11.02 },
+        { "number": "011", "keyName": "le011", "name": "Lápiz Estabilizador 7' Universal", "uPrice": 11.97 },
+        { "number": "012", "keyName": "le012", "name": "Lápiz Estabilizador 8' Universal", "uPrice": 13.31 },
+        { "number": "013", "keyName": "le013", "name": "Lápiz Estabilizador 9' Universal", "uPrice": 14.91 }
     ]
-
 }
