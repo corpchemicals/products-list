@@ -4754,5 +4754,28 @@
         { "number": "040", "keyName": "kl040", "name": "Pasador Diferencial M-60 Cod. 30263 Toyota ", "uPrice":11.20 },
         { "number": "041", "keyName": "kl041", "name": "Pasador Diferencial M-70 F-350, C-30, Dodge 300 ", "uPrice":12.80 }
     ],
-    
+    "bc": [
+        { "number": "001", "keyName": "bc001", "name": "Empacadura Base de Carburador Ford 1 Boca", "uPrice": 0.42 },
+        { "number": "002", "keyName": "bc002", "name": "Empacadura Base de Carburador Chevrolet 1 Boca", "uPrice": 0.42 },
+        { "number": "003", "keyName": "bc003", "name": "Empacadura Base de Carburador Dodge 318", "uPrice": 0.45 },
+        { "number": "004", "keyName": "bc004", "name": "Empacadura Base de Carburador Corcel/Sierra", "uPrice": 0.58 },
+        { "number": "005", "keyName": "bc005", "name": "Empacadura Base de Carburador Che. Century", "uPrice": 0.58 },
+        { "number": "006", "keyName": "bc006", "name": "Empacadura Base de Carburador Ford 2 Bocas", "uPrice": 1.12 },
+        { "number": "007", "keyName": "bc007", "name": "Empacadura Base de Carburador Chevrolet 2 Bocas", "uPrice": 1.12 },
+        { "number": "008", "keyName": "bc008", "name": "Empacadura Base de Carburador Chevrolet 4 Bocas", "uPrice": 1.28 },
+        { "number": "009", "keyName": "bc009", "name": "Empacadura Base de Carburador Ford 4 Bocas", "uPrice": 1.52 },
+        { "number": "010", "keyName": "bc010", "name": "Base Carburador Che. Century Buick", "uPrice": 0.90 },
+        { "number": "011", "keyName": "bc011", "name": "Base de Carburador Chevrolet C-60", "uPrice": 0.62 },
+        { "number": "013", "keyName": "bc013", "name": "Base de Carburador TBI TODOS", "uPrice": 0.30 },
+        { "number": "014", "keyName": "bc014", "name": "Base de Carburador Chevette 1 Boca Webber", "uPrice": 0.32 },
+        { "number": "015", "keyName": "bc015", "name": "Base de Carburador Ford Motor 332", "uPrice": 1.50 },
+        { "number": "016", "keyName": "bc016", "name": "Empacadura Base de Carburador Chev 4 Tornillos", "uPrice": 0.70 },
+        { "number": "017", "keyName": "bc017", "name": "Empacadura Base de Carburador 1 Boca", "uPrice": 0.43 },
+        { "number": "018", "keyName": "bc018", "name": "Empacadura Base de Carburador Chev Solex 2 Bocas", "uPrice": 0.26 },
+        { "number": "019", "keyName": "bc019", "name": "Empacadura Base de Carburador Blazer TBI", "uPrice": 0.30 },
+        { "number": "020", "keyName": "bc020", "name": "Base de Carburador Racer, Cielo, Daewo", "uPrice": 0.45 },
+        { "number": "021", "keyName": "bc021", "name": "Base de Carburador Ford 2 B Motor 302 Nuevo", "uPrice": 1.12 },
+        { "number": "022", "keyName": "bc022", "name": "Base de Carburador Moto", "uPrice": 0.30 }
+    ]
+
 }
