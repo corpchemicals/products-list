@@ -4717,5 +4717,42 @@
             ],
             "keyName": "ohg001"
         }
-    ]
+    ],
+    "kl": [
+        { "number": "001", "keyName": "kl001", "name": "Kit 706376 - X (M-44)", "uPrice": 4.94 },
+        { "number": "002", "keyName": "kl002", "name": "Kit 706213 - X (M-70)", "uPrice": 7.89 },
+        { "number": "003", "keyName": "kl003", "name": "Kit 706375 - X (M-60)", "uPrice": 7.89 },
+        { "number": "004", "keyName": "kl004", "name": "Kit Empacadura Diferencial M44", "uPrice": 0.75 },
+        { "number": "005", "keyName": "kl005", "name": "Kit Empacadura Diferencial M70", "uPrice": 0.94 },
+        { "number": "006", "keyName": "kl006", "name": "Kit Empacadura Diferencial Spicer", "uPrice": 0.94 },
+        { "number": "007", "keyName": "kl007", "name": "Kit Planetario 3231 (M-44)", "uPrice": 3.17 },
+        { "number": "008", "keyName": "kl008", "name": "Kit de Ajuste Satelite y Planetario 3233 (M-70)", "uPrice": 3.47 },
+        { "number": "009", "keyName": "kl009", "name": "Kit de Ajuste Satelite y Planetario 3232 (M-60)", "uPrice": 3.47 },
+        { "number": "010", "keyName": "kl010", "name": "Araña de Tunel Ford 350, Dodge 300, Mod Viejo 16-A (Pin angosto)", "uPrice": 1.41 },
+        { "number": "011", "keyName": "kl011", "name": "Kit 706375 - XX Spicer", "uPrice": 5.04 },
+        { "number": "013", "keyName": "kl013", "name": "Araña Tunel C-30 Trasera Cod. 11", "uPrice": 1.68 },
+        { "number": "014", "keyName": "kl014", "name": "Kit 707068-X Triton (M 80)", "uPrice": 16.70 }, 
+        { "number": "015", "keyName": "kl015", "name": "Arandela de Suplemento Chevrolet", "uPrice": 1.20 },
+        { "number": "016", "keyName": "kl016", "name": "Arandela de Suplemento Ford", "uPrice": 1.20 },
+        { "number": "017", "keyName": "kl017", "name": "Empacadura M80 Triton", "uPrice": 1.17 },
+        { "number": "018", "keyName": "kl018", "name": "Empacadura M26 Chevette", "uPrice": 0.62 },
+        { "number": "019", "keyName": "kl019", "name": "Kit Punta de Eje SN-41", "uPrice": 4.98 },
+        { "number": "020", "keyName": "kl020", "name": "Kit Tuerca SN-01", "uPrice": 5.49 },
+        { "number": "021", "keyName": "kl021", "name": "Kit SN - 05", "uPrice": 5.49 },
+        { "number": "022", "keyName": "kl022", "name": "Kit SN - 12", "uPrice": 5.49 },
+        { "number": "023", "keyName": "kl023", "name": "Kit SN - 13", "uPrice": 5.49 },
+        { "number": "024", "keyName": "kl024", "name": "Kit SN - 17 RD (Festiva, Turpial, Fiesta, Mazda 323, Picanto)", "uPrice": 7.47 },
+        { "number": "025", "keyName": "kl025", "name": "Kit SN - 18 RI (Festiva, Turpial, Fiesta, Mazda 323, Picanto)", "uPrice": 7.47 },
+        { "number": "026", "keyName": "kl026", "name": "Kit de Ajuste Satélite y Planetario 4503 (M-44.4)", "uPrice": 4.22 },
+        { "number": "027", "keyName": "kl027", "name": "Araña de Tunel Ford 350, Dodge 300, mod. Nuevo", "uPrice": 1.41 },
+        { "number": "028", "keyName": "kl028", "name": "Juego de Tuerca Martillo 5/16 Ford", "uPrice": 3.12 },
+        { "number": "029", "keyName": "kl029", "name": "Juego de Tuerca Martillo 3/8 Chevrolet", "uPrice": 3.54 },
+        { "number": "036", "keyName": "kl036", "name": "Kit de Ajuste Satelite y Planetario 4503 (M-44.4) Tornillo Delgado", "uPrice": 4.22 },
+        { "number": "037", "keyName": "kl037", "name": "Pasador Diferencial M-44 Cod 17878", "uPrice": 8.80 },
+        { "number": "038", "keyName": "kl038", "name": "Pasador Diferencial Dodge Dart Cod. 193585", "uPrice": 8.80 },
+        { "number": "039", "keyName": "kl039", "name": "Pasador Diferencial Malibu Importado (Corto) Cod 11449", "uPrice": 8.80 },
+        { "number": "040", "keyName": "kl040", "name": "Pasador Diferencial M-60 Cod. 30263 Toyota ", "uPrice":11.20 },
+        { "number": "041", "keyName": "kl041", "name": "Pasador Diferencial M-70 F-350, C-30, Dodge 300 ", "uPrice":12.80 }
+    ],
+    
 }
