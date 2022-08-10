@@ -4791,5 +4791,23 @@
         { "number": "011", "keyName": "le011", "name": "Lápiz Estabilizador 7' Universal", "uPrice": 11.97 },
         { "number": "012", "keyName": "le012", "name": "Lápiz Estabilizador 8' Universal", "uPrice": 13.31 },
         { "number": "013", "keyName": "le013", "name": "Lápiz Estabilizador 9' Universal", "uPrice": 14.91 }
+    ],
+    "ga": [
+        { "number": "001", "keyName": "ga001", "name": "Gorro Valvula 4 Ranuras 11/32' Motor Ford 460 Carburador de Nylon (C38) / Motor Ford 302 Carburador de Nylon (C36) / Motor Ford 300 de Nylon (C36)", "uPrice": 0.19 },
+        { "number": "002", "keyName": "ga002", "name": "Gorro Valvula 6 Ranuras 5/16' Motor Jeep 258, CJ5 de Nylon (C36) / Motor Ford Mustang Sierra Nylon (C37) ", "uPrice": 0.19 },
+        { "number": "003", "keyName": "ga003", "name": "Gorro Valvula Liso 3/8' Motor Ford 360,370,390 de Nylon (C38) / Motor Ford 8 Cilindro De Nylon (C36) / Motor Ford 460 Carburador de Nylon (C36)", "uPrice": 0.19 },
+        { "number": "004", "keyName": "ga004", "name": "Gorro Valvula PC Azul Chevrolet Camaro Carburado (C39) / Chevrolet Monte Carlo, Camaro, Jeep (C39) / Chevrolet Cavalier 2.2, Caprice (C39) / Chevrolet C10, Nova, Caprice, Malibu (C39) / Chevrolet Celebrity, Century, Jeep(C39) / Chevrolet 305, 325, 350 (C39) / Chevrolet Motor 200, 229, 231, 250, 262, Blazer (C39)", "uPrice": 4.80 },
+        { "number": "005", "keyName": "ga005", "name": "Gorro Valvula Dodge 3/18' Dodge", "uPrice": 5.60 },
+        { "number": "006", "keyName": "ga006", "name": "Gorro Valvula Vortec (Nylon) Vortec", "uPrice": 0.13 },
+        { "number": "007", "keyName": "ga007", "name": "Kit Gorro de Valvula Vortec (Nylon) Vortec", "uPrice": 2.88 },
+        { "number": "008", "keyName": "ga008", "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Aluminio) Caliper Chevrolet 73674-X Kit (Alum)", "uPrice": 0.82 },
+        { "number": "008-H", "keyName": "ga008-H", "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Hierro) Caliper Chevrolet 73674-X Kit (Hierro)", "uPrice": 1.60 },
+        { "number": "009", "keyName": "ga009", "name": "Kit Gorro Valvula 4 Ranuras 11/32' Motor Ford 460 Carburador de Nylon (C38) / Motor Ford 302 Carburador de Nylon (C36) / Motor Ford 300 de Nylon (C36)", "uPrice": 4.80 },
+        { "number": "010", "keyName": "ga010", "name": "Kit Gorro Valvula 6 Ranuras 5/16' Motor Jeep 258, CJ5 de Nylon (C36) / Motor Ford Mustang Sierra Nylon (C37)", "uPrice": 4.80 },
+        { "number": "011", "keyName": "ga011", "name": "Kit Gorro Valvula Liso 3/8' Motor Ford 360,370,390 de Nylon (C38) / Motor Ford 8 Cilindro De Nylon (C36) / Motor Ford 460 Carburador de Nylon (C36)", "uPrice": 4.80 },
+        { "number": "012", "keyName": "ga012", "name": "Goma Base Amortiguador Arauca", "uPrice": 2.08 }
+    ], 
+    "bcd": [
+        { "number": "374", "keyName": "bcd374", "name": "Buje de Cajetin Renault Twingo / Wagon R", "uPrice": 0.48}
     ]
 }
