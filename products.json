@@ -4801,7 +4801,7 @@
         { "number": "006", "keyName": "ga006", "name": "Gorro Valvula Vortec (Nylon) Vortec", "uPrice": 0.13 },
         { "number": "007", "keyName": "ga007", "name": "Kit Gorro de Valvula Vortec (Nylon) Vortec", "uPrice": 2.88 },
         { "number": "008", "keyName": "ga008", "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Aluminio) Caliper Chevrolet 73674-X Kit (Alum)", "uPrice": 0.82 },
-        { "number": "008-H", "keyName": "ga008-H", "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Hierro) Caliper Chevrolet 73674-X Kit (Hierro)", "uPrice": 1.60 },
+        { "number": "008H", "keyName": "ga008H", "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Hierro) Caliper Chevrolet 73674-X Kit (Hierro)", "uPrice": 1.60 },
         { "number": "009", "keyName": "ga009", "name": "Kit Gorro Valvula 4 Ranuras 11/32' Motor Ford 460 Carburador de Nylon (C38) / Motor Ford 302 Carburador de Nylon (C36) / Motor Ford 300 de Nylon (C36)", "uPrice": 4.80 },
         { "number": "010", "keyName": "ga010", "name": "Kit Gorro Valvula 6 Ranuras 5/16' Motor Jeep 258, CJ5 de Nylon (C36) / Motor Ford Mustang Sierra Nylon (C37)", "uPrice": 4.80 },
         { "number": "011", "keyName": "ga011", "name": "Kit Gorro Valvula Liso 3/8' Motor Ford 360,370,390 de Nylon (C38) / Motor Ford 8 Cilindro De Nylon (C36) / Motor Ford 460 Carburador de Nylon (C36)", "uPrice": 4.80 },
