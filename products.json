@@ -4870,5 +4870,20 @@
     ], 
     "bcd": [
         { "number": "374", "keyName": "bcd374", "name": "Buje de Cajetin Renault Twingo / Wagon R", "uPrice": 0.48}
+    ],
+    "otac": [
+        {
+            "number": "001",
+            "name": "Oring Tubería de Aceite Cajetín de Dirección TrailBlazer V8",
+            "uPrice": 0.19,
+            "content": [
+                {
+                    "category": "ormm000",
+                    "number": "023",
+                    "amount": 1
+                }
+            ],
+            "keyName": "otac001"
+        }
     ]
 }
