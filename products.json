@@ -384,7 +384,7 @@
         {
             "number": "019",
             "name": "Kit para Compresor V5 NBR/NBR",
-            "uPrice": 2.83,
+            "uPrice": 2.76,
             "content": [
                 {
                     "category": "or100",
@@ -407,7 +407,7 @@
         {
             "number": "020",
             "name": "Kit para Compresor FS10-FX15 NBR/NBR",
-            "uPrice": 1.58,
+            "uPrice": 1.34,
             "content": [
                 {
                     "category": "or100",
@@ -3088,100 +3088,131 @@
     "oref": [
         {
             "number": "001",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.0528,
+            "name": "Oring Refrigeración VERDE 1/4 N",
+            "uPrice": 0.3,
             "keyName": "oref001"
         },
         {
             "number": "002",
-            "name": "Oring Refrigeración VERDE 5/16 N",
-            "uPrice": 0.0528,
+            "name": "Oring Refrigeración 5/16 N",
+            "uPrice": 0.3,
             "keyName": "oref002"
         },
         {
             "number": "003",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.06,
+            "name": "Oring Refrigeración 3/8 N",
+            "uPrice": 0.33,
             "keyName": "oref003"
         },
         {
             "number": "004",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.06,
+            "name": "Oring Refrigeración 7/16 (13/32) N",
+            "uPrice": 0.33,
             "keyName": "oref004"
         },
         {
             "number": "005",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.0768,
+            "name": "Oring Refrigeración 9/16 N",
+            "uPrice": 0.4092,
             "keyName": "oref005"
         },
         {
             "number": "006",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.0924,
+            "name": "Oring Refrigeración 11/16 N",
+            "uPrice": 0.4221,
             "keyName": "oref006"
         },
         {
             "number": "007",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.072,
+            "name": "Oring Refrigeración 1/4 Sobre Medida",
+            "uPrice": 0.45,
             "keyName": "oref007"
         },
         {
             "number": "008",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.084,
+            "name": "Oring Refrigeración 5/16 Sobre Medida",
+            "uPrice": 0.48,
             "keyName": "oref008"
         },
         {
             "number": "009",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.092,
+            "name": "Oring Refrigeración 3/8 Sobre Medida",
+            "uPrice": 0.51,
             "keyName": "oref009"
         },
         {
             "number": "010",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.108,
+            "name": "Oring Refrigeración 7/16 (13/32) Sobre Medida",
+            "uPrice": 0.54,
             "keyName": "oref010"
         },
         {
             "number": "011",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.1344,
+            "name": "Oring Refrigeración 9/16 Sobre Medida",
+            "uPrice": 0.4416,
             "keyName": "oref011"
         },
         {
             "number": "012",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.156,
+            "name": "Oring Refrigeración 11/16 Sobre Medida",
+            "uPrice": 0.4803,
             "keyName": "oref012"
         },
         {
             "number": "013",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 1.24,
+            "name": "Oring Refrigeración FX15 - FS10",
+            "uPrice": 1.7562,
             "keyName": "oref013"
         },
         {
             "number": "014",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 1.36,
+            "name": "Oring Refrigeración V5",
+            "uPrice": 1.9698,
             "keyName": "oref014"
         },
         {
             "number": "015",
-            "name": "Oring Refrigeración VERDE",
-            "uPrice": 0.2832,
+            "name": "Oring Refrigeración Culata",
+            "uPrice": 0.6165,
+            "keyName": "oref015"
+        },
+        {
+            "number": "016",
+            "name": "Oring Refrigeración 1/2 Normal",
+            "uPrice": 0.3897,
+            "keyName": "oref015"
+        },
+        {
+            "number": "017",
+            "name": "Oring Refrigeración 5/8 Normal",
+            "uPrice": 0.4155,
+            "keyName": "oref015"
+        },
+        {
+            "number": "018",
+            "name": "Oring Refrigeración 3/4 Normal",
+            "uPrice": 0.4350,
+            "keyName": "oref015"
+        },
+        {
+            "number": "019",
+            "name": "Oring Refrigeración 1/2 Sobre Medida",
+            "uPrice": 0.4287,
+            "keyName": "oref015"
+        },
+        {
+            "number": "020",
+            "name": "Oring Refrigeración 5/8 Sobre Medida",
+            "uPrice": 0.4611,
             "keyName": "oref015"
         }
+
     ],
     "orefk": [
         {
             "number": "001",
             "name": "Kit Refrigeración para",
-            "uPrice": 3.556,
+            "uPrice": 5.51,
             "keyName": "orefk001",
             "content": [
                 {
@@ -3204,7 +3235,7 @@
         {
             "number": "002",
             "name": "Kit Refrigeración para Compresor FX15FS10 Verde",
-            "uPrice": 1.909,
+            "uPrice": 3.04,
             "keyName": "orefk002",
             "content": [
                 {
@@ -3222,7 +3253,7 @@
         {
             "number": "003",
             "name": "KIT COMPRESOR PARA TOYOTA TERIUS ",
-            "uPrice": 1.8111,
+            "uPrice": 1.72,
             "keyName": "orefk003",
             "content": [
                 {
@@ -3235,7 +3266,7 @@
         {
             "number": "004",
             "name": "KIT REFREGIRACION PARA COMPRESOR VITARA ",
-            "uPrice": 1.6878,
+            "uPrice": 1.56,
             "keyName": "orefk004",
             "content": [
                 {
@@ -3253,7 +3284,7 @@
         {
             "number": "005",
             "name": "KIT REFRIGERACION PARA COMPRESOR  SISTEMA ESS CARGO 815",
-            "uPrice": 0.7275,
+            "uPrice": 1.12,
             "keyName": "orefk005",
             "content": [
                 {
