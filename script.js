@@ -1,57 +1,24 @@
-const jsonContainer = document.querySelector("#json") 
+const jsonContainer = document.querySelector("#json")
 
 const codes = [
-"OBA002",
-"OBA006",
-"OBA007",
-"OBA010",
-"OBA011",
-"OBA012",
-"OCM001",
-"OCM002",
-"OUU001",
-"OUU002",
-"OGK001",
-"OGK002",
-"OGK003",
-"OGF001",
-"OOK001",
+ "OHK001",
+ "OHG001",
+ "OFK001",
+ "OFB001", 
 ]
 
 const names = [
- "Oring Bomba de Agua 1/2 HP",
- "Oring Bomba de Agua 1 HP",
- "Oring Bomba de Agua 3/4 HP",
- "Oring Bomba de Agua Asiatica para Base de Lavadora LG Puro Cuerpo 35 - 45 - 85 Watts",
- "Oring Tapa Bomba de Agua Centrifuga 1 HP",
- "Oring Tapa Bomba de Agua Centrifuga 2 HP",
- "Oring Conector Manguera de Agua 3/8",
- "Oring Conector Manguera de Agua 3/4",
- "Oring para Unión Universal Junta Soldada Tubrica 1/2",
- "Oring para Unión Universal Junta Soldada Tubrica 3/4",
- "Kit Oring para Vastagos (100 Piezas)",
- "Kit Oring para Cuellos (120 Piezas)",
- "Kit Oring para Monomandos (40 Piezas)",
- "Oring Filtro de Agua Planta Ozono",
- "Kit Oring Bombonas de Oxigeno (140 Piezas)",
+ "Kit Oring para Reparación de gatos y Cajetines Hidráulicos (110 Piezas)",
+ "Oring Tapa Guía para Gato Tipo Botella 20 TN",
+ "Kit Oring para Frenos (200 Piezas)",
+ "Oring Bomba de Freno Wagoneer / Caprice / Malibu (10 Unidades)"
 ]
 
 const prices = [
- 0.5535,
- 0.5394,
- 0.5559,
- 0.4204,
- 1.6493,
- 2.6003,
- 0.0333,
- 0.2391,
- 0.2391,
- 0.2604,
- 4.1300,
- 9.39,
- 12.89,
- 10.55,
- 8.26,
+  13.70,
+  6.05,
+  26.08,
+  2.08,
 ]
 
 function newData(data) {
