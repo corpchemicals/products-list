@@ -1025,8 +1025,8 @@
         },
         {
             "number": "002",
-            "name": "Oring NBR para Bomba de",
-            "uPrice": 0.41,
+            "name": "Oring Bomba de Agua 1/2 HP",
+            "uPrice": 0.5535,
             "content": [
                 {
                     "category": "or100",
@@ -1077,8 +1077,8 @@
         },
         {
             "number": "006",
-            "name": "ORING BOMBA DE AGUA 1 HP",
-            "uPrice": 1.3728,
+            "name": "Oring Bomba de Agua 1 HP",
+            "uPrice": 0.5394,
             "content": [
                 {
                     "category": "or100",
@@ -1090,8 +1090,8 @@
         },
         {
             "number": "007",
-            "name": "ORING BOMBA DE AGUA 3/4 HP",
-            "uPrice": 0.4219,
+            "name": "Oring Bomba de Agua 3/4 HP",
+            "uPrice": 0.5559,
             "content": [
                 {
                     "category": "or100",
@@ -1126,6 +1126,24 @@
                 }
             ],
             "keyName": "oba009"
+        },
+        {
+            "number": "010",
+            "name": "Oring Bomba de Agua Asiatica para Base de Lavadora LG Puro Cuerpo 35 - 45 - 85 Watts",
+            "uPrice": 0.4204,
+            "keyName": "oba010"
+        },
+        {
+            "number": "011",
+            "name": "Oring Tapa Bomba de Agua Centrifuga 1 HP",
+            "uPrice": 1.6493,
+            "keyName": "oba011"
+        },
+        {
+            "number": "012",
+            "name": "Oring Tapa Bomba de Agua Centrifuga 2 HP",
+            "uPrice": 2.6003,
+            "keyName": "oba012"
         }
     ],
     "obg": [
@@ -4745,8 +4763,8 @@
     "ocm": [
         {
             "number": "001",
-            "name": "ORING CONECTOR MANGUERA DE AGUA 3/8",
-            "uPrice": 0.0319,
+            "name": "Oring Conector Manguera de Agua 3/8",
+            "uPrice": 0.0333,
             "content": [
                 {
                     "category": "or000",
@@ -4758,8 +4776,8 @@
         },
         {
             "number": "002",
-            "name": "ORING CONECTOR MANGUERA DE AGUA 3/4",
-            "uPrice": 0.2278,
+            "name": "Oring Conector Manguera de Agua 3/4",
+            "uPrice": 0.2391,
             "content": [
                 {
                     "category": "or200",
@@ -4773,8 +4791,8 @@
     "ouu": [
         {
             "number": "001",
-            "name": "ORING PARA UNION UNIVERSAL PUNTA SOLDADA TUBRICA 1/2 PULGADAS ",
-            "uPrice": 0.2278,
+            "name": "Oring para Unión Universal Junta Soldada Tubrica 1/2",
+            "uPrice": 0.2391,
             "content": [
                 {
                     "category": "or200",
@@ -4786,8 +4804,8 @@
         },
         {
             "number": "002",
-            "name": "ORING PARA UNION UNIVERSAL PUNTA SOLDADA TUBRICA3/4",
-            "uPrice": 0.248,
+            "name": "Oring para Unión Universal Junta Soldada Tubrica 3/4",
+            "uPrice": 0.2604,
             "content": [
                 {
                     "category": "or200",
@@ -4801,8 +4819,8 @@
     "ogk": [
         {
             "number": "001",
-            "name": "KIT PARA VASTAGOS (100 PIEZAS)",
-            "uPrice": 4,
+            "name": "Kit Oring para Vastagos (100 Piezas)",
+            "uPrice": 4.13,
             "content": [
                 {
                     "category": "or000",
@@ -4834,8 +4852,8 @@
         },
         {
             "number": "002",
-            "name": "KIT PARA CUELLOS (120 PIEZAS) ",
-            "uPrice": 8.98,
+            "name": "Kit Oring para Cuellos (120 Piezas)",
+            "uPrice": 9.39,
             "content": [
                 {
                     "category": "or000",
@@ -4872,8 +4890,8 @@
         },
         {
             "number": "003",
-            "name": "KIT PARA MONOMANDOS (40 PIEZAS) ",
-            "uPrice": 12.31,
+            "name": "Kit Oring para Monomandos (40 Piezas)",
+            "uPrice": 12.89,
             "content": [
                 {
                     "category": "or200",
@@ -4892,8 +4910,8 @@
     "ook": [
         {
             "number": "001",
-            "name": "KIT BOMBONAS DE OXIGEN (140 PIEZAS) ",
-            "uPrice": 7.96,
+            "name": "Kit Oring Bombonas de Oxigeno (140 Piezas)",
+            "uPrice": 8.26,
             "content": [
                 {
                     "category": "or000",
@@ -5148,7 +5166,7 @@
         {
             "number": "001",
             "name": "Oring Filtro de Agua Planta Ozono",
-            "uPrice": 1.0074,
+            "uPrice": 10.55,
             "content": [
                 {
                     "category": "or200",
