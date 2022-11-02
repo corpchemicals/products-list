@@ -3457,337 +3457,343 @@
             "number": "001",
             "keyName": "ormm001",
             "name": "Oring Milimetrico NBR 36x4",
-            "uPrice": 0.4043
+            "uPrice": 0.415
         },
         {
             "number": "002",
-            "name": "Oring NBR 4x3 mm",
-            "uPrice": 0.2258,
+            "name": "Oring Milimetrico NBR 4x3",
+            "uPrice": 0.2318,
             "keyName": "ormm002"
         },
         {
             "number": "003",
             "keyName": "ormm003",
             "name": "Oring Milimetrico NBR 8x3",
-            "uPrice": 0.197
+            "uPrice": 0.2025
         },
         {
             "number": "004",
             "keyName": "ormm004",
             "name": "Oring Milimetrico NBR 10x3",
-            "uPrice": 0.2127
+            "uPrice": 0.2187
         },
         {
             "number": "005",
             "keyName": "ormm005",
             "name": "Oring Milimetrico NBR 11x3",
-            "uPrice": 0.2153
+            "uPrice": 0.221
         },
         {
             "number": "006",
             "keyName": "ormm006",
             "name": "Oring Milimetrico NBR 12x3",
-            "uPrice": 0.2205
+            "uPrice": 0.2264
         },
         {
             "number": "007",
             "keyName": "ormm007",
             "name": "Oring Milimetrico NBR 13x3",
-            "uPrice": 0.2235
+            "uPrice": 0.2295
         },
         {
             "number": "008",
             "keyName": "ormm008",
             "name": "Oring Milimetrico NBR 14x3",
-            "uPrice": 0.2258
+            "uPrice": 0.2318
         },
         {
             "number": "009",
             "keyName": "ormm009",
             "name": "Oring Milimetrico NBR 20x3",
-            "uPrice": 0.2577
+            "uPrice": 0.2649
         },
         {
             "number": "010",
             "keyName": "ormm010",
             "name": "Oring Milimetrico NBR 28x3",
-            "uPrice": 0.3023
+            "uPrice": 0.3103
         },
         {
             "number": "011",
             "keyName": "ormm011",
             "name": "Oring Milimetrico NBR 38x3",
-            "uPrice": 0.3503
+            "uPrice": 0.3596
         },
         {
             "number": "012",
             "keyName": "ormm012",
             "name": "Oring Milimetrico NBR 40x3",
-            "uPrice": 0.3675
+            "uPrice": 0.3773
         },
         {
             "number": "013",
             "keyName": "ormm013",
             "name": "Oring Milimetrico NBR 56x3",
-            "uPrice": 0.5033
+            "uPrice": 0.5167
         },
         {
             "number": "014",
             "keyName": "ormm014",
             "name": "Oring Milimetrico NBR 84x3",
-            "uPrice": 0.6771
+            "uPrice": 0.6961
         },
         {
             "number": "015",
             "keyName": "ormm015",
             "name": "Oring Milimetrico NBR 85x3",
-            "uPrice": 0.684
+            "uPrice": 0.7022
         },
         {
             "number": "016",
             "keyName": "ormm016",
             "name": "Oring Milimetrico NBR 96x3",
-            "uPrice": 0.7583
+            "uPrice": 0.7785
         },
         {
             "number": "017",
             "keyName": "ormm017",
             "name": "Oring Milimetrico NBR 99x3",
-            "uPrice": 0.798
+            "uPrice": 0.8193
         },
         {
             "number": "018",
             "keyName": "ormm018",
             "name": "Oring Milimetrico NBR 101x3",
-            "uPrice": 0.8168
+            "uPrice": 0.8385
         },
         {
             "number": "019",
             "keyName": "ormm019",
             "name": "Oring Milimetrico NBR 109x3",
-            "uPrice": 0.8813
+            "uPrice": 0.9048
         },
         {
             "number": "020",
             "keyName": "ormm020",
             "name": "Oring Milimetrico NBR 142x3",
-            "uPrice": 1.1903
+            "uPrice": 1.222
         },
         {
             "number": "021",
             "keyName": "ormm021",
             "name": "Oring Milimetrico NBR 4x2",
-            "uPrice": 0.1808
+            "uPrice": 0.1856
         },
         {
             "number": "022",
             "keyName": "ormm022",
             "name": "Oring Milimetrico NBR 5x2",
-            "uPrice": 0.1823
+            "uPrice": 0.1871
         },
         {
             "number": "023",
             "keyName": "ormm023",
             "name": "Oring Milimetrico NBR 6x2",
-            "uPrice": 0.186
+            "uPrice": 0.191
         },
         {
             "number": "024",
             "keyName": "ormm024",
             "name": "Oring Milimetrico NBR 7x2",
-            "uPrice": 0.1875
+            "uPrice": 0.1925
         },
         {
             "number": "025",
             "keyName": "ormm025",
             "name": "Oring Milimetrico NBR 8x2",
-            "uPrice": 0.189
+            "uPrice": 0.194
         },
         {
             "number": "026",
             "keyName": "ormm026",
             "name": "Oring Milimetrico NBR 9x2",
-            "uPrice": 0.1905
+            "uPrice": 0.1956
         },
         {
             "number": "027",
             "keyName": "ormm027",
             "name": "Oring Milimetrico NBR 10x2",
-            "uPrice": 0.1905
+            "uPrice": 0.1956
         },
         {
             "number": "028",
             "keyName": "ormm028",
             "name": "Oring Milimetrico NBR 11x2",
-            "uPrice": 0.1928
+            "uPrice": 0.1979
         },
         {
             "number": "029",
             "keyName": "ormm029",
             "name": "Oring Milimetrico NBR 12x2",
-            "uPrice": 0.1973
+            "uPrice": 0.2025
         },
         {
             "number": "030",
             "keyName": "ormm030",
             "name": "Oring Milimetrico NBR 13x2",
-            "uPrice": 0.1995
+            "uPrice": 0.2048
         },
         {
             "number": "031",
             "keyName": "ormm031",
             "name": "Oring Milimetrico NBR 14x2",
-            "uPrice": 0.2033
+            "uPrice": 0.2087
         },
         {
             "number": "032",
             "keyName": "ormm032",
             "name": "Oring Milimetrico NBR 15x2",
-            "uPrice": 0.2078
+            "uPrice": 0.2133
         },
         {
             "number": "033",
             "keyName": "ormm033",
             "name": "Oring Milimetrico NBR 16x2",
-            "uPrice": 0.2085
+            "uPrice": 0.2141
         },
         {
             "number": "034",
             "keyName": "ormm034",
             "name": "Oring Milimetrico NBR 17x2",
-            "uPrice": 0.213
+            "uPrice": 0.2187
         },
         {
             "number": "035",
             "keyName": "ormm035",
             "name": "Oring Milimetrico NBR 18x2",
-            "uPrice": 0.2168
+            "uPrice": 0.2225
         },
         {
             "number": "036",
             "keyName": "ormm036",
             "name": "Oring Milimetrico NBR 19x2",
-            "uPrice": 0.2205
+            "uPrice": 0.2264
         },
         {
             "number": "037",
             "keyName": "ormm037",
             "name": "Oring Milimetrico NBR 20x2",
-            "uPrice": 0.2258
+            "uPrice": 0.2318
         },
         {
             "number": "038",
             "keyName": "ormm038",
             "name": "Oring Milimetrico NBR 21x2",
-            "uPrice": 0.2303
+            "uPrice": 0.2364
         },
         {
             "number": "039",
             "keyName": "ormm039",
             "name": "Oring Milimetrico NBR 22x2",
-            "uPrice": 0.2355
+            "uPrice": 0.2418
         },
         {
             "number": "040",
             "keyName": "ormm040",
             "name": "Oring Milimetrico NBR 23x2",
-            "uPrice": 0.2378
+            "uPrice": 0.2441
         },
         {
             "number": "041",
             "keyName": "ormm041",
             "name": "Oring Milimetrico NBR 75x2",
-            "uPrice": 0.5205
+            "uPrice": 0.5344
         },
         {
             "number": "042",
             "keyName": "ormm042",
             "name": "Oring Milimetrico NBR 10x2.5",
-            "uPrice": 0.201
+            "uPrice": 0.2064
         },
         {
             "number": "043",
             "keyName": "ormm043",
             "name": "Oring Milimetrico NBR 20x4",
-            "uPrice": 0.2963
+            "uPrice": 0.3042
         },
         {
             "number": "044",
             "keyName": "ormm044",
             "name": "Oring Milimetrico NBR 21x4",
-            "uPrice": 0.3068
+            "uPrice": 0.3149
         },
         {
             "number": "045",
             "keyName": "ormm045",
             "name": "Oring Milimetrico NBR 27x4",
-            "uPrice": 0.3518
+            "uPrice": 0.3611
         },
         {
             "number": "046",
             "keyName": "ormm046",
             "name": "Oring Milimetrico NBR 28x4",
-            "uPrice": 0.357
+            "uPrice": 0.3665
         },
         {
             "number": "047",
             "keyName": "ormm047",
             "name": "Oring Milimetrico NBR 30x4",
-            "uPrice": 0.3698
+            "uPrice": 0.3796
         },
         {
             "number": "048",
             "keyName": "ormm048",
             "name": "Oring Milimetrico NBR 32x4",
-            "uPrice": 0.3848
+            "uPrice": 0.395
         },
         {
             "number": "049",
             "keyName": "ormm049",
             "name": "Oring Milimetrico NBR 33x4",
-            "uPrice": 0.3885
+            "uPrice": 0.3989
         },
         {
             "number": "050",
             "keyName": "ormm050",
             "name": "Oring Milimetrico NBR 34x4",
-            "uPrice": 0.3908
+            "uPrice": 0.4012
         },
         {
             "number": "051",
             "keyName": "ormm051",
             "name": "Oring Milimetrico NBR 35x4",
-            "uPrice": 0.3968
+            "uPrice": 0.4073
         },
         {
             "number": "052",
             "keyName": "ormm052",
             "name": "Oring Milimetrico NBR 55x4",
-            "uPrice": 0.6075
+            "uPrice": 0.6237
         },
         {
             "number": "053",
             "keyName": "ormm053",
             "name": "Oring Milimetrico NBR 46x4",
-            "uPrice": 0.4965
+            "uPrice": 0.5097
         },
         {
             "number": "054",
             "keyName": "ormm054",
             "name": "Oring Milimetrico NBR 18x6",
-            "uPrice": 0.456
+            "uPrice": 0.4682
         },
         {
             "number": "055",
             "keyName": "ormm055",
             "name": "Oring Milimetrico NBR 22x6",
-            "uPrice": 0.4823
+            "uPrice": 0.4951
         },
         {
             "number": "056",
             "keyName": "ormm056",
             "name": "Oring Milimetrico NBR 16x7",
-            "uPrice": 0.4635
+            "uPrice": 0.4759
+        },
+        {
+            "number": "057",
+            "name": "Oring Milimetrico NBR 91.92x2.95",
+            "uPrice": 0.8109,
+            "keyName": "ormm057"
         }
     ],
     "orv": [
