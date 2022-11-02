@@ -383,7 +383,7 @@
         },
         {
             "number": "019",
-            "name": "Kit para Compresor V5 NBR/NBR",
+            "name": "Kit Refrigeración para Compresor Autom. V5 (Aveo - Optra - Corsa - Cavalier)",
             "uPrice": 2.76,
             "content": [
                 {
@@ -406,7 +406,7 @@
         },
         {
             "number": "020",
-            "name": "Kit para Compresor FS10-FX15 NBR/NBR",
+            "name": "Kit Refrigeración para Compresor Autom. FX15 - FS10 (Ford - Ecosport - Fiesta Power)",
             "uPrice": 1.34,
             "content": [
                 {
@@ -846,7 +846,7 @@
         {
             "number": "038",
             "name": "Kit Inyección Asiático Terios 4 Cil. NBR/NBR",
-            "uPrice": 1.60,
+            "uPrice": 1.6,
             "content": [
                 {
                     "category": "oiny",
@@ -937,7 +937,7 @@
         {
             "number": "012",
             "name": "Oring Asiento Asiático Alto NBR",
-            "uPrice": 0.20,
+            "uPrice": 0.2,
             "keyName": "oiny012"
         }
     ],
@@ -999,13 +999,13 @@
         {
             "number": "010",
             "name": "Microfiltro TBI T-Cesta (Nissan D21)",
-            "uPrice": 0.4050,
+            "uPrice": 0.405,
             "keyName": "mic010"
         },
         {
             "number": "011",
             "name": "Microfiltro TBI SUP T-Cesta (Cavalier/Blazer/Grand Blazer/Silverado/Cheyenne)",
-            "uPrice": 0.3420,
+            "uPrice": 0.342,
             "keyName": "mic011"
         }
     ],
@@ -1103,7 +1103,7 @@
         },
         {
             "number": "008",
-            "name": "Oring Bomba de Agua   Peugeot 206 / 207 Motor 1.4 / Partmet",
+            "name": "Oring Bomba de Agua Peugeot 206 / 207 Motor 1.4 / Partmet",
             "uPrice": 0.54,
             "content": [
                 {
@@ -1309,7 +1309,7 @@
         },
         {
             "number": "003",
-            "name": "ORING DISTRIBUIDOR TAPA BASE BOBINA  FESTIVA ",
+            "name": "ORING DISTRIBUIDOR TAPA BASE BOBINA FESTIVA ",
             "uPrice": 0.3522,
             "content": [
                 {
@@ -3088,131 +3088,130 @@
     "oref": [
         {
             "number": "001",
-            "name": "Oring Refrigeración VERDE 1/4 N",
-            "uPrice": 0.3,
+            "name": "Oring de Refrigeración 1/4 Normal",
+            "uPrice": 0.2331,
             "keyName": "oref001"
         },
         {
             "number": "002",
-            "name": "Oring Refrigeración 5/16 N",
-            "uPrice": 0.3,
+            "name": "Oring de Refrigeración 5/16 Normal",
+            "uPrice": 0.2331,
             "keyName": "oref002"
         },
         {
             "number": "003",
-            "name": "Oring Refrigeración 3/8 N",
-            "uPrice": 0.33,
+            "name": "Oring de Refrigeración 3/8 Normal",
+            "uPrice": 0.2331,
             "keyName": "oref003"
         },
         {
             "number": "004",
-            "name": "Oring Refrigeración 7/16 (13/32) N",
-            "uPrice": 0.33,
+            "name": "Oring de Refrigeración 7/16 (13/32) Normal",
+            "uPrice": 0.2331,
             "keyName": "oref004"
         },
         {
             "number": "005",
-            "name": "Oring Refrigeración 9/16 N",
-            "uPrice": 0.4092,
+            "name": "Oring de Refrigeración 9/16 Normal",
+            "uPrice": 0.2526,
             "keyName": "oref005"
         },
         {
             "number": "006",
-            "name": "Oring Refrigeración 11/16 N",
-            "uPrice": 0.4221,
+            "name": "Oring de Refrigeración 11/16 Normal",
+            "uPrice": 0.2655,
             "keyName": "oref006"
         },
         {
             "number": "007",
-            "name": "Oring Refrigeración 1/4 Sobre Medida",
-            "uPrice": 0.45,
+            "name": "Oring de Refrigeración 1/4 Sobre Medida",
+            "uPrice": 0.2721,
             "keyName": "oref007"
         },
         {
             "number": "008",
-            "name": "Oring Refrigeración 5/16 Sobre Medida",
-            "uPrice": 0.48,
+            "name": "Oring de Refrigeración 5/16 Sobre Medida",
+            "uPrice": 0.2721,
             "keyName": "oref008"
         },
         {
             "number": "009",
-            "name": "Oring Refrigeración 3/8 Sobre Medida",
-            "uPrice": 0.51,
+            "name": "Oring de Refrigeración 3/8 Sobre Medida",
+            "uPrice": 0.2721,
             "keyName": "oref009"
         },
         {
             "number": "010",
-            "name": "Oring Refrigeración 7/16 (13/32) Sobre Medida",
-            "uPrice": 0.54,
+            "name": "Oring de Refrigeración 7/16 (13/32) Sobre Medida",
+            "uPrice": 0.2721,
             "keyName": "oref010"
         },
         {
             "number": "011",
-            "name": "Oring Refrigeración 9/16 Sobre Medida",
-            "uPrice": 0.4416,
+            "name": "Oring de Refrigeración 9/16 Sobre Medida",
+            "uPrice": 0.285,
             "keyName": "oref011"
         },
         {
             "number": "012",
-            "name": "Oring Refrigeración 11/16 Sobre Medida",
-            "uPrice": 0.4803,
+            "name": "Oring de Refrigeración 11/16 Sobre Medida",
+            "uPrice": 0.3237,
             "keyName": "oref012"
         },
         {
             "number": "013",
-            "name": "Oring Refrigeración FX15 - FS10",
-            "uPrice": 1.7562,
+            "name": "Oring de Refrigeración FX15 - FS10",
+            "uPrice": 1.5996,
             "keyName": "oref013"
         },
         {
             "number": "014",
-            "name": "Oring Refrigeración V5",
-            "uPrice": 1.9698,
+            "name": "Oring de Refrigeración V5",
+            "uPrice": 1.8132,
             "keyName": "oref014"
         },
         {
             "number": "015",
-            "name": "Oring Refrigeración Culata",
-            "uPrice": 0.6165,
+            "name": "Oring de Refrigeración Culata",
+            "uPrice": 0.4599,
             "keyName": "oref015"
         },
         {
             "number": "016",
-            "name": "Oring Refrigeración 1/2 Normal",
-            "uPrice": 0.3897,
-            "keyName": "oref015"
+            "name": "Oring de Refrigeración 1/2 Normal",
+            "uPrice": 0.2331,
+            "keyName": "oref016"
         },
         {
             "number": "017",
-            "name": "Oring Refrigeración 5/8 Normal",
-            "uPrice": 0.4155,
-            "keyName": "oref015"
+            "name": "Oring de Refrigeración 5/8 Normal",
+            "uPrice": 0.2589,
+            "keyName": "oref017"
         },
         {
             "number": "018",
-            "name": "Oring Refrigeración 3/4 Normal",
-            "uPrice": 0.4350,
-            "keyName": "oref015"
+            "name": "Oring de Refrigeración 3/4 Normal",
+            "uPrice": 0.2784,
+            "keyName": "oref018"
         },
         {
             "number": "019",
-            "name": "Oring Refrigeración 1/2 Sobre Medida",
-            "uPrice": 0.4287,
-            "keyName": "oref015"
+            "name": "Oring de Refrigeración 1/2 Sobre Medida",
+            "uPrice": 0.2721,
+            "keyName": "oref019"
         },
         {
             "number": "020",
-            "name": "Oring Refrigeración 5/8 Sobre Medida",
-            "uPrice": 0.4611,
-            "keyName": "oref015"
+            "name": "Oring de Refrigeración 5/8 Sobre Medida",
+            "uPrice": 0.3045,
+            "keyName": "oref020"
         }
-
     ],
     "orefk": [
         {
             "number": "001",
-            "name": "Kit Refrigeración para",
-            "uPrice": 5.51,
+            "name": "Kit Refrigeración para Compresor Autom. V5 (Aveo - Optra - Corsa - Cavalier)",
+            "uPrice": 4.88,
             "keyName": "orefk001",
             "content": [
                 {
@@ -3234,8 +3233,8 @@
         },
         {
             "number": "002",
-            "name": "Kit Refrigeración para Compresor FX15FS10 Verde",
-            "uPrice": 3.04,
+            "name": "Kit Refrigeración para Compresor Autom. FX15 - FS10 (Ford - Ecosport - Fiesta Power)",
+            "uPrice": 2.57,
             "keyName": "orefk002",
             "content": [
                 {
@@ -3252,7 +3251,7 @@
         },
         {
             "number": "003",
-            "name": "KIT COMPRESOR PARA TOYOTA TERIUS ",
+            "name": "Kit Refrigeración para Compresor Toyota Terius",
             "uPrice": 1.72,
             "keyName": "orefk003",
             "content": [
@@ -3265,7 +3264,7 @@
         },
         {
             "number": "004",
-            "name": "KIT REFREGIRACION PARA COMPRESOR VITARA ",
+            "name": "Kit Refrigeración para Compresor Vitara",
             "uPrice": 1.56,
             "keyName": "orefk004",
             "content": [
@@ -3283,8 +3282,8 @@
         },
         {
             "number": "005",
-            "name": "KIT REFRIGERACION PARA COMPRESOR  SISTEMA ESS CARGO 815",
-            "uPrice": 1.12,
+            "name": "Kit Refrigeración para Compresor Sistema ESS Cargo 815",
+            "uPrice": 0.75,
             "keyName": "orefk005",
             "content": [
                 {
@@ -3306,67 +3305,342 @@
         }
     ],
     "ormm": [
-        { "number": "001", "keyName": "ormm001", "name": "Oring Milimetrico NBR 36x4", "uPrice": 0.4043 },
+        {
+            "number": "001",
+            "keyName": "ormm001",
+            "name": "Oring Milimetrico NBR 36x4",
+            "uPrice": 0.4043
+        },
         {
             "number": "002",
             "name": "Oring NBR 4x3 mm",
             "uPrice": 0.2258,
             "keyName": "ormm001"
         },
-        { "number": "003", "keyName": "ormm003", "name": "Oring Milimetrico NBR 8x3", "uPrice": 0.1970 },
-        { "number": "004", "keyName": "ormm004", "name": "Oring Milimetrico NBR 10x3", "uPrice": 0.2127 },
-        { "number": "005", "keyName": "ormm005", "name": "Oring Milimetrico NBR 11x3", "uPrice": 0.2153 },
-        { "number": "006", "keyName": "ormm006", "name": "Oring Milimetrico NBR 12x3", "uPrice": 0.2205 },
-        { "number": "007", "keyName": "ormm007", "name": "Oring Milimetrico NBR 13x3", "uPrice": 0.2235 },
-        { "number": "008", "keyName": "ormm008", "name": "Oring Milimetrico NBR 14x3", "uPrice": 0.2258 },
-        { "number": "009", "keyName": "ormm009", "name": "Oring Milimetrico NBR 20x3", "uPrice": 0.2577 },
-        { "number": "010", "keyName": "ormm010", "name": "Oring Milimetrico NBR 28x3", "uPrice": 0.3023 },
-        { "number": "011", "keyName": "ormm011", "name": "Oring Milimetrico NBR 38x3", "uPrice": 0.3503 },
-        { "number": "012", "keyName": "ormm012", "name": "Oring Milimetrico NBR 40x3", "uPrice": 0.3675 },
-        { "number": "013", "keyName": "ormm013", "name": "Oring Milimetrico NBR 56x3", "uPrice": 0.5033 },
-        { "number": "014", "keyName": "ormm014", "name": "Oring Milimetrico NBR 84x3", "uPrice": 0.6771 },
-        { "number": "015", "keyName": "ormm015", "name": "Oring Milimetrico NBR 85x3", "uPrice": 0.6840 },
-        { "number": "016", "keyName": "ormm016", "name": "Oring Milimetrico NBR 96x3", "uPrice": 0.7583 },
-        { "number": "017", "keyName": "ormm017", "name": "Oring Milimetrico NBR 99x3", "uPrice": 0.7980 },
-        { "number": "018", "keyName": "ormm018", "name": "Oring Milimetrico NBR 101x3", "uPrice": 0.8168 },
-        { "number": "019", "keyName": "ormm019", "name": "Oring Milimetrico NBR 109x3", "uPrice": 0.8813 },
-        { "number": "020", "keyName": "ormm020", "name": "Oring Milimetrico NBR 142x3", "uPrice": 1.1903 },
-        { "number": "021", "keyName": "ormm021", "name": "Oring Milimetrico NBR 4x2", "uPrice": 0.1808 },
-        { "number": "022", "keyName": "ormm022", "name": "Oring Milimetrico NBR 5x2", "uPrice": 0.1823 },
-        { "number": "023", "keyName": "ormm023", "name": "Oring Milimetrico NBR 6x2", "uPrice": 0.1860 },
-        { "number": "024", "keyName": "ormm024", "name": "Oring Milimetrico NBR 7x2", "uPrice": 0.1875 },
-        { "number": "025", "keyName": "ormm025", "name": "Oring Milimetrico NBR 8x2", "uPrice": 0.1890 },
-        { "number": "026", "keyName": "ormm026", "name": "Oring Milimetrico NBR 9x2", "uPrice": 0.1905 },
-        { "number": "027", "keyName": "ormm027", "name": "Oring Milimetrico NBR 10x2", "uPrice": 0.1905 },
-        { "number": "028", "keyName": "ormm028", "name": "Oring Milimetrico NBR 11x2", "uPrice": 0.1928 },
-        { "number": "029", "keyName": "ormm029", "name": "Oring Milimetrico NBR 12x2", "uPrice": 0.1973 },
-        { "number": "030", "keyName": "ormm030", "name": "Oring Milimetrico NBR 13x2", "uPrice": 0.1995 },
-        { "number": "031", "keyName": "ormm031", "name": "Oring Milimetrico NBR 14x2", "uPrice": 0.2033 },
-        { "number": "032", "keyName": "ormm032", "name": "Oring Milimetrico NBR 15x2", "uPrice": 0.2078 },
-        { "number": "033", "keyName": "ormm033", "name": "Oring Milimetrico NBR 16x2", "uPrice": 0.2085 },
-        { "number": "034", "keyName": "ormm034", "name": "Oring Milimetrico NBR 17x2", "uPrice": 0.2130 },
-        { "number": "035", "keyName": "ormm035", "name": "Oring Milimetrico NBR 18x2", "uPrice": 0.2168 },
-        { "number": "036", "keyName": "ormm036", "name": "Oring Milimetrico NBR 19x2", "uPrice": 0.2205 },
-        { "number": "037", "keyName": "ormm037", "name": "Oring Milimetrico NBR 20x2", "uPrice": 0.2258 },
-        { "number": "038", "keyName": "ormm038", "name": "Oring Milimetrico NBR 21x2", "uPrice": 0.2303 },
-        { "number": "039", "keyName": "ormm039", "name": "Oring Milimetrico NBR 22x2", "uPrice": 0.2355 },
-        { "number": "040", "keyName": "ormm040", "name": "Oring Milimetrico NBR 23x2", "uPrice": 0.2378 },
-        { "number": "041", "keyName": "ormm041", "name": "Oring Milimetrico NBR 75x2", "uPrice": 0.5205 },
-        { "number": "042", "keyName": "ormm042", "name": "Oring Milimetrico NBR 10x2.5", "uPrice": 0.2010 },
-        { "number": "043", "keyName": "ormm043", "name": "Oring Milimetrico NBR 20x4", "uPrice": 0.2963 },
-        { "number": "044", "keyName": "ormm044", "name": "Oring Milimetrico NBR 21x4", "uPrice": 0.3068 },
-        { "number": "045", "keyName": "ormm045", "name": "Oring Milimetrico NBR 27x4", "uPrice": 0.3518 },
-        { "number": "046", "keyName": "ormm046", "name": "Oring Milimetrico NBR 28x4", "uPrice": 0.3570 },
-        { "number": "047", "keyName": "ormm047", "name": "Oring Milimetrico NBR 30x4", "uPrice": 0.3698 },
-        { "number": "048", "keyName": "ormm048", "name": "Oring Milimetrico NBR 32x4", "uPrice": 0.3848 },
-        { "number": "049", "keyName": "ormm049", "name": "Oring Milimetrico NBR 33x4", "uPrice": 0.3885 },
-        { "number": "050", "keyName": "ormm050", "name": "Oring Milimetrico NBR 34x4", "uPrice": 0.3908 },
-        { "number": "051", "keyName": "ormm051", "name": "Oring Milimetrico NBR 35x4", "uPrice": 0.3968 },
-        { "number": "052", "keyName": "ormm052", "name": "Oring Milimetrico NBR 55x4", "uPrice": 0.6075 },
-        { "number": "053", "keyName": "ormm053", "name": "Oring Milimetrico NBR 46x4", "uPrice": 0.4965 },
-        { "number": "054", "keyName": "ormm054", "name": "Oring Milimetrico NBR 18x6", "uPrice": 0.4560 },
-        { "number": "055", "keyName": "ormm055", "name": "Oring Milimetrico NBR 22x6", "uPrice": 0.4823 },
-        { "number": "056", "keyName": "ormm056", "name": "Oring Milimetrico NBR 16x7", "uPrice": 0.4635 }
+        {
+            "number": "003",
+            "keyName": "ormm003",
+            "name": "Oring Milimetrico NBR 8x3",
+            "uPrice": 0.197
+        },
+        {
+            "number": "004",
+            "keyName": "ormm004",
+            "name": "Oring Milimetrico NBR 10x3",
+            "uPrice": 0.2127
+        },
+        {
+            "number": "005",
+            "keyName": "ormm005",
+            "name": "Oring Milimetrico NBR 11x3",
+            "uPrice": 0.2153
+        },
+        {
+            "number": "006",
+            "keyName": "ormm006",
+            "name": "Oring Milimetrico NBR 12x3",
+            "uPrice": 0.2205
+        },
+        {
+            "number": "007",
+            "keyName": "ormm007",
+            "name": "Oring Milimetrico NBR 13x3",
+            "uPrice": 0.2235
+        },
+        {
+            "number": "008",
+            "keyName": "ormm008",
+            "name": "Oring Milimetrico NBR 14x3",
+            "uPrice": 0.2258
+        },
+        {
+            "number": "009",
+            "keyName": "ormm009",
+            "name": "Oring Milimetrico NBR 20x3",
+            "uPrice": 0.2577
+        },
+        {
+            "number": "010",
+            "keyName": "ormm010",
+            "name": "Oring Milimetrico NBR 28x3",
+            "uPrice": 0.3023
+        },
+        {
+            "number": "011",
+            "keyName": "ormm011",
+            "name": "Oring Milimetrico NBR 38x3",
+            "uPrice": 0.3503
+        },
+        {
+            "number": "012",
+            "keyName": "ormm012",
+            "name": "Oring Milimetrico NBR 40x3",
+            "uPrice": 0.3675
+        },
+        {
+            "number": "013",
+            "keyName": "ormm013",
+            "name": "Oring Milimetrico NBR 56x3",
+            "uPrice": 0.5033
+        },
+        {
+            "number": "014",
+            "keyName": "ormm014",
+            "name": "Oring Milimetrico NBR 84x3",
+            "uPrice": 0.6771
+        },
+        {
+            "number": "015",
+            "keyName": "ormm015",
+            "name": "Oring Milimetrico NBR 85x3",
+            "uPrice": 0.684
+        },
+        {
+            "number": "016",
+            "keyName": "ormm016",
+            "name": "Oring Milimetrico NBR 96x3",
+            "uPrice": 0.7583
+        },
+        {
+            "number": "017",
+            "keyName": "ormm017",
+            "name": "Oring Milimetrico NBR 99x3",
+            "uPrice": 0.798
+        },
+        {
+            "number": "018",
+            "keyName": "ormm018",
+            "name": "Oring Milimetrico NBR 101x3",
+            "uPrice": 0.8168
+        },
+        {
+            "number": "019",
+            "keyName": "ormm019",
+            "name": "Oring Milimetrico NBR 109x3",
+            "uPrice": 0.8813
+        },
+        {
+            "number": "020",
+            "keyName": "ormm020",
+            "name": "Oring Milimetrico NBR 142x3",
+            "uPrice": 1.1903
+        },
+        {
+            "number": "021",
+            "keyName": "ormm021",
+            "name": "Oring Milimetrico NBR 4x2",
+            "uPrice": 0.1808
+        },
+        {
+            "number": "022",
+            "keyName": "ormm022",
+            "name": "Oring Milimetrico NBR 5x2",
+            "uPrice": 0.1823
+        },
+        {
+            "number": "023",
+            "keyName": "ormm023",
+            "name": "Oring Milimetrico NBR 6x2",
+            "uPrice": 0.186
+        },
+        {
+            "number": "024",
+            "keyName": "ormm024",
+            "name": "Oring Milimetrico NBR 7x2",
+            "uPrice": 0.1875
+        },
+        {
+            "number": "025",
+            "keyName": "ormm025",
+            "name": "Oring Milimetrico NBR 8x2",
+            "uPrice": 0.189
+        },
+        {
+            "number": "026",
+            "keyName": "ormm026",
+            "name": "Oring Milimetrico NBR 9x2",
+            "uPrice": 0.1905
+        },
+        {
+            "number": "027",
+            "keyName": "ormm027",
+            "name": "Oring Milimetrico NBR 10x2",
+            "uPrice": 0.1905
+        },
+        {
+            "number": "028",
+            "keyName": "ormm028",
+            "name": "Oring Milimetrico NBR 11x2",
+            "uPrice": 0.1928
+        },
+        {
+            "number": "029",
+            "keyName": "ormm029",
+            "name": "Oring Milimetrico NBR 12x2",
+            "uPrice": 0.1973
+        },
+        {
+            "number": "030",
+            "keyName": "ormm030",
+            "name": "Oring Milimetrico NBR 13x2",
+            "uPrice": 0.1995
+        },
+        {
+            "number": "031",
+            "keyName": "ormm031",
+            "name": "Oring Milimetrico NBR 14x2",
+            "uPrice": 0.2033
+        },
+        {
+            "number": "032",
+            "keyName": "ormm032",
+            "name": "Oring Milimetrico NBR 15x2",
+            "uPrice": 0.2078
+        },
+        {
+            "number": "033",
+            "keyName": "ormm033",
+            "name": "Oring Milimetrico NBR 16x2",
+            "uPrice": 0.2085
+        },
+        {
+            "number": "034",
+            "keyName": "ormm034",
+            "name": "Oring Milimetrico NBR 17x2",
+            "uPrice": 0.213
+        },
+        {
+            "number": "035",
+            "keyName": "ormm035",
+            "name": "Oring Milimetrico NBR 18x2",
+            "uPrice": 0.2168
+        },
+        {
+            "number": "036",
+            "keyName": "ormm036",
+            "name": "Oring Milimetrico NBR 19x2",
+            "uPrice": 0.2205
+        },
+        {
+            "number": "037",
+            "keyName": "ormm037",
+            "name": "Oring Milimetrico NBR 20x2",
+            "uPrice": 0.2258
+        },
+        {
+            "number": "038",
+            "keyName": "ormm038",
+            "name": "Oring Milimetrico NBR 21x2",
+            "uPrice": 0.2303
+        },
+        {
+            "number": "039",
+            "keyName": "ormm039",
+            "name": "Oring Milimetrico NBR 22x2",
+            "uPrice": 0.2355
+        },
+        {
+            "number": "040",
+            "keyName": "ormm040",
+            "name": "Oring Milimetrico NBR 23x2",
+            "uPrice": 0.2378
+        },
+        {
+            "number": "041",
+            "keyName": "ormm041",
+            "name": "Oring Milimetrico NBR 75x2",
+            "uPrice": 0.5205
+        },
+        {
+            "number": "042",
+            "keyName": "ormm042",
+            "name": "Oring Milimetrico NBR 10x2.5",
+            "uPrice": 0.201
+        },
+        {
+            "number": "043",
+            "keyName": "ormm043",
+            "name": "Oring Milimetrico NBR 20x4",
+            "uPrice": 0.2963
+        },
+        {
+            "number": "044",
+            "keyName": "ormm044",
+            "name": "Oring Milimetrico NBR 21x4",
+            "uPrice": 0.3068
+        },
+        {
+            "number": "045",
+            "keyName": "ormm045",
+            "name": "Oring Milimetrico NBR 27x4",
+            "uPrice": 0.3518
+        },
+        {
+            "number": "046",
+            "keyName": "ormm046",
+            "name": "Oring Milimetrico NBR 28x4",
+            "uPrice": 0.357
+        },
+        {
+            "number": "047",
+            "keyName": "ormm047",
+            "name": "Oring Milimetrico NBR 30x4",
+            "uPrice": 0.3698
+        },
+        {
+            "number": "048",
+            "keyName": "ormm048",
+            "name": "Oring Milimetrico NBR 32x4",
+            "uPrice": 0.3848
+        },
+        {
+            "number": "049",
+            "keyName": "ormm049",
+            "name": "Oring Milimetrico NBR 33x4",
+            "uPrice": 0.3885
+        },
+        {
+            "number": "050",
+            "keyName": "ormm050",
+            "name": "Oring Milimetrico NBR 34x4",
+            "uPrice": 0.3908
+        },
+        {
+            "number": "051",
+            "keyName": "ormm051",
+            "name": "Oring Milimetrico NBR 35x4",
+            "uPrice": 0.3968
+        },
+        {
+            "number": "052",
+            "keyName": "ormm052",
+            "name": "Oring Milimetrico NBR 55x4",
+            "uPrice": 0.6075
+        },
+        {
+            "number": "053",
+            "keyName": "ormm053",
+            "name": "Oring Milimetrico NBR 46x4",
+            "uPrice": 0.4965
+        },
+        {
+            "number": "054",
+            "keyName": "ormm054",
+            "name": "Oring Milimetrico NBR 18x6",
+            "uPrice": 0.456
+        },
+        {
+            "number": "055",
+            "keyName": "ormm055",
+            "name": "Oring Milimetrico NBR 22x6",
+            "uPrice": 0.4823
+        },
+        {
+            "number": "056",
+            "keyName": "ormm056",
+            "name": "Oring Milimetrico NBR 16x7",
+            "uPrice": 0.4635
+        }
     ],
     "orv": [
         {
@@ -4334,7 +4608,7 @@
         },
         {
             "number": "002",
-            "name": "ORING PARA UNION UNIVERSAL PUNTA SOLDADA  TUBRICA3/4",
+            "name": "ORING PARA UNION UNIVERSAL PUNTA SOLDADA TUBRICA3/4",
             "uPrice": 0.248,
             "content": [
                 {
@@ -4756,7 +5030,7 @@
         {
             "number": "001",
             "name": "Oring Martillera o Cuchara inferior",
-            "uPrice": 0.10,
+            "uPrice": 0.1,
             "content": [
                 {
                     "category": "or100",
@@ -4811,96 +5085,506 @@
         }
     ],
     "kl": [
-        { "number": "001", "keyName": "kl001", "name": "Kit 706376 - X (M-44)", "uPrice": 4.94 },
-        { "number": "002", "keyName": "kl002", "name": "Kit 706213 - X (M-70)", "uPrice": 7.89 },
-        { "number": "003", "keyName": "kl003", "name": "Kit 706375 - X (M-60)", "uPrice": 7.89 },
-        { "number": "004", "keyName": "kl004", "name": "Kit Empacadura Diferencial M44", "uPrice": 0.75 },
-        { "number": "005", "keyName": "kl005", "name": "Kit Empacadura Diferencial M70", "uPrice": 0.94 },
-        { "number": "006", "keyName": "kl006", "name": "Kit Empacadura Diferencial Spicer", "uPrice": 0.94 },
-        { "number": "007", "keyName": "kl007", "name": "Kit Planetario 3231 (M-44)", "uPrice": 3.17 },
-        { "number": "008", "keyName": "kl008", "name": "Kit de Ajuste Satelite y Planetario 3233 (M-70)", "uPrice": 3.47 },
-        { "number": "009", "keyName": "kl009", "name": "Kit de Ajuste Satelite y Planetario 3232 (M-60)", "uPrice": 3.47 },
-        { "number": "010", "keyName": "kl010", "name": "Araña de Tunel Ford 350, Dodge 300, Mod Viejo 16-A (Pin angosto)", "uPrice": 1.41 },
-        { "number": "011", "keyName": "kl011", "name": "Kit 706375 - XX Spicer", "uPrice": 5.04 },
-        { "number": "013", "keyName": "kl013", "name": "Araña Tunel C-30 Trasera Cod. 11", "uPrice": 1.68 },
-        { "number": "014", "keyName": "kl014", "name": "Kit 707068-X Triton (M 80)", "uPrice": 16.70 }, 
-        { "number": "015", "keyName": "kl015", "name": "Arandela de Suplemento Chevrolet", "uPrice": 1.20 },
-        { "number": "016", "keyName": "kl016", "name": "Arandela de Suplemento Ford", "uPrice": 1.20 },
-        { "number": "017", "keyName": "kl017", "name": "Empacadura M80 Triton", "uPrice": 1.17 },
-        { "number": "018", "keyName": "kl018", "name": "Empacadura M26 Chevette", "uPrice": 0.62 },
-        { "number": "019", "keyName": "kl019", "name": "Kit Punta de Eje SN-41", "uPrice": 4.98 },
-        { "number": "020", "keyName": "kl020", "name": "Kit Tuerca SN-01", "uPrice": 5.49 },
-        { "number": "021", "keyName": "kl021", "name": "Kit SN - 05", "uPrice": 5.49 },
-        { "number": "022", "keyName": "kl022", "name": "Kit SN - 12", "uPrice": 5.49 },
-        { "number": "023", "keyName": "kl023", "name": "Kit SN - 13", "uPrice": 5.49 },
-        { "number": "024", "keyName": "kl024", "name": "Kit SN - 17 RD (Festiva, Turpial, Fiesta, Mazda 323, Picanto)", "uPrice": 7.47 },
-        { "number": "025", "keyName": "kl025", "name": "Kit SN - 18 RI (Festiva, Turpial, Fiesta, Mazda 323, Picanto)", "uPrice": 7.47 },
-        { "number": "026", "keyName": "kl026", "name": "Kit de Ajuste Satélite y Planetario 4503 (M-44.4)", "uPrice": 4.22 },
-        { "number": "027", "keyName": "kl027", "name": "Araña de Tunel Ford 350, Dodge 300, mod. Nuevo", "uPrice": 1.41 },
-        { "number": "028", "keyName": "kl028", "name": "Juego de Tuerca Martillo 5/16 Ford", "uPrice": 3.12 },
-        { "number": "029", "keyName": "kl029", "name": "Juego de Tuerca Martillo 3/8 Chevrolet", "uPrice": 3.54 },
-        { "number": "036", "keyName": "kl036", "name": "Kit de Ajuste Satelite y Planetario 4503 (M-44.4) Tornillo Delgado", "uPrice": 4.22 },
-        { "number": "037", "keyName": "kl037", "name": "Pasador Diferencial M-44 Cod 17878", "uPrice": 8.80 },
-        { "number": "038", "keyName": "kl038", "name": "Pasador Diferencial Dodge Dart Cod. 193585", "uPrice": 8.80 },
-        { "number": "039", "keyName": "kl039", "name": "Pasador Diferencial Malibu Importado (Corto) Cod 11449", "uPrice": 8.80 },
-        { "number": "040", "keyName": "kl040", "name": "Pasador Diferencial M-60 Cod. 30263 Toyota ", "uPrice": 11.20 },
-        { "number": "041", "keyName": "kl041", "name": "Pasador Diferencial M-70 F-350, C-30, Dodge 300 ", "uPrice": 12.80 }
+        {
+            "number": "001",
+            "keyName": "kl001",
+            "name": "Kit 706376 - X (M-44)",
+            "uPrice": 4.94
+        },
+        {
+            "number": "002",
+            "keyName": "kl002",
+            "name": "Kit 706213 - X (M-70)",
+            "uPrice": 7.89
+        },
+        {
+            "number": "003",
+            "keyName": "kl003",
+            "name": "Kit 706375 - X (M-60)",
+            "uPrice": 7.89
+        },
+        {
+            "number": "004",
+            "keyName": "kl004",
+            "name": "Kit Empacadura Diferencial M44",
+            "uPrice": 0.75
+        },
+        {
+            "number": "005",
+            "keyName": "kl005",
+            "name": "Kit Empacadura Diferencial M70",
+            "uPrice": 0.94
+        },
+        {
+            "number": "006",
+            "keyName": "kl006",
+            "name": "Kit Empacadura Diferencial Spicer",
+            "uPrice": 0.94
+        },
+        {
+            "number": "007",
+            "keyName": "kl007",
+            "name": "Kit Planetario 3231 (M-44)",
+            "uPrice": 3.17
+        },
+        {
+            "number": "008",
+            "keyName": "kl008",
+            "name": "Kit de Ajuste Satelite y Planetario 3233 (M-70)",
+            "uPrice": 3.47
+        },
+        {
+            "number": "009",
+            "keyName": "kl009",
+            "name": "Kit de Ajuste Satelite y Planetario 3232 (M-60)",
+            "uPrice": 3.47
+        },
+        {
+            "number": "010",
+            "keyName": "kl010",
+            "name": "Araña de Tunel Ford 350, Dodge 300, Mod Viejo 16-A (Pin angosto)",
+            "uPrice": 1.41
+        },
+        {
+            "number": "011",
+            "keyName": "kl011",
+            "name": "Kit 706375 - XX Spicer",
+            "uPrice": 5.04
+        },
+        {
+            "number": "013",
+            "keyName": "kl013",
+            "name": "Araña Tunel C-30 Trasera Cod. 11",
+            "uPrice": 1.68
+        },
+        {
+            "number": "014",
+            "keyName": "kl014",
+            "name": "Kit 707068-X Triton (M 80)",
+            "uPrice": 16.7
+        },
+        {
+            "number": "015",
+            "keyName": "kl015",
+            "name": "Arandela de Suplemento Chevrolet",
+            "uPrice": 1.2
+        },
+        {
+            "number": "016",
+            "keyName": "kl016",
+            "name": "Arandela de Suplemento Ford",
+            "uPrice": 1.2
+        },
+        {
+            "number": "017",
+            "keyName": "kl017",
+            "name": "Empacadura M80 Triton",
+            "uPrice": 1.17
+        },
+        {
+            "number": "018",
+            "keyName": "kl018",
+            "name": "Empacadura M26 Chevette",
+            "uPrice": 0.62
+        },
+        {
+            "number": "019",
+            "keyName": "kl019",
+            "name": "Kit Punta de Eje SN-41",
+            "uPrice": 4.98
+        },
+        {
+            "number": "020",
+            "keyName": "kl020",
+            "name": "Kit Tuerca SN-01",
+            "uPrice": 5.49
+        },
+        {
+            "number": "021",
+            "keyName": "kl021",
+            "name": "Kit SN - 05",
+            "uPrice": 5.49
+        },
+        {
+            "number": "022",
+            "keyName": "kl022",
+            "name": "Kit SN - 12",
+            "uPrice": 5.49
+        },
+        {
+            "number": "023",
+            "keyName": "kl023",
+            "name": "Kit SN - 13",
+            "uPrice": 5.49
+        },
+        {
+            "number": "024",
+            "keyName": "kl024",
+            "name": "Kit SN - 17 RD (Festiva, Turpial, Fiesta, Mazda 323, Picanto)",
+            "uPrice": 7.47
+        },
+        {
+            "number": "025",
+            "keyName": "kl025",
+            "name": "Kit SN - 18 RI (Festiva, Turpial, Fiesta, Mazda 323, Picanto)",
+            "uPrice": 7.47
+        },
+        {
+            "number": "026",
+            "keyName": "kl026",
+            "name": "Kit de Ajuste Satélite y Planetario 4503 (M-44.4)",
+            "uPrice": 4.22
+        },
+        {
+            "number": "027",
+            "keyName": "kl027",
+            "name": "Araña de Tunel Ford 350, Dodge 300, mod. Nuevo",
+            "uPrice": 1.41
+        },
+        {
+            "number": "028",
+            "keyName": "kl028",
+            "name": "Juego de Tuerca Martillo 5/16 Ford",
+            "uPrice": 3.12
+        },
+        {
+            "number": "029",
+            "keyName": "kl029",
+            "name": "Juego de Tuerca Martillo 3/8 Chevrolet",
+            "uPrice": 3.54
+        },
+        {
+            "number": "036",
+            "keyName": "kl036",
+            "name": "Kit de Ajuste Satelite y Planetario 4503 (M-44.4) Tornillo Delgado",
+            "uPrice": 4.22
+        },
+        {
+            "number": "037",
+            "keyName": "kl037",
+            "name": "Pasador Diferencial M-44 Cod 17878",
+            "uPrice": 8.8
+        },
+        {
+            "number": "038",
+            "keyName": "kl038",
+            "name": "Pasador Diferencial Dodge Dart Cod. 193585",
+            "uPrice": 8.8
+        },
+        {
+            "number": "039",
+            "keyName": "kl039",
+            "name": "Pasador Diferencial Malibu Importado (Corto) Cod 11449",
+            "uPrice": 8.8
+        },
+        {
+            "number": "040",
+            "keyName": "kl040",
+            "name": "Pasador Diferencial M-60 Cod. 30263 Toyota ",
+            "uPrice": 11.2
+        },
+        {
+            "number": "041",
+            "keyName": "kl041",
+            "name": "Pasador Diferencial M-70 F-350, C-30, Dodge 300 ",
+            "uPrice": 12.8
+        }
     ],
     "bc": [
-        { "number": "001", "keyName": "bc001", "name": "Empacadura Base de Carburador Ford 1 Boca", "uPrice": 0.42 },
-        { "number": "002", "keyName": "bc002", "name": "Empacadura Base de Carburador Chevrolet 1 Boca", "uPrice": 0.42 },
-        { "number": "003", "keyName": "bc003", "name": "Empacadura Base de Carburador Dodge 318", "uPrice": 0.45 },
-        { "number": "004", "keyName": "bc004", "name": "Empacadura Base de Carburador Corcel/Sierra", "uPrice": 0.58 },
-        { "number": "005", "keyName": "bc005", "name": "Empacadura Base de Carburador Che. Century", "uPrice": 0.58 },
-        { "number": "006", "keyName": "bc006", "name": "Empacadura Base de Carburador Ford 2 Bocas", "uPrice": 1.12 },
-        { "number": "007", "keyName": "bc007", "name": "Empacadura Base de Carburador Chevrolet 2 Bocas", "uPrice": 1.12 },
-        { "number": "008", "keyName": "bc008", "name": "Empacadura Base de Carburador Chevrolet 4 Bocas", "uPrice": 1.28 },
-        { "number": "009", "keyName": "bc009", "name": "Empacadura Base de Carburador Ford 4 Bocas", "uPrice": 1.52 },
-        { "number": "010", "keyName": "bc010", "name": "Base Carburador Che. Century Buick", "uPrice": 0.90 },
-        { "number": "011", "keyName": "bc011", "name": "Base de Carburador Chevrolet C-60", "uPrice": 0.62 },
-        { "number": "013", "keyName": "bc013", "name": "Base de Carburador TBI TODOS", "uPrice": 0.30 },
-        { "number": "014", "keyName": "bc014", "name": "Base de Carburador Chevette 1 Boca Webber", "uPrice": 0.32 },
-        { "number": "015", "keyName": "bc015", "name": "Base de Carburador Ford Motor 332", "uPrice": 1.50 },
-        { "number": "016", "keyName": "bc016", "name": "Empacadura Base de Carburador Chev 4 Tornillos", "uPrice": 0.70 },
-        { "number": "017", "keyName": "bc017", "name": "Empacadura Base de Carburador 1 Boca", "uPrice": 0.43 },
-        { "number": "018", "keyName": "bc018", "name": "Empacadura Base de Carburador Chev Solex 2 Bocas", "uPrice": 0.26 },
-        { "number": "019", "keyName": "bc019", "name": "Empacadura Base de Carburador Blazer TBI", "uPrice": 0.30 },
-        { "number": "020", "keyName": "bc020", "name": "Base de Carburador Racer, Cielo, Daewo", "uPrice": 0.45 },
-        { "number": "021", "keyName": "bc021", "name": "Base de Carburador Ford 2 B Motor 302 Nuevo", "uPrice": 1.12 },
-        { "number": "022", "keyName": "bc022", "name": "Base de Carburador Moto", "uPrice": 0.30 }
+        {
+            "number": "001",
+            "keyName": "bc001",
+            "name": "Empacadura Base de Carburador Ford 1 Boca",
+            "uPrice": 0.42
+        },
+        {
+            "number": "002",
+            "keyName": "bc002",
+            "name": "Empacadura Base de Carburador Chevrolet 1 Boca",
+            "uPrice": 0.42
+        },
+        {
+            "number": "003",
+            "keyName": "bc003",
+            "name": "Empacadura Base de Carburador Dodge 318",
+            "uPrice": 0.45
+        },
+        {
+            "number": "004",
+            "keyName": "bc004",
+            "name": "Empacadura Base de Carburador Corcel/Sierra",
+            "uPrice": 0.58
+        },
+        {
+            "number": "005",
+            "keyName": "bc005",
+            "name": "Empacadura Base de Carburador Che. Century",
+            "uPrice": 0.58
+        },
+        {
+            "number": "006",
+            "keyName": "bc006",
+            "name": "Empacadura Base de Carburador Ford 2 Bocas",
+            "uPrice": 1.12
+        },
+        {
+            "number": "007",
+            "keyName": "bc007",
+            "name": "Empacadura Base de Carburador Chevrolet 2 Bocas",
+            "uPrice": 1.12
+        },
+        {
+            "number": "008",
+            "keyName": "bc008",
+            "name": "Empacadura Base de Carburador Chevrolet 4 Bocas",
+            "uPrice": 1.28
+        },
+        {
+            "number": "009",
+            "keyName": "bc009",
+            "name": "Empacadura Base de Carburador Ford 4 Bocas",
+            "uPrice": 1.52
+        },
+        {
+            "number": "010",
+            "keyName": "bc010",
+            "name": "Base Carburador Che. Century Buick",
+            "uPrice": 0.9
+        },
+        {
+            "number": "011",
+            "keyName": "bc011",
+            "name": "Base de Carburador Chevrolet C-60",
+            "uPrice": 0.62
+        },
+        {
+            "number": "013",
+            "keyName": "bc013",
+            "name": "Base de Carburador TBI TODOS",
+            "uPrice": 0.3
+        },
+        {
+            "number": "014",
+            "keyName": "bc014",
+            "name": "Base de Carburador Chevette 1 Boca Webber",
+            "uPrice": 0.32
+        },
+        {
+            "number": "015",
+            "keyName": "bc015",
+            "name": "Base de Carburador Ford Motor 332",
+            "uPrice": 1.5
+        },
+        {
+            "number": "016",
+            "keyName": "bc016",
+            "name": "Empacadura Base de Carburador Chev 4 Tornillos",
+            "uPrice": 0.7
+        },
+        {
+            "number": "017",
+            "keyName": "bc017",
+            "name": "Empacadura Base de Carburador 1 Boca",
+            "uPrice": 0.43
+        },
+        {
+            "number": "018",
+            "keyName": "bc018",
+            "name": "Empacadura Base de Carburador Chev Solex 2 Bocas",
+            "uPrice": 0.26
+        },
+        {
+            "number": "019",
+            "keyName": "bc019",
+            "name": "Empacadura Base de Carburador Blazer TBI",
+            "uPrice": 0.3
+        },
+        {
+            "number": "020",
+            "keyName": "bc020",
+            "name": "Base de Carburador Racer, Cielo, Daewo",
+            "uPrice": 0.45
+        },
+        {
+            "number": "021",
+            "keyName": "bc021",
+            "name": "Base de Carburador Ford 2 B Motor 302 Nuevo",
+            "uPrice": 1.12
+        },
+        {
+            "number": "022",
+            "keyName": "bc022",
+            "name": "Base de Carburador Moto",
+            "uPrice": 0.3
+        }
     ],
     "le": [
-        { "number": "001", "keyName": "le001", "name": "Lápiz Estabilizador 10' Explorer", "uPrice": 15.09 },
-        { "number": "002", "keyName": "le002", "name": "Lápiz Estabilizador 8' Tahoe, Silverado, Avalenche", "uPrice": 12.94 },
-        { "number": "003", "keyName": "le003", "name": "Lápiz Estabilizador 8' l300 Mitsubishi, Dong Feng ZNA Rich", "uPrice": 12.94 },
-        { "number": "004", "keyName": "le004", "name": "Lápiz Estabilizador 7' Fortaleza", "uPrice": 11.57 },
-        { "number": "005", "keyName": "le005", "name": "Lápiz Estabilizador 5' Terius", "uPrice": 9.79 },
-        { "number": "006", "keyName": "le006", "name": "Lápiz Estabilizador 6' Mazda Gran Tiger", "uPrice": 10.74 },
-        { "number": "007", "keyName": "le007", "name": "Lápiz Estabilizador 5' Neon, Focus", "uPrice": 10.11 },
-        { "number": "008", "keyName": "le008", "name": "Lápiz Estabilizador 6' Mitsubishi", "uPrice": 10.74 },
-        { "number": "009", "keyName": "le009", "name": "Lápiz Estabilizador 5' Universal", "uPrice": 10.10 },
-        { "number": "010", "keyName": "le010", "name": "Lápiz Estabilizador 6' Universal", "uPrice": 11.02 },
-        { "number": "011", "keyName": "le011", "name": "Lápiz Estabilizador 7' Universal", "uPrice": 11.97 },
-        { "number": "012", "keyName": "le012", "name": "Lápiz Estabilizador 8' Universal", "uPrice": 13.31 },
-        { "number": "013", "keyName": "le013", "name": "Lápiz Estabilizador 9' Universal", "uPrice": 14.91 }
+        {
+            "number": "001",
+            "keyName": "le001",
+            "name": "Lápiz Estabilizador 10' Explorer",
+            "uPrice": 15.09
+        },
+        {
+            "number": "002",
+            "keyName": "le002",
+            "name": "Lápiz Estabilizador 8' Tahoe, Silverado, Avalenche",
+            "uPrice": 12.94
+        },
+        {
+            "number": "003",
+            "keyName": "le003",
+            "name": "Lápiz Estabilizador 8' l300 Mitsubishi, Dong Feng ZNA Rich",
+            "uPrice": 12.94
+        },
+        {
+            "number": "004",
+            "keyName": "le004",
+            "name": "Lápiz Estabilizador 7' Fortaleza",
+            "uPrice": 11.57
+        },
+        {
+            "number": "005",
+            "keyName": "le005",
+            "name": "Lápiz Estabilizador 5' Terius",
+            "uPrice": 9.79
+        },
+        {
+            "number": "006",
+            "keyName": "le006",
+            "name": "Lápiz Estabilizador 6' Mazda Gran Tiger",
+            "uPrice": 10.74
+        },
+        {
+            "number": "007",
+            "keyName": "le007",
+            "name": "Lápiz Estabilizador 5' Neon, Focus",
+            "uPrice": 10.11
+        },
+        {
+            "number": "008",
+            "keyName": "le008",
+            "name": "Lápiz Estabilizador 6' Mitsubishi",
+            "uPrice": 10.74
+        },
+        {
+            "number": "009",
+            "keyName": "le009",
+            "name": "Lápiz Estabilizador 5' Universal",
+            "uPrice": 10.1
+        },
+        {
+            "number": "010",
+            "keyName": "le010",
+            "name": "Lápiz Estabilizador 6' Universal",
+            "uPrice": 11.02
+        },
+        {
+            "number": "011",
+            "keyName": "le011",
+            "name": "Lápiz Estabilizador 7' Universal",
+            "uPrice": 11.97
+        },
+        {
+            "number": "012",
+            "keyName": "le012",
+            "name": "Lápiz Estabilizador 8' Universal",
+            "uPrice": 13.31
+        },
+        {
+            "number": "013",
+            "keyName": "le013",
+            "name": "Lápiz Estabilizador 9' Universal",
+            "uPrice": 14.91
+        }
     ],
     "ga": [
-        { "number": "001", "keyName": "ga001", "name": "Gorro Valvula 4 Ranuras 11/32' Motor Ford 460 Carburador de Nylon (C38) / Motor Ford 302 Carburador de Nylon (C36) / Motor Ford 300 de Nylon (C36)", "uPrice": 0.19 },
-        { "number": "002", "keyName": "ga002", "name": "Gorro Valvula 6 Ranuras 5/16' Motor Jeep 258, CJ5 de Nylon (C36) / Motor Ford Mustang Sierra Nylon (C37) ", "uPrice": 0.19 },
-        { "number": "003", "keyName": "ga003", "name": "Gorro Valvula Liso 3/8' Motor Ford 360,370,390 de Nylon (C38) / Motor Ford 8 Cilindro De Nylon (C36) / Motor Ford 460 Carburador de Nylon (C36)", "uPrice": 0.19 },
-        { "number": "004", "keyName": "ga004", "name": "Gorro Valvula PC Azul Chevrolet Camaro Carburado (C39) / Chevrolet Monte Carlo, Camaro, Jeep (C39) / Chevrolet Cavalier 2.2, Caprice (C39) / Chevrolet C10, Nova, Caprice, Malibu (C39) / Chevrolet Celebrity, Century, Jeep(C39) / Chevrolet 305, 325, 350 (C39) / Chevrolet Motor 200, 229, 231, 250, 262, Blazer (C39)", "uPrice": 4.80 },
-        { "number": "005", "keyName": "ga005", "name": "Gorro Valvula Dodge 3/18' Dodge", "uPrice": 5.60 },
-        { "number": "006", "keyName": "ga006", "name": "Gorro Valvula Vortec (Nylon) Vortec", "uPrice": 0.13 },
-        { "number": "007", "keyName": "ga007", "name": "Kit Gorro de Valvula Vortec (Nylon) Vortec", "uPrice": 2.88 },
-        { "number": "008", "keyName": "ga008", "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Aluminio) Caliper Chevrolet 73674-X Kit (Alum)", "uPrice": 0.82 },
-        { "number": "008H", "keyName": "ga008H", "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Hierro) Caliper Chevrolet 73674-X Kit (Hierro)", "uPrice": 1.60 },
-        { "number": "009", "keyName": "ga009", "name": "Kit Gorro Valvula 4 Ranuras 11/32' Motor Ford 460 Carburador de Nylon (C38) / Motor Ford 302 Carburador de Nylon (C36) / Motor Ford 300 de Nylon (C36)", "uPrice": 4.80 },
-        { "number": "010", "keyName": "ga010", "name": "Kit Gorro Valvula 6 Ranuras 5/16' Motor Jeep 258, CJ5 de Nylon (C36) / Motor Ford Mustang Sierra Nylon (C37)", "uPrice": 4.80 },
-        { "number": "011", "keyName": "ga011", "name": "Kit Gorro Valvula Liso 3/8' Motor Ford 360,370,390 de Nylon (C38) / Motor Ford 8 Cilindro De Nylon (C36) / Motor Ford 460 Carburador de Nylon (C36)", "uPrice": 4.80 },
-        { "number": "012", "keyName": "ga012", "name": "Goma Base Amortiguador Arauca", "uPrice": 2.08 }
-    ], 
+        {
+            "number": "001",
+            "keyName": "ga001",
+            "name": "Gorro Valvula 4 Ranuras 11/32' Motor Ford 460 Carburador de Nylon (C38) / Motor Ford 302 Carburador de Nylon (C36) / Motor Ford 300 de Nylon (C36)",
+            "uPrice": 0.19
+        },
+        {
+            "number": "002",
+            "keyName": "ga002",
+            "name": "Gorro Valvula 6 Ranuras 5/16' Motor Jeep 258, CJ5 de Nylon (C36) / Motor Ford Mustang Sierra Nylon (C37) ",
+            "uPrice": 0.19
+        },
+        {
+            "number": "003",
+            "keyName": "ga003",
+            "name": "Gorro Valvula Liso 3/8' Motor Ford 360,370,390 de Nylon (C38) / Motor Ford 8 Cilindro De Nylon (C36) / Motor Ford 460 Carburador de Nylon (C36)",
+            "uPrice": 0.19
+        },
+        {
+            "number": "004",
+            "keyName": "ga004",
+            "name": "Gorro Valvula PC Azul Chevrolet Camaro Carburado (C39) / Chevrolet Monte Carlo, Camaro, Jeep (C39) / Chevrolet Cavalier 2.2, Caprice (C39) / Chevrolet C10, Nova, Caprice, Malibu (C39) / Chevrolet Celebrity, Century, Jeep(C39) / Chevrolet 305, 325, 350 (C39) / Chevrolet Motor 200, 229, 231, 250, 262, Blazer (C39)",
+            "uPrice": 4.8
+        },
+        {
+            "number": "005",
+            "keyName": "ga005",
+            "name": "Gorro Valvula Dodge 3/18' Dodge",
+            "uPrice": 5.6
+        },
+        {
+            "number": "006",
+            "keyName": "ga006",
+            "name": "Gorro Valvula Vortec (Nylon) Vortec",
+            "uPrice": 0.13
+        },
+        {
+            "number": "007",
+            "keyName": "ga007",
+            "name": "Kit Gorro de Valvula Vortec (Nylon) Vortec",
+            "uPrice": 2.88
+        },
+        {
+            "number": "008",
+            "keyName": "ga008",
+            "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Aluminio) Caliper Chevrolet 73674-X Kit (Alum)",
+            "uPrice": 0.82
+        },
+        {
+            "number": "008H",
+            "keyName": "ga008H",
+            "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Hierro) Caliper Chevrolet 73674-X Kit (Hierro)",
+            "uPrice": 1.6
+        },
+        {
+            "number": "009",
+            "keyName": "ga009",
+            "name": "Kit Gorro Valvula 4 Ranuras 11/32' Motor Ford 460 Carburador de Nylon (C38) / Motor Ford 302 Carburador de Nylon (C36) / Motor Ford 300 de Nylon (C36)",
+            "uPrice": 4.8
+        },
+        {
+            "number": "010",
+            "keyName": "ga010",
+            "name": "Kit Gorro Valvula 6 Ranuras 5/16' Motor Jeep 258, CJ5 de Nylon (C36) / Motor Ford Mustang Sierra Nylon (C37)",
+            "uPrice": 4.8
+        },
+        {
+            "number": "011",
+            "keyName": "ga011",
+            "name": "Kit Gorro Valvula Liso 3/8' Motor Ford 360,370,390 de Nylon (C38) / Motor Ford 8 Cilindro De Nylon (C36) / Motor Ford 460 Carburador de Nylon (C36)",
+            "uPrice": 4.8
+        },
+        {
+            "number": "012",
+            "keyName": "ga012",
+            "name": "Goma Base Amortiguador Arauca",
+            "uPrice": 2.08
+        }
+    ],
     "bcd": [
-        { "number": "374", "keyName": "bcd374", "name": "Buje de Cajetin Renault Twingo / Wagon R", "uPrice": 0.48}
+        {
+            "number": "374",
+            "keyName": "bcd374",
+            "name": "Buje de Cajetin Renault Twingo / Wagon R",
+            "uPrice": 0.48
+        }
     ],
     "otac": [
         {
