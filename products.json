@@ -3175,61 +3175,61 @@
         {
             "number": "911",
             "name": "Oring NBR 911 /3x22",
-            "uPrice": 0.1793,
+            "uPrice": 0.1876,
             "keyName": "or911"
         },
         {
             "number": "912",
             "name": "Oring NBR 912 /3X23.5",
-            "uPrice": 0.1821,
+            "uPrice": 0.1908,
             "keyName": "or912"
         },
         {
             "number": "913",
             "name": "Oring NBR 913 /3X25",
-            "uPrice": 0.1905,
+            "uPrice": 0.1999,
             "keyName": "or913"
         },
         {
             "number": "914",
             "name": "Oring NBR 914 /3X26.5",
-            "uPrice": 0.2185,
+            "uPrice": 0.2287,
             "keyName": "or914"
         },
         {
             "number": "916",
             "name": "Oring NBR 916 /3X30",
-            "uPrice": 0.2409,
+            "uPrice": 0.2521,
             "keyName": "or916"
         },
         {
             "number": "918",
             "name": "Oring NBR 918 /3X34.5",
-            "uPrice": 0.2802,
+            "uPrice": 0.2932,
             "keyName": "or918"
         },
         {
             "number": "920",
             "name": "Oring NBR 920 /3X37.5",
-            "uPrice": 0.3082,
+            "uPrice": 0.3225,
             "keyName": "or920"
         },
         {
             "number": "924",
             "name": "Oring NBR 924 /3X44",
-            "uPrice": 0.353,
+            "uPrice": 0.3694,
             "keyName": "or924"
         },
         {
             "number": "928",
             "name": "Oring NBR 928 /3X53",
-            "uPrice": 0.4314,
+            "uPrice": 0.4528,
             "keyName": "or928"
         },
         {
             "number": "932",
             "name": "Oring NBR 932 /3X59",
-            "uPrice": 0.5043,
+            "uPrice": 0.5277,
             "keyName": "or932"
         }
     ],
