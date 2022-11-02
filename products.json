@@ -870,150 +870,150 @@
     "oiny": [
         {
             "number": "001",
-            "name": "Oring NBR Iny Asiatico",
-            "uPrice": 0.0711,
+            "name": "Oring para Inyectores - Asiaticos",
+            "uPrice": 0.0736,
             "keyName": "oiny001"
         },
         {
             "number": "002",
-            "name": "Oring NBR Iny Chevy",
-            "uPrice": 0.0871,
+            "name": "Oring para Inyectores - Chevy (Silverado)",
+            "uPrice": 0.1016,
             "keyName": "oiny002"
         },
         {
             "number": "003",
-            "name": "Oring NBR Iny Universal",
-            "uPrice": 0.053,
+            "name": "Oring para Inyectores - Universal",
+            "uPrice": 0.0599,
             "keyName": "oiny003"
         },
         {
             "number": "004",
-            "name": "Oring VITON Iny Universal",
-            "uPrice": 0.215,
+            "name": "Oring para Inyectores - Universal",
+            "uPrice": 0.2284,
             "keyName": "oiny004"
         },
         {
             "number": "005",
-            "name": "Oring Asiático Acanalado Toyota/Mitsubishi/Nissan VITON Negro",
-            "uPrice": 0.5273,
+            "name": "Oring Asiatico ACANALADO Toyota/Mitsubishi/Nissan",
+            "uPrice": 0.5543,
             "keyName": "oiny005"
         },
         {
             "number": "006",
-            "name": "Oring NBR Iny Delphi Aveo",
-            "uPrice": 0.0533,
+            "name": "Oring para Inyectores Delphi - Aveo",
+            "uPrice": 0.0559,
             "keyName": "oiny006"
         },
         {
             "number": "007",
-            "name": "Oring Viton Iny Delphi Aveo",
-            "uPrice": 0.199,
+            "name": "Oring para Inyectores Delphi - Aveo",
+            "uPrice": 0.2144,
             "keyName": "oiny007"
         },
         {
             "number": "008",
-            "name": "Oring NBR Asiento Asiatico",
-            "uPrice": 0.1981,
+            "name": "Oring Asiento Asiatico",
+            "uPrice": 0.2082,
             "keyName": "oiny008"
         },
         {
             "number": "009",
-            "name": "Oring VITON Iny Asiático",
-            "uPrice": 0.2151,
+            "name": "Oring para Inyectores - Asiaticos",
+            "uPrice": 0.2285,
             "keyName": "oiny009"
         },
         {
             "number": "010",
-            "name": "Oring VITON Asiento Asiático",
-            "uPrice": 0.35,
+            "name": "Oring Asiento Asiatico",
+            "uPrice": 0.5295,
             "keyName": "oiny010"
         },
         {
             "number": "011",
-            "name": "Oring Asiento Acanalado Asiático NBR",
-            "uPrice": 0.1367,
+            "name": "Oring Asiento Asiatico ACANALADO ",
+            "uPrice": 0.1437,
             "keyName": "oiny011"
         },
         {
             "number": "012",
-            "name": "Oring Asiento Asiático Alto NBR",
-            "uPrice": 0.2,
+            "name": "Oring Asiento Asiatico ALTO",
+            "uPrice": 0.2057,
             "keyName": "oiny012"
         }
     ],
     "mic": [
         {
             "number": "001",
-            "name": "Microfiltro Universal Largo tipo",
-            "uPrice": 0.087,
+            "name": "Microfiltro Universal Largo (Tipo Bosch) ",
+            "uPrice": 0.0986,
             "keyName": "mic001"
         },
         {
             "number": "002",
-            "name": "Micro Filtro Universal corto tipo",
-            "uPrice": 0.1458,
+            "name": "Microfiltro Universal Corto",
+            "uPrice": 0.162,
             "keyName": "mic002"
         },
         {
             "number": "003",
-            "name": "Micro Filtro Webber tipo Fiat",
-            "uPrice": 0.20412,
+            "name": "Microfiltro Webber Largo ",
+            "uPrice": 0.2258,
             "keyName": "mic003"
         },
         {
             "number": "004",
-            "name": "Micro Filtro Delphi",
-            "uPrice": 0.1807,
+            "name": "Microfiltro Delphi (Aveo - Tipo Aguja) ",
+            "uPrice": 0.2129,
             "keyName": "mic004"
         },
         {
             "number": "005",
-            "name": "MICRIFILTRO TOYOTA CAMRY/LEXUS/MITSUBISHI",
-            "uPrice": 0.19,
+            "name": "Microfiltro Toyota Camry / Lexus / Mitsubishi",
+            "uPrice": 0.2052,
             "keyName": "mic005"
         },
         {
             "number": "006",
-            "name": "MICROFILTRO UNIVERSAL LARGO METALICO ",
-            "uPrice": 0.19,
+            "name": "Microfiltro Universal Largo Metalico ",
+            "uPrice": 0.2052,
             "keyName": "mic006"
         },
         {
             "number": "007",
-            "name": "MICROFILTRO DIESEL KIA PREGIO ",
-            "uPrice": 0.2381,
+            "name": "Microfiltro Diesel KIA Pregio ",
+            "uPrice": 0.2588,
             "keyName": "mic007"
         },
         {
             "number": "008",
-            "name": "MICROFILTRO UNIVERSAL MINI CORTO ( RENAUL: MEGANNE -CLIO )",
-            "uPrice": 0.2381,
+            "name": "Microfiltro Universal Minicorto (Renault: Meganne/Clio) ",
+            "uPrice": 0.2588,
             "keyName": "mic008"
         },
         {
             "number": "009",
-            "name": "Microfiltro Webber Corto",
-            "uPrice": 0.21,
+            "name": "Microfiltro Webber Corto ",
+            "uPrice": 0.24,
             "keyName": "mic009"
         },
         {
             "number": "010",
             "name": "Microfiltro TBI T-Cesta (Nissan D21)",
-            "uPrice": 0.405,
+            "uPrice": 0.423,
             "keyName": "mic010"
         },
         {
             "number": "011",
-            "name": "Microfiltro TBI SUP T-Cesta (Cavalier/Blazer/Grand Blazer/Silverado/Cheyenne)",
-            "uPrice": 0.342,
+            "name": "Microfiltro TBI SUP T-Cesta (Cavalier/Blazer/Grand Blazer/Silverado/Chayenne)",
+            "uPrice": 0.36,
             "keyName": "mic011"
         }
     ],
     "oba": [
         {
             "number": "001",
-            "name": "Oring NBR Bomba de Agua",
-            "uPrice": 0.7691,
+            "name": "Oring Bomba de Agua Aveo LS - LT (MOTOR 1.6) / Daewo Cielo, Lanos y Nubira ",
+            "uPrice": 0.87,
             "content": [
                 {
                     "category": "or200",
@@ -1038,8 +1038,8 @@
         },
         {
             "number": "003",
-            "name": "Oring NBR Bomba de Agua",
-            "uPrice": 0.8305,
+            "name": "Oring Bomba de Agua Optra Design ",
+            "uPrice": 0.89,
             "content": [
                 {
                     "category": "or200",
@@ -1051,8 +1051,8 @@
         },
         {
             "number": "004",
-            "name": "Oring NBR Bomba de Agua",
-            "uPrice": 0.8979,
+            "name": "Oring Bomba de Agua Optra Limited ",
+            "uPrice": 0.94,
             "content": [
                 {
                     "category": "or200",
@@ -1064,8 +1064,8 @@
         },
         {
             "number": "005",
-            "name": "BOMBA DE AGUA FORD: ECO SPORT 2.0/ FOCUS",
-            "uPrice": 0.6131,
+            "name": "Oring Bomba de Agua Ford: Eco Sport 2.0 / Focus / Mazda 2.0-3.0",
+            "uPrice": 0.69,
             "content": [
                 {
                     "category": "or200",
@@ -1104,7 +1104,7 @@
         {
             "number": "008",
             "name": "Oring Bomba de Agua Peugeot 206 / 207 Motor 1.4 / Partmet",
-            "uPrice": 0.54,
+            "uPrice": 0.61,
             "content": [
                 {
                     "category": "or200",
@@ -1116,8 +1116,8 @@
         },
         {
             "number": "009",
-            "name": "Bomba de agua Peugeot 206/207 motor 1.6 / Centauro",
-            "uPrice": 0.63,
+            "name": "Oring Bomba de Agua Peugeot 206 / 207 Motor 1.6 / Centauro / S30",
+            "uPrice": 0.71,
             "content": [
                 {
                     "category": "or200",
@@ -1131,74 +1131,74 @@
     "obg": [
         {
             "number": "001",
-            "name": "Oring Bomba Gas Aveo Optra",
-            "uPrice": 1.3829,
+            "name": "Oring Bomba de Gasolina Aveo / Optra / Daewo Cielo",
+            "uPrice": 1.9,
             "keyName": "obg001"
         },
         {
             "number": "002",
-            "name": "Oring Bomba Gas Renault:",
-            "uPrice": 1.736,
+            "name": "Oring Bomba de Gasolina Renault: Twingo/Sybmol/Logan y Clio",
+            "uPrice": 1.84,
             "keyName": "obg002"
         },
         {
             "number": "003",
-            "name": "Oring Bomba Gas -Corsa",
-            "uPrice": 2.295,
+            "name": "Oring Bomba de Gasolina Corsa",
+            "uPrice": 2.41,
             "keyName": "obg003"
         },
         {
             "number": "004",
-            "name": "Oring Bomba Gas - Ford FX",
-            "uPrice": 2.293,
+            "name": "Oring Bomba de Gasolina Ford FX 150",
+            "uPrice": 2.5,
             "keyName": "obg004"
         },
         {
             "number": "005",
-            "name": "Oring Bomba Gas - Peugeot",
-            "uPrice": 2.0473,
+            "name": "Oring Bomba de Gasolina Peugeot 206",
+            "uPrice": 2.14,
             "keyName": "obg005"
         },
         {
             "number": "006",
-            "name": "Oring Bomba Gas - Peugeot",
-            "uPrice": 2.1012,
+            "name": "Oring Bomba de Gasolina Peugeot 207 / 307 / 408",
+            "uPrice": 2.42,
             "keyName": "obg006"
         },
         {
             "number": "007",
-            "name": "Oring Bomba Gas - Toyota 4Runner",
-            "uPrice": 2.2833,
+            "name": "Oring Bomba de Gasolina Toyota 4 Runner (2003 a 2008) ",
+            "uPrice": 2.23,
             "keyName": "obg007"
         },
         {
             "number": "008",
-            "name": "Oring Bomba Gas - Toyota Corolla",
-            "uPrice": 2.293,
+            "name": "Oring Bomba de Gasolina Toyota Corolla ",
+            "uPrice": 2.5,
             "keyName": "obg008"
         },
         {
             "number": "009",
-            "name": "Oring Bomba Gas- Silverado",
-            "uPrice": 2.295,
+            "name": "Oring Bomba de Gasolina Silverado 2009 - 2014 / Tahoe / Avalanche",
+            "uPrice": 2.41,
             "keyName": "obg009"
         },
         {
             "number": "010",
-            "name": "Oring Bomba Gas- Hilux",
-            "uPrice": 2.1012,
+            "name": "Oring Bomba de GasolinaToyota Fortuner / Hilux Kavac 4.0 y 2.7",
+            "uPrice": 2.42,
             "keyName": "obg010"
         },
         {
             "number": "011",
-            "name": "BOMBA DE GASOLINA JEEP CHEROKEE LIBERTY MOTOR 3.7/KJ(2002-2007)/KK(2008-2012)",
-            "uPrice": 2.295,
+            "name": "Oring Bomba de GasolinaJEEP Cherokee Liberty Motor 3.7 / KJ (2002 – 2007) / KK (2008-2012)",
+            "uPrice": 2.41,
             "keyName": "obg011"
         },
         {
             "number": "012",
-            "name": "BOMBA DE GASOLINA CHEVROLET:CHEYENNE(HASTA 2005) / GRAND BLAZER TBI (1999-2001)",
-            "uPrice": 1.7209,
+            "name": "Oring Bomba de Gasolina Chevrolet:/ Blazer ",
+            "uPrice": 1.8,
             "content": [
                 {
                     "category": "or300",
@@ -1210,26 +1210,26 @@
         },
         {
             "number": "013",
-            "name": "BOMBA DE GASOLINA FORD: SUPER DUTY F-350(2012)/ SUPER DUTY F-250(2011 EN ADELANTE ",
-            "uPrice": 2.295,
+            "name": "Oring Bomba de Gasolina Ford: Super Duty F-350(2012) / Super Duty F-250 (2011 en Adelante) ",
+            "uPrice": 2.41,
             "keyName": "obg013"
         },
         {
             "number": "014",
-            "name": "BOMBA DE GASOLINA CHERY TIGGO",
-            "uPrice": 2.43,
+            "name": "Oring Bomba de Gasolina Chery: Tiggo",
+            "uPrice": 2.49,
             "keyName": "obg014"
         },
         {
             "number": "015",
-            "name": "BOMBA DE GASOLINA CHEVROLET CRUZE",
-            "uPrice": 2.295,
+            "name": "Oring Bomba de Gasolina Chevrolet Cruze ",
+            "uPrice": 2.41,
             "keyName": "obg015"
         },
         {
             "number": "016",
-            "name": "BOMBA GASOLINA CHEYENNE - SILVERADO(2003-2007) ",
-            "uPrice": 2.22,
+            "name": "Oring Bomba de Gasolina Cheyenne / Silverado (2003 a 2007) ",
+            "uPrice": 2.33,
             "content": [
                 {
                     "category": "or300",
@@ -1241,20 +1241,20 @@
         },
         {
             "number": "017",
-            "name": "BOMBA DE GASOLINA FORD EXPLORER EDDIE BAUER (2005-2011)-FORD EXPLORER MOTOR 3.5( 2011-2020)",
-            "uPrice": 2.295,
+            "name": "Oring Bomba de Gasolina Ford Explorer Eddie Bauer (2005 a 2011) / Ford Explorer Motor 3.5 (2011 a 2020) ",
+            "uPrice": 2.41,
             "keyName": "obg017"
         },
         {
             "number": "018",
             "name": "Oring Bomba de Gasolina Yaris Belta/Sport 2006-2014",
-            "uPrice": 2.28,
+            "uPrice": 2.23,
             "keyName": "obg018"
         },
         {
             "number": "019",
-            "name": "Oring Bomba de Gasolina Chevrolet: LuvDmax",
-            "uPrice": 1.8143,
+            "name": "Oring Bomba de Gasolina Chevrolet: Luv Dmax",
+            "uPrice": 1.9,
             "content": [
                 {
                     "category": "or300",
@@ -1263,13 +1263,25 @@
                 }
             ],
             "keyName": "obg019"
+        },
+        {
+            "number": "020",
+            "name": "Oring Bomba de Gasolina Ford: Fiesta/EcoSport/Focus/Ka",
+            "uPrice": 4.38,
+            "keyName": "obg020"
+        },
+        {
+            "number": "021",
+            "name": "Oring Bomba de Gasolina Chery: Orinoco/X1/Arauca",
+            "uPrice": 4.18,
+            "keyName": "obg021"
         }
     ],
     "oct": [
         {
             "number": "001",
-            "name": "Oring NBR Copa de Tripoide",
-            "uPrice": 0.63,
+            "name": "Oring Copa TripoideCorsa / Corolla ",
+            "uPrice": 0.66,
             "content": [
                 {
                     "category": "or100",
@@ -1283,8 +1295,8 @@
     "odt": [
         {
             "number": "001",
-            "name": "Oring NBR Distribuidor Tapa",
-            "uPrice": 0.5148,
+            "name": "Oring Distribuidor Tapa Base BobinaCorsa / Cielo / Lanos",
+            "uPrice": 0.57,
             "content": [
                 {
                     "category": "or200",
@@ -1296,8 +1308,8 @@
         },
         {
             "number": "002",
-            "name": "Oring Viton Distribuidor tapa",
-            "uPrice": 4.5,
+            "name": "Oring Distribuidor Tapa Base BobinaCorsa / Cielo / Lanos",
+            "uPrice": 4.78,
             "content": [
                 {
                     "category": "orv",
@@ -1309,8 +1321,8 @@
         },
         {
             "number": "003",
-            "name": "ORING DISTRIBUIDOR TAPA BASE BOBINA FESTIVA ",
-            "uPrice": 0.3522,
+            "name": "Oring Distribuidor Tapa Base BobinaFestiva",
+            "uPrice": 0.37,
             "content": [
                 {
                     "category": "or",
@@ -1319,6 +1331,12 @@
                 }
             ],
             "keyName": "odt003"
+        },
+        {
+            "number": "004",
+            "name": "Oring Distribuidor Tapa Base BobinaMitsubishi Signo 1999 - 2010",
+            "uPrice": 0.45,
+            "keyName": "odt004"
         }
     ],
     "or000": [
@@ -4335,8 +4353,8 @@
     "ota": [
         {
             "number": "001",
-            "name": "Oring NBR Tubo de agua",
-            "uPrice": 0.2575,
+            "name": "OringTubo de Agua Renault: Todos / Mitsubishi: Lancer",
+            "uPrice": 0.27,
             "content": [
                 {
                     "category": "or200",
@@ -4348,8 +4366,8 @@
         },
         {
             "number": "002",
-            "name": "TUBO DE AGUA VW:FOX",
-            "uPrice": 0.3522,
+            "name": "Oring Tubo de Agua VW: Fox",
+            "uPrice": 0.37,
             "content": [
                 {
                     "category": "or200",
@@ -4361,8 +4379,8 @@
         },
         {
             "number": "003",
-            "name": "TUBO DE AGUA CHEVROLET: ORLANDO MOTOR 2.4",
-            "uPrice": 0.7301,
+            "name": "Oring Tubo de Agua Chevrolet: Orlando Motor 2.4",
+            "uPrice": 0.79,
             "content": [
                 {
                     "category": "or300",
@@ -4374,8 +4392,8 @@
         },
         {
             "number": "004",
-            "name": "TUBO DE AGUA CHEVROLET OPTRA -AVEO ",
-            "uPrice": 0.2575,
+            "name": "Oring Tubo de Agua Chevrolet: Optra / Aveo",
+            "uPrice": 0.27,
             "content": [
                 {
                     "category": "or200",
@@ -4387,8 +4405,8 @@
         },
         {
             "number": "005",
-            "name": "TUBO DE AGUA CHEVROLET-CORSA ( TODOS ) ",
-            "uPrice": 0.3053,
+            "name": "Oring Tubo de Agua Chevrolet: Corsa (todos)",
+            "uPrice": 0.32,
             "content": [
                 {
                     "category": "or200",
@@ -4400,40 +4418,46 @@
         },
         {
             "number": "006",
-            "name": "Tubo de Agua Festiva y Turpial",
-            "uPrice": 0.17,
+            "name": "Oring Tubo de Agua Festiva y Turpial ",
+            "uPrice": 0.18,
             "keyName": "ota006"
+        },
+        {
+            "number": "007",
+            "name": "Oring Tubo de Agua Honda Civic 1991-1995",
+            "uPrice": 0.25,
+            "keyName": "ota007"
         }
     ],
     "otv": [
         {
             "number": "001",
-            "name": "Oring Viton Kit tapa valvula",
-            "uPrice": 6.25,
+            "name": "Kit Tapa ValvulaAveo LS (Alta Temperatura)",
+            "uPrice": 6.75,
             "keyName": "otv001"
         },
         {
             "number": "002",
-            "name": "Oring Viton Kit Tapa Valvula",
-            "uPrice": 8.16,
+            "name": "Kit Tapa Valvula Grand Vitara 4 Cilindros(Alta Temp)",
+            "uPrice": 8.86,
             "keyName": "otv002"
         },
         {
             "number": "003",
-            "name": "Oring Viton Kit Tapa Valvula",
-            "uPrice": 11.18,
+            "name": "Kit Tapa Valvula Grand Vitara 6 Cilindros(Alta Temp)",
+            "uPrice": 12.35,
             "keyName": "otv003"
         },
         {
             "number": "004",
-            "name": "Kit Tapa Valvula Aveo LT",
-            "uPrice": 3,
+            "name": "Kit Tapa Valvula Aveo LT ",
+            "uPrice": 3.11,
             "keyName": "otv004"
         },
         {
             "number": "005",
-            "name": "KIT TAPA VALVULA AVEO LS (NBR)",
-            "uPrice": 1.8,
+            "name": "Kit Tapa ValvulaAveo LS(NBR)",
+            "uPrice": 2.07,
             "content": [
                 {
                     "category": "or100",
@@ -4447,8 +4471,8 @@
     "obc": [
         {
             "number": "001",
-            "name": "ORING COLADOR DE BOMBA DE ACEITE AVEO/OPTRA ",
-            "uPrice": 0.0941,
+            "name": "Oring Colador de Bomba de Aceite Aveo / Optra",
+            "uPrice": 0.1,
             "content": [
                 {
                     "category": "or100",
@@ -4462,8 +4486,8 @@
     "ote": [
         {
             "number": "001",
-            "name": "ORING TERMOSTATO AVEO LT",
-            "uPrice": 0.6755,
+            "name": "Oring TermostatoAveo LT ",
+            "uPrice": 0.74,
             "content": [
                 {
                     "category": "or300",
@@ -4475,8 +4499,8 @@
         },
         {
             "number": "002",
-            "name": "Oring Termostato Aveo hasta 2010",
-            "uPrice": 0.35,
+            "name": "Oring TermostatoAveo hasta 2010",
+            "uPrice": 0.37,
             "content": [
                 {
                     "category": "or200",
@@ -4490,8 +4514,8 @@
     "otp": [
         {
             "number": "001",
-            "name": "ORING TAPA ACEITE AVEO/OPTRA ",
-            "uPrice": 0.3522,
+            "name": "Oring Tapa PLÁSTICA de Aceite Aveo / Optra(G) ",
+            "uPrice": 0.37,
             "content": [
                 {
                     "category": "or200",
@@ -4503,8 +4527,8 @@
         },
         {
             "number": "002",
-            "name": " ORING TAPA ACEITE CHERY/X1",
-            "uPrice": 0.5318,
+            "name": "Oring Tapa de Aceite Chery / X1",
+            "uPrice": 0.55,
             "content": [
                 {
                     "category": "or300",
@@ -4516,8 +4540,8 @@
         },
         {
             "number": "003",
-            "name": "ORING GRANDE TAPA DE ACEITE MOTO SINCRONICAS CHINA (MATRIX/OWEN/EMPIRE/UM/UNKO/SKYGO/BERAROMPER)",
-            "uPrice": 0.2802,
+            "name": "Oring Grande Tapa de Aceite Motos Sincronicas China (Matrix/Owen/Empire/UM/UNKO/SKYGO/BeraRomper)",
+            "uPrice": 0.29,
             "content": [
                 {
                     "category": "or900",
@@ -4529,8 +4553,8 @@
         },
         {
             "number": "004",
-            "name": "ORING PEQUEñO TAPA DE ACEITE MOTO SINCRONICAS CHINAS (MATRIX/OWEN/UM/EMPIRE/UNKO/SKYGO/BERAROMPER)",
-            "uPrice": 0.1905,
+            "name": "Oring Pequeño Tapa de Aceite Motos Sincronicas China (Matrix/Owen/Empire/UM/UNKO/SKYGO/BeraRomper)",
+            "uPrice": 0.2,
             "content": [
                 {
                     "category": "or900",
@@ -4542,8 +4566,8 @@
         },
         {
             "number": "005",
-            "name": "ORING TAPA DE ACEITES MOTOS AUTOMATICAS ( DE PUñO)",
-            "uPrice": 0.1872,
+            "name": "Oring Tapa de Aceite Motos Automáticas (De Puño) ",
+            "uPrice": 0.2,
             "content": [
                 {
                     "category": "or200",
@@ -4556,7 +4580,7 @@
         {
             "number": "006",
             "name": "Oring Tapa Piston de Arranque Motos China (todas) de Balancín Motor 150",
-            "uPrice": 0.5,
+            "uPrice": 0.53,
             "content": [
                 {
                     "category": "or900",
@@ -4569,7 +4593,7 @@
         {
             "number": "007",
             "name": "Oring Tapa pequeña Embobinado Motos China (todas) de Balancín Motor 150",
-            "uPrice": 0.15,
+            "uPrice": 0.16,
             "content": [
                 {
                     "category": "or100",
@@ -4581,8 +4605,8 @@
         },
         {
             "number": "008",
-            "name": "Oring Tapa Aceite Renault Logan",
-            "uPrice": 0.23,
+            "name": "Oring Tapa de AceiteRenault: Logan",
+            "uPrice": 0.24,
             "content": [
                 {
                     "category": "or200",
@@ -4596,8 +4620,8 @@
     "oca": [
         {
             "number": "001",
-            "name": "ORING CAJA TOYOTA COROLLA DEL 99 AL 2002",
-            "uPrice": 2.4597,
+            "name": "Oring Caja Toyota Corolla Del 99 al 2002",
+            "uPrice": 2.6,
             "content": [
                 {
                     "category": "or200",
@@ -4609,8 +4633,8 @@
         },
         {
             "number": "002",
-            "name": "ORING VACUM CAJA HIDROMATICA C6-C4",
-            "uPrice": 0.0758,
+            "name": "Oring Vacum Caja Hidromatica C6 - C4",
+            "uPrice": 0.06,
             "content": [
                 {
                     "category": "or100",
@@ -4622,8 +4646,8 @@
         },
         {
             "number": "003",
-            "name": "ORING DIRECCION HIDRAULICA CHEVROLET 6 Y 8 CIL",
-            "uPrice": 1.0456,
+            "name": "Oring Dirección Hidráulica Chevrolet 6 y 8 CIL",
+            "uPrice": 1.14,
             "content": [
                 {
                     "category": "or200",
@@ -4635,8 +4659,8 @@
         },
         {
             "number": "004",
-            "name": "ORING CONECTOR 3/8 PARA MANGUERA DIRECCION HIDRAULICA ",
-            "uPrice": 0.0353,
+            "name": "Oring Conector 3/8 para Manguera Dirección Hidraulica ",
+            "uPrice": 0.05,
             "content": [
                 {
                     "category": "or000",
@@ -4648,8 +4672,8 @@
         },
         {
             "number": "005",
-            "name": "ORING EJE DE LA CAJA DE CAMION CHEYENNE",
-            "uPrice": 0.0975,
+            "name": "Oring Eje de la Caja Camión Cheyenne",
+            "uPrice": 0.1,
             "content": [
                 {
                     "category": "or000",
@@ -4663,8 +4687,8 @@
     "obf": [
         {
             "number": "001",
-            "name": "ORING BASE DEL FILTRO DE ACEITE CHEROKEE 4.0 (1998-1999)",
-            "uPrice": 0.6131,
+            "name": "Oring Base del Filtro de Aceite Cherokee 4.0 (1998-1999)",
+            "uPrice": 0.69,
             "content": [
                 {
                     "category": "or200",
@@ -4676,8 +4700,8 @@
         },
         {
             "number": "002",
-            "name": "ORING BASE DEL FILTRO DE ACITE OPTRA ",
-            "uPrice": 0.3165,
+            "name": "Oring Base del Filtro de Aceite Optra",
+            "uPrice": 0.52,
             "content": [
                 {
                     "category": "or100",
@@ -4691,8 +4715,8 @@
     "ore": [
         {
             "number": "001",
-            "name": "ORING REGULADOR DE GASOLINA TOYOTA COROLLA",
-            "uPrice": 0.042,
+            "name": "Oring Regulador de GasolinaToyota Corolla ",
+            "uPrice": 0.04,
             "content": [
                 {
                     "category": "or100",
@@ -4706,8 +4730,8 @@
     "osp": [
         {
             "number": "001",
-            "name": "ORING SENSOR DE POSICION DE SIGUEñAL GRAND VITARA 2.0",
-            "uPrice": 0.2575,
+            "name": "Oring Sensor de Posición de Cigüeñal Grand Vitara 2.0",
+            "uPrice": 0.27,
             "content": [
                 {
                     "category": "or200",
@@ -5138,8 +5162,8 @@
     "oar": [
         {
             "number": "001",
-            "name": "Oring Arranque Motos China (Todas) de Balancín Motor 150",
-            "uPrice": 0.21,
+            "name": "Oring ArranqueMotos China (todas) de Balancín Motor 150",
+            "uPrice": 0.22,
             "content": [
                 {
                     "category": "or200",
@@ -5153,8 +5177,8 @@
     "ola": [
         {
             "number": "001",
-            "name": "Oring Lápiz de Croche Motos China Sincrónica Motor 200",
-            "uPrice": 0.04,
+            "name": "Oring Lápiz de Croche Motos China Sincronica Motor 200",
+            "uPrice": 0.05,
             "content": [
                 {
                     "category": "or000",
@@ -5168,7 +5192,7 @@
     "oal": [
         {
             "number": "001",
-            "name": "Oring Árbol de Leva Motos Chinas 150 y 200",
+            "name": "Oring Arbol de Leva Motos Chinas 150 y 200",
             "uPrice": 0.12,
             "content": [
                 {
@@ -5183,8 +5207,8 @@
     "oma": [
         {
             "number": "001",
-            "name": "Oring Martillera o Cuchara inferior",
-            "uPrice": 0.1,
+            "name": "Oring Martillera o Cuchara Inferior ",
+            "uPrice": 0.11,
             "content": [
                 {
                     "category": "or100",
@@ -5199,7 +5223,7 @@
         {
             "number": "001",
             "name": "Oring Carburador Motor 150 PZ26 y PZ27",
-            "uPrice": 0.1737,
+            "uPrice": 0.18,
             "content": [
                 {
                     "category": "or100",
@@ -5212,7 +5236,7 @@
         {
             "number": "002",
             "name": "Oring Carburador Motor 200 PZ30",
-            "uPrice": 0.2084,
+            "uPrice": 0.22,
             "content": [
                 {
                     "category": "or100",
@@ -5743,7 +5767,7 @@
     "otac": [
         {
             "number": "001",
-            "name": "Oring Tubería de Aceite Cajetín de Dirección TrailBlazer V8",
+            "name": "Oring Tubería de Aceite Cajetin de Dirección TrailBlazer V8",
             "uPrice": 0.19,
             "content": [
                 {
