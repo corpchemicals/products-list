@@ -3079,132 +3079,158 @@
         {
             "number": "400",
             "uPrice": 1.0511,
-            "keyName": "or400"
+            "keyName": "or400",
+            "name": "Oring NBR 400"
         },
         {
             "number": "401",
             "uPrice": 1.0868,
-            "keyName": "or401"
+            "keyName": "or401",
+            "name": "Oring NBR 401"
         },
         {
             "number": "402",
             "uPrice": 1.1123,
-            "keyName": "or402"
+            "keyName": "or402",
+            "name": "Oring NBR 402"
         },
         {
             "number": "404",
             "uPrice": 1.1834,
-            "keyName": "or404"
+            "keyName": "or404",
+            "name": "Oring NBR 404"
         },
         {
             "number": "405",
             "uPrice": 1.5295,
-            "keyName": "or405"
+            "keyName": "or405",
+            "name": "Oring NBR 405"
         },
         {
             "number": "406",
             "uPrice": 1.5847,
-            "keyName": "or406"
+            "keyName": "or406",
+            "name": "Oring NBR 406"
         },
         {
             "number": "407",
             "uPrice": 1.6052,
-            "keyName": "or407"
+            "keyName": "or407",
+            "name": "Oring NBR 407"
         },
         {
             "number": "408",
             "uPrice": 1.6263,
-            "keyName": "or408"
+            "keyName": "or408",
+            "name": "Oring NBR 408"
         },
         {
             "number": "409",
             "uPrice": 1.6895,
-            "keyName": "or409"
+            "keyName": "or409",
+            "name": "Oring NBR 409"
         },
         {
             "number": "410",
             "uPrice": 1.7422,
-            "keyName": "or410"
+            "keyName": "or410",
+            "name": "Oring NBR 410"
         },
         {
             "number": "411",
             "uPrice": 1.7664,
-            "keyName": "or411"
+            "keyName": "or411",
+            "name": "Oring NBR 411"
         },
         {
             "number": "412",
             "uPrice": 1.8017,
-            "keyName": "or412"
+            "keyName": "or412",
+            "name": "Oring NBR 412"
         },
         {
             "number": "413",
             "uPrice": 2.142,
-            "keyName": "or413"
+            "keyName": "or413",
+            "name": "Oring NBR 413"
         },
         {
             "number": "414",
             "uPrice": 2.1658,
-            "keyName": "or414"
+            "keyName": "or414",
+            "name": "Oring NBR 414"
         },
         {
             "number": "415",
             "uPrice": 2.1931,
-            "keyName": "or415"
+            "keyName": "or415",
+            "name": "Oring NBR 415"
         },
         {
             "number": "416",
             "uPrice": 2.2406,
-            "keyName": "or416"
+            "keyName": "or416",
+            "name": "Oring NBR 416"
         },
         {
             "number": "417",
             "uPrice": 2.494,
-            "keyName": "or417"
+            "keyName": "or417",
+            "name": "Oring NBR 417"
         },
         {
             "number": "418",
             "uPrice": 2.3681,
-            "keyName": "or418"
+            "keyName": "or418",
+            "name": "Oring NBR 418"
         },
         {
             "number": "419",
             "uPrice": 2.4077,
-            "keyName": "or419"
+            "keyName": "or419",
+            "name": "Oring NBR 419"
         },
         {
             "number": "420",
             "uPrice": 2.4955,
-            "keyName": "or420"
+            "keyName": "or420",
+            "name": "Oring NBR 420"
         },
         {
             "number": "421",
             "uPrice": 2.5308,
-            "keyName": "or421"
+            "keyName": "or421",
+            "name": "Oring NBR 421"
         },
         {
             "number": "422",
             "uPrice": 2.5538,
-            "keyName": "or422"
+            "keyName": "or422",
+            "name": "Oring NBR 422"
         },
         {
             "number": "423",
             "uPrice": 2.5769,
-            "keyName": "or423"
+            "keyName": "or423",
+            "name": "Oring NBR 423"
         },
         {
             "number": "424",
             "uPrice": 2.6122,
-            "keyName": "or424"
+            "keyName": "or424",
+            "name": "Oring NBR 424"
         },
         {
             "number": "448",
             "uPrice": 6.0552,
-            "keyName": "or448"
+            "keyName": "or448",
+            "name": "Oring NBR 448"
         },
         {
             "number": "449",
             "uPrice": 6.3269,
-            "keyName": "or449"
+            "keyName": "or449",
+            "name": "Oring NBR 449"
         }
     ],
     "or900": [
