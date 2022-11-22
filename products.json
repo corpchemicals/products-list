@@ -5,12 +5,6 @@
             "name": "Oring Universal NBR",
             "uPrice": 0.028,
             "keyName": "poiny003"
-        },
-        {
-            "number": "002",
-            "name": "COMBO LIQUIDO LIMPIADOR DE INYECTORES (CONCENTRADO+LIQUIDO PRUEBA DE INYECTOR) 3.75L",
-            "uPrice": 20,
-            "keyName": "plim001"
         }
     ],
     "kit": [
