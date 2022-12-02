@@ -165,6 +165,19 @@
                 }
             ],
             "keyName": "combo005"
+        },
+        {
+            "number": "012",
+            "name": "Combo No. 6",
+            "uPrice": 30,
+            "content": [
+                {
+                    "category": "mic",
+                    "number": "001",
+                    "amount": 400
+                }
+            ],
+            "keyName": "combo006"
         }
     ],
     "kit": [
