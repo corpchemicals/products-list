@@ -5684,37 +5684,37 @@
             "number": "001",
             "keyName": "bc001",
             "name": "Empacadura Base de Carburador Ford 1 Boca",
-            "uPrice": 0.42
+            "uPrice": 0.56
         },
         {
             "number": "002",
             "keyName": "bc002",
             "name": "Empacadura Base de Carburador Chevrolet 1 Boca",
-            "uPrice": 0.42
+            "uPrice": 0.56
         },
         {
             "number": "003",
             "keyName": "bc003",
             "name": "Empacadura Base de Carburador Dodge 318",
-            "uPrice": 0.45
+            "uPrice": 0.58
         },
         {
             "number": "004",
             "keyName": "bc004",
             "name": "Empacadura Base de Carburador Corcel/Sierra",
-            "uPrice": 0.58
+            "uPrice": 0.69
         },
         {
             "number": "005",
             "keyName": "bc005",
             "name": "Empacadura Base de Carburador Che. Century",
-            "uPrice": 0.58
+            "uPrice": 0.69
         },
         {
             "number": "006",
             "keyName": "bc006",
             "name": "Empacadura Base de Carburador Ford 2 Bocas",
-            "uPrice": 1.12
+            "uPrice": 1.22
         },
         {
             "number": "007",
@@ -5726,85 +5726,121 @@
             "number": "008",
             "keyName": "bc008",
             "name": "Empacadura Base de Carburador Chevrolet 4 Bocas",
-            "uPrice": 1.28
+            "uPrice": 1.36
         },
         {
             "number": "009",
             "keyName": "bc009",
             "name": "Empacadura Base de Carburador Ford 4 Bocas",
-            "uPrice": 1.52
+            "uPrice": 1.58
         },
         {
             "number": "010",
             "keyName": "bc010",
             "name": "Base Carburador Che. Century Buick",
-            "uPrice": 0.9
+            "uPrice": 1.01
         },
         {
             "number": "011",
             "keyName": "bc011",
             "name": "Base de Carburador Chevrolet C-60",
-            "uPrice": 0.62
+            "uPrice": 0.74
         },
         {
             "number": "013",
             "keyName": "bc013",
             "name": "Base de Carburador TBI TODOS",
-            "uPrice": 0.3
+            "uPrice": 0.43
         },
         {
             "number": "014",
             "keyName": "bc014",
             "name": "Base de Carburador Chevette 1 Boca Webber",
-            "uPrice": 0.32
+            "uPrice": 0.46
         },
         {
             "number": "015",
             "keyName": "bc015",
             "name": "Base de Carburador Ford Motor 332",
-            "uPrice": 1.5
+            "uPrice": 1.58
         },
         {
             "number": "016",
             "keyName": "bc016",
             "name": "Empacadura Base de Carburador Chev 4 Tornillos",
-            "uPrice": 0.7
+            "uPrice": 0.82
         },
         {
             "number": "017",
             "keyName": "bc017",
             "name": "Empacadura Base de Carburador 1 Boca",
-            "uPrice": 0.43
+            "uPrice": 0.56
         },
         {
             "number": "018",
             "keyName": "bc018",
             "name": "Empacadura Base de Carburador Chev Solex 2 Bocas",
-            "uPrice": 0.26
+            "uPrice": 0.38
         },
         {
             "number": "019",
             "keyName": "bc019",
             "name": "Empacadura Base de Carburador Blazer TBI",
-            "uPrice": 0.3
+            "uPrice": 0.43
         },
         {
             "number": "020",
             "keyName": "bc020",
             "name": "Base de Carburador Racer, Cielo, Daewo",
-            "uPrice": 0.45
+            "uPrice": 0.62
         },
         {
             "number": "021",
             "keyName": "bc021",
             "name": "Base de Carburador Ford 2 B Motor 302 Nuevo",
-            "uPrice": 1.12
+            "uPrice": 1.22
         },
         {
             "number": "022",
             "keyName": "bc022",
-            "name": "Base de Carburador Moto",
-            "uPrice": 0.3
+            "name": "Base de Carburador Moto China (Todas)",
+            "uPrice": 0.38
+        },
+        {
+            "number": "023",
+            "keyName": "bc023",
+            "name": "Base de Carburador Toyota Corolla 1.7 94-98 Baby Camry/Machito/Araya/Sky",
+            "uPrice": 0.43
+        },
+        {
+            "number": "024",
+            "keyName": "bc024",
+            "name": "Base de Carburador Fiat Uno 147/Solex/Lada/Chevette 1 Boca",
+            "uPrice": 0.56
+        },
+        {
+            "number": "025",
+            "keyName": "bc025",
+            "name": "Base de Carburador Fiat Uno / Duna /Regatta 1.4 1.6",
+            "uPrice": 0.58
+        },
+        {
+            "number": "026",
+            "keyName": "bc026",
+            "name": "Base de Carburador Ford Festiva",
+            "uPrice": 0.43
+        },
+        {
+            "number": "026",
+            "keyName": "bc026",
+            "name": "Base de Carburador Swift 1.6/Mitsubishi Lancer",
+            "uPrice": 0.43
+        },
+        {
+            "number": "026",
+            "keyName": "bc026",
+            "name": "Base de Carburador Toyota Corolla / Avila 86-89",
+            "uPrice": 0.43
         }
     ],
     "le": [
@@ -5818,71 +5854,65 @@
             "number": "002",
             "keyName": "le002",
             "name": "Lápiz Estabilizador 8' Tahoe, Silverado, Avalenche",
-            "uPrice": 12.94
+            "uPrice": 13.31
         },
         {
             "number": "003",
             "keyName": "le003",
-            "name": "Lápiz Estabilizador 8' l300 Mitsubishi, Dong Feng ZNA Rich",
-            "uPrice": 12.94
-        },
-        {
-            "number": "004",
-            "keyName": "le004",
             "name": "Lápiz Estabilizador 7' Fortaleza",
             "uPrice": 11.57
         },
         {
-            "number": "005",
-            "keyName": "le005",
+            "number": "004",
+            "keyName": "le004",
             "name": "Lápiz Estabilizador 5' Terius",
             "uPrice": 9.79
         },
         {
-            "number": "006",
-            "keyName": "le006",
+            "number": "005",
+            "keyName": "le005",
             "name": "Lápiz Estabilizador 6' Mazda Gran Tiger",
             "uPrice": 10.74
         },
         {
-            "number": "007",
-            "keyName": "le007",
+            "number": "006",
+            "keyName": "le006",
             "name": "Lápiz Estabilizador 5' Neon, Focus",
             "uPrice": 10.11
         },
         {
-            "number": "008",
-            "keyName": "le008",
+            "number": "007",
+            "keyName": "le007",
             "name": "Lápiz Estabilizador 6' Mitsubishi",
             "uPrice": 10.74
         },
         {
-            "number": "009",
-            "keyName": "le009",
+            "number": "008",
+            "keyName": "le008",
             "name": "Lápiz Estabilizador 5' Universal",
-            "uPrice": 10.1
+            "uPrice": 10.10
         },
         {
-            "number": "010",
-            "keyName": "le010",
+            "number": "009",
+            "keyName": "le009",
             "name": "Lápiz Estabilizador 6' Universal",
             "uPrice": 11.02
         },
         {
-            "number": "011",
-            "keyName": "le011",
+            "number": "010",
+            "keyName": "le010",
             "name": "Lápiz Estabilizador 7' Universal",
             "uPrice": 11.97
         },
         {
-            "number": "012",
-            "keyName": "le012",
+            "number": "011",
+            "keyName": "le011",
             "name": "Lápiz Estabilizador 8' Universal",
             "uPrice": 13.31
         },
         {
-            "number": "013",
-            "keyName": "le013",
+            "number": "012",
+            "keyName": "le012",
             "name": "Lápiz Estabilizador 9' Universal",
             "uPrice": 14.91
         }
