@@ -5660,6 +5660,54 @@
             "keyName": "obgd90001",
             "name": "Oring Bomba de Gasolina Aveo / Optra (Dureza 90)",
             "uPrice": 2.5767
+        },
+        {
+            "number": "002",
+            "keyName": "obgd90002",
+            "name": "Oring Bomba de Gasolina Renault: Twingo/Sybmol/Logan y Clio (Dureza 90)",
+            "uPrice": 2.8728
+        },
+        {
+            "number": "003",
+            "keyName": "obgd90003",
+            "name": "Oring Bomba de Gasolina Corsa (Dureza 90)",
+            "uPrice": 3.9011
+        },
+        {
+            "number": "004",
+            "keyName": "obgd90004",
+            "name": "Oring Bomba de Gasolina Ford FX 150 (Dureza 90)",
+            "uPrice": 3.3614
+        },
+        {
+            "number": "006",
+            "keyName": "obgd90006",
+            "name": "Oring Bomba de Gasolina Peugeot 207 / 307 / 408 (Dureza 90)",
+            "uPrice": 3.4118
+        },
+        {
+            "number": "007",
+            "keyName": "obgd90007",
+            "name": "Oring Bomba de Gasolina Toyota 4 Runner 2003 a 2008 (Dureza 90)",
+            "uPrice": 3.3859
+        },
+        {
+            "number": "008",
+            "keyName": "obgd90008",
+            "name": "Oring Bomba de Gasolina Toyota Corolla (Dureza 90)",
+            "uPrice": 3.3614
+        },
+        {
+            "number": "010",
+            "keyName": "obgd90010",
+            "name": "Oring Bomba de Gasolina Toyota Fortuner / Hilux Kavac 4.0 y 2.7 (Dureza 90)",
+            "uPrice": 3.4118
+        },
+        {
+            "number": "018",
+            "keyName": "obgd90018",
+            "name": "Oring Bomba de Gasolina YAris Belta/Sport 2006-2014 (Dureza 90)",
+            "uPrice": 3.3859
         }
     ]
 }
