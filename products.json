@@ -5653,5 +5653,13 @@
             ],
             "keyName": "otac001"
         }
+    ],
+    "obgd90": [
+        {
+            "number": "001",
+            "keyName": "obgd90001",
+            "name": "Oring Bomba de Gasolina Aveo / Optra (Dureza 90)",
+            "uPrice": 2.5767
+        }
     ]
 }
