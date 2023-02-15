@@ -1510,7 +1510,7 @@
             "uPrice": 0.37,
             "content": [
                 {
-                    "category": "or",
+                    "category": "or200",
                     "number": "222",
                     "amount": 1
                 }
@@ -1521,7 +1521,14 @@
             "number": "004",
             "name": "Oring Distribuidor Tapa Base BobinaMitsubishi Signo 1999 - 2010",
             "uPrice": 0.45,
-            "keyName": "odt004"
+            "keyName": "odt004",
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "224",
+                    "amount": 1
+                }
+            ]
         }
     ],
     "or000": [
@@ -4265,13 +4272,27 @@
             "number": "006",
             "name": "Oring Tubo de Agua Festiva y Turpial ",
             "uPrice": 0.18,
-            "keyName": "ota006"
+            "keyName": "ota006",
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "209",
+                    "amount": 1
+                }
+            ]
         },
         {
             "number": "007",
             "name": "Oring Tubo de Agua Honda Civic 1991-1995",
             "uPrice": 0.25,
-            "keyName": "ota007"
+            "keyName": "ota007",
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "215",
+                    "amount": 1
+                }
+            ]
         }
     ],
     "otv": [
