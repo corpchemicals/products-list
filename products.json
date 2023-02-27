@@ -1304,6 +1304,13 @@
             "number": "011",
             "name": "Oring Tapa Bomba de Agua Centrifuga 1 HP",
             "uPrice": 1.6493,
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "258",
+                    "amount": 1
+                }
+            ],
             "keyName": "oba011"
         },
         {
@@ -4298,7 +4305,7 @@
     "otv": [
         {
             "number": "001",
-            "name": "Kit Tapa ValvulaAveo LS (Alta Temperatura)",
+            "name": "Kit Tapa Valvula Aveo LS (Alta Temperatura)",
             "uPrice": 6.75,
             "keyName": "otv001"
         },
@@ -4318,7 +4325,14 @@
             "number": "004",
             "name": "Kit Tapa Valvula Aveo LT ",
             "uPrice": 3.11,
-            "keyName": "otv004"
+            "keyName": "otv004",
+            "content": [
+                {
+                    "category": "oiny",
+                    "number": "012",
+                    "amount": 15
+                }
+            ]
         },
         {
             "number": "005",
