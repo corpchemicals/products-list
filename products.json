@@ -5029,6 +5029,7 @@
             "number": "001",
             "name": "Oring Filtro de Agua Planta Ozono",
             "uPrice": 10.55,
+            "isPacked": true,
             "content": [
                 {
                     "category": "or200",
