@@ -5610,7 +5610,13 @@
             "number": "004",
             "keyName": "ga004",
             "name": "Gorro Valvula PC Azul Chevrolet Camaro Carburado (C39) / Chevrolet Monte Carlo, Camaro, Jeep (C39) / Chevrolet Cavalier 2.2, Caprice (C39) / Chevrolet C10, Nova, Caprice, Malibu (C39) / Chevrolet Celebrity, Century, Jeep(C39) / Chevrolet 305, 325, 350 (C39) / Chevrolet Motor 200, 229, 231, 250, 262, Blazer (C39)",
-            "uPrice": 4.8
+            "uPrice": 6.40
+        },
+        {
+            "number": "004F",
+            "keyName": "ga004F",
+            "name": "Gorro de válvula Chevrolet con Fleje o Anillo",
+            "uPrice": 7.20
         },
         {
             "number": "005",
