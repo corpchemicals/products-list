@@ -178,6 +178,262 @@
                 }
             ],
             "keyName": "combo006"
+        },
+        {
+            "number": "013",
+            "name": "Oring de Refrigeración 1/4 Normal",
+            "uPrice": 0.1049,
+            "keyName": "poref001"
+        },
+        {
+            "number": "014",
+            "name": "Oring de Refrigeración 5/16 Normal",
+            "uPrice": 0.1049,
+            "keyName": "poref002"
+        },
+        {
+            "number": "015",
+            "name": "Oring de Refrigeración 3/8 Normal",
+            "uPrice": 0.1049,
+            "keyName": "poref003"
+        },
+        {
+            "number": "016",
+            "name": "Oring de Refrigeración 7/16 (13/32) Normal",
+            "uPrice": 0.1049,
+            "keyName": "poref004"
+        },
+        {
+            "number": "017",
+            "name": "Oring de Refrigeración 9/16 Normal",
+            "uPrice": 0.1137,
+            "keyName": "poref005"
+        },
+        {
+            "number": "018",
+            "name": "Oring de Refrigeración 11/16 Normal",
+            "uPrice": 0.1195,
+            "keyName": "poref006"
+        },
+        {
+            "number": "019",
+            "name": "Oring de Refrigeración 1/4 Sobre Medida",
+            "uPrice": 0.1224,
+            "keyName": "poref007"
+        },
+        {
+            "number": "020",
+            "name": "Oring de Refrigeración 5/16 Sobre Medida",
+            "uPrice": 0.1224,
+            "keyName": "poref008"
+        },
+        {
+            "number": "021",
+            "name": "Oring de Refrigeración 3/8 Sobre Medida",
+            "uPrice": 0.1224,
+            "keyName": "poref009"
+        },
+        {
+            "number": "022",
+            "name": "Oring de Refrigeración 7/16 (13/32) Sobre Medida",
+            "uPrice": 0.1224,
+            "keyName": "poref010"
+        },
+        {
+            "number": "023",
+            "name": "Oring de Refrigeración 9/16 Sobre Medida",
+            "uPrice": 0.1283,
+            "keyName": "poref011"
+        },
+        {
+            "number": "024",
+            "name": "Oring de Refrigeración 11/16 Sobre Medida",
+            "uPrice": 0.1457,
+            "keyName": "poref012"
+        },
+        {
+            "number": "025",
+            "name": "Oring de Refrigeración FX15 - FS10",
+            "uPrice": 0.7198,
+            "keyName": "poref013"
+        },
+        {
+            "number": "026",
+            "name": "Oring de Refrigeración V5",
+            "uPrice": 0.8159,
+            "keyName": "poref014"
+        },
+        {
+            "number": "027",
+            "name": "Oring de Refrigeración Culata",
+            "uPrice": 0.2070,
+            "keyName": "poref015"
+        },
+        {
+            "number": "028",
+            "name": "Oring de Refrigeración 1/2 Normal",
+            "uPrice": 0.1049,
+            "keyName": "poref016"
+        },
+        {
+            "number": "029",
+            "name": "Oring de Refrigeración 5/8 Normal",
+            "uPrice": 0.1165,
+            "keyName": "poref017"
+        },
+        {
+            "number": "030",
+            "name": "Oring de Refrigeración 3/4 Normal",
+            "uPrice": 0.1253,
+            "keyName": "poref018"
+        },
+        {
+            "number": "031",
+            "name": "Oring de Refrigeración 1/2 Sobre Medida",
+            "uPrice": 0.1224,
+            "keyName": "poref019"
+        },
+        {
+            "number": "032",
+            "name": "Oring de Refrigeración 5/8 Sobre Medida",
+            "uPrice": 0.1370,
+            "keyName": "poref020"
+        },
+        {
+            "number": "033",
+            "name": "Kit Refrigeración para Compresor Autom. V5 (Aveo - Optra - Corsa - Cavalier)",
+            "uPrice": 2.1970,
+            "keyName": "porefk001",
+            "content": [
+                {
+                    "category": "oref",
+                    "number": "014",
+                    "amount": 2
+                },
+                {
+                    "category": "or100",
+                    "number": "118",
+                    "amount": 2
+                },
+                {
+                    "category": "oref",
+                    "number": "015",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "number": "034",
+            "name": "Kit Refrigeración para Compresor Autom. FX15 - FS10 (Ford - Ecosport - Fiesta Power)",
+            "uPrice": 1.1567,
+            "keyName": "porefk002",
+            "content": [
+                {
+                    "category": "oref",
+                    "number": "013",
+                    "amount": 1
+                },
+                {
+                    "category": "oref",
+                    "number": "015",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "number": "035",
+            "name": "Kit Refrigeración para Compresor Toyota Terius",
+            "uPrice": 0.7722,
+            "keyName": "porefk003",
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "154",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "number": "036",
+            "name": "Kit Refrigeración para Compresor Vitara",
+            "uPrice": 0.7022,
+            "keyName": "porefk004",
+            "content": [
+                {
+                    "category": "or200",
+                    "number": "237",
+                    "amount": 1
+                },
+                {
+                    "category": "or000",
+                    "number": "042",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "number": "037",
+            "name": "Kit Refrigeración para Compresor Sistema ESS Cargo 815",
+            "uPrice": 0.3378,
+            "keyName": "porefk005",
+            "content": [
+                {
+                    "category": "oref",
+                    "number": "008",
+                    "amount": 1
+                },
+                {
+                    "category": "oref",
+                    "number": "011",
+                    "amount": 1
+                },
+                {
+                    "category": "or100",
+                    "number": "118",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "number": "038",
+            "name": "Kit Refrigeración para Compresor Autom. V5 (Aveo - Optra - Corsa - Cavalier)",
+            "uPrice": 1.2409,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "157",
+                    "amount": 2
+                },
+                {
+                    "category": "or100",
+                    "number": "118",
+                    "amount": 2
+                },
+                {
+                    "category": "or200",
+                    "number": "211",
+                    "amount": 2
+                }
+            ],
+            "keyName": "pkit019"
+        },
+        {
+            "number": "039",
+            "name": "Kit Refrigeración para Compresor Autom. FX15 - FS10 (Ford - Ecosport - Fiesta Power)",
+            "uPrice": 0.6035,
+            "content": [
+                {
+                    "category": "or100",
+                    "number": "155",
+                    "amount": 1
+                },
+                {
+                    "category": "or200",
+                    "number": "211",
+                    "amount": 2
+                }
+            ],
+            "keyName": "pkit020"
         }
     ],
     "kit": [
