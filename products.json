@@ -1362,6 +1362,12 @@
             "name": "Oring Asiento Asiatico ALTO",
             "uPrice": 0.2057,
             "keyName": "oiny012"
+        },
+        {
+            "number": "013",
+            "name": "Separador Acanalado Honda",
+            "uPrice": 0.2571,
+            "keyName": "oiny013"
         }
     ],
     "mic": [
@@ -1430,6 +1436,12 @@
             "name": "Microfiltro TBI SUP T-Cesta (Cavalier/Blazer/Grand Blazer/Silverado/Chayenne)",
             "uPrice": 0.36,
             "keyName": "mic011"
+        },
+        {
+            "number": "012",
+            "name": "Microfiltro Honda Civic (Máximo Caudal)",
+            "uPrice": 0.2571,
+            "keyName": "mic012"
         }
     ],
     "oba": [
