@@ -1659,13 +1659,6 @@
             "number": "012",
             "name": "Oring Bomba de Gasolina Chevrolet:/ Blazer ",
             "uPrice": 1.8,
-            "content": [
-                {
-                    "category": "or300",
-                    "number": "343",
-                    "amount": 1
-                }
-            ],
             "keyName": "obg012"
         },
         {
@@ -1715,13 +1708,6 @@
             "number": "019",
             "name": "Oring Bomba de Gasolina Chevrolet: Luv Dmax",
             "uPrice": 1.9,
-            "content": [
-                {
-                    "category": "or300",
-                    "number": "345",
-                    "amount": 1
-                }
-            ],
             "keyName": "obg019"
         },
         {
