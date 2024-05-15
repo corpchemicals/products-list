@@ -4218,7 +4218,6 @@
       "uPrice": 0.606,
       "keyName": "orv115"
     },
-
     {
       "number": "116",
       "keyName": "orv116",
@@ -4363,7 +4362,6 @@
       "name": "Oring VITON 202",
       "uPrice": 0.6246
     },
-
     {
       "number": "206",
       "name": "Oring Viton 206",
@@ -4376,7 +4374,6 @@
       "name": "Oring VITON 208",
       "uPrice": 0.8613
     },
-
     {
       "number": "209",
       "name": "Oring Viton 209",
@@ -5425,79 +5422,79 @@
       "number": "001",
       "keyName": "kl001",
       "name": "Kit 706376 - X (M-44)",
-      "uPrice": 4.94
+      "uPrice": 6.67
     },
     {
       "number": "002",
       "keyName": "kl002",
       "name": "Kit 706213 - X (M-70)",
-      "uPrice": 7.89
+      "uPrice": 10.66
     },
     {
       "number": "003",
       "keyName": "kl003",
       "name": "Kit 706375 - X (M-60)",
-      "uPrice": 7.89
+      "uPrice": 10.66
     },
     {
       "number": "004",
       "keyName": "kl004",
       "name": "Kit Empacadura Diferencial M44",
-      "uPrice": 0.75
+      "uPrice": 0.82
     },
     {
       "number": "005",
       "keyName": "kl005",
       "name": "Kit Empacadura Diferencial M70",
-      "uPrice": 0.94
+      "uPrice": 1.02
     },
     {
       "number": "006",
       "keyName": "kl006",
       "name": "Kit Empacadura Diferencial Spicer",
-      "uPrice": 0.94
+      "uPrice": 1.02
     },
     {
       "number": "007",
       "keyName": "kl007",
       "name": "Kit Planetario 3231 (M-44)",
-      "uPrice": 4.16
+      "uPrice": 6.91
     },
     {
       "number": "008",
       "keyName": "kl008",
       "name": "Kit de Ajuste Satelite y Planetario 3233 (M-70)",
-      "uPrice": 4.8
+      "uPrice": 7.78
     },
     {
       "number": "009",
       "keyName": "kl009",
       "name": "Kit de Ajuste Satelite y Planetario 3232 (M-60)",
-      "uPrice": 4.8
+      "uPrice": 7.78
     },
     {
       "number": "010",
       "keyName": "kl010",
       "name": "Araña de Tunel Ford 350, Dodge 300, Mod Viejo 16-A (Pin angosto)",
-      "uPrice": 1.41
+      "uPrice": 1.92
     },
     {
       "number": "011",
       "keyName": "kl011",
       "name": "Kit 706375 - XX Spicer",
-      "uPrice": 5.04
+      "uPrice": 6.8
     },
     {
       "number": "013",
       "keyName": "kl013",
       "name": "Araña Tunel C-30 Trasera Cod. 11",
-      "uPrice": 1.68
+      "uPrice": 2.27
     },
     {
       "number": "014",
       "keyName": "kl014",
       "name": "Kit 707068-X Triton (M 80)",
-      "uPrice": 16.7
+      "uPrice": 22.54
     },
     {
       "number": "015",
@@ -5527,7 +5524,7 @@
       "number": "019",
       "keyName": "kl019",
       "name": "Kit Punta de Eje SN-41",
-      "uPrice": 4.98
+      "uPrice": 5.6
     },
     {
       "number": "020",
@@ -5569,7 +5566,7 @@
       "number": "026",
       "keyName": "kl026",
       "name": "Kit de Ajuste Satélite y Planetario 4503 (M-44.4)",
-      "uPrice": 4.22
+      "uPrice": 6.56
     },
     {
       "number": "027",
@@ -5581,49 +5578,199 @@
       "number": "028",
       "keyName": "kl028",
       "name": "Juego de Tuerca Martillo 5/16 Ford",
-      "uPrice": 3.12
+      "uPrice": 4.16
     },
     {
       "number": "029",
       "keyName": "kl029",
       "name": "Juego de Tuerca Martillo 3/8 Chevrolet",
-      "uPrice": 3.54
+      "uPrice": 4.78
     },
     {
       "number": "036",
       "keyName": "kl036",
       "name": "Kit de Ajuste Satelite y Planetario 4503 (M-44.4) Tornillo Delgado",
-      "uPrice": 5.6
+      "uPrice": 8.86
     },
     {
       "number": "037",
       "keyName": "kl037",
       "name": "Pasador Diferencial M-44 Cod 17878",
-      "uPrice": 8.8
+      "uPrice": 12.0
     },
     {
       "number": "038",
       "keyName": "kl038",
       "name": "Pasador Diferencial Dodge Dart Cod. 193585",
-      "uPrice": 8.8
+      "uPrice": 12.0
     },
     {
       "number": "039",
       "keyName": "kl039",
       "name": "Pasador Diferencial Malibu Importado (Corto) Cod 11449",
-      "uPrice": 8.8
+      "uPrice": 12.0
     },
     {
       "number": "040",
       "keyName": "kl040",
       "name": "Pasador Diferencial M-60 Cod. 30263 Toyota ",
-      "uPrice": 11.2
+      "uPrice": 14.4
     },
     {
       "number": "041",
       "keyName": "kl041",
       "name": "Pasador Diferencial M-70 F-350, C-30, Dodge 300 ",
-      "uPrice": 12.8
+      "uPrice": 16.8
+    },
+    {
+      "keyName": "kl042",
+      "number": "042",
+      "name": "Kit Punta de Eje  SN-15 Chevrolet Malibu/C-10 año 65-77",
+      "uPrice": 5.6
+    },
+    {
+      "keyName": "kl043",
+      "number": "043",
+      "name": "Kit Punta de Eje  SN-15-A Chevrolet Caprice/Malibu año 78-84",
+      "uPrice": 5.6
+    },
+    {
+      "keyName": "kl044",
+      "number": "044",
+      "name": "Kit Punta de Eje  SN-16 Chevrolet C-30",
+      "uPrice": 8.08
+    },
+    {
+      "keyName": "kl045",
+      "number": "045",
+      "name": "Kit Punta de Eje  SN-16-A Chevrolet C-60 C-70 Delantero",
+      "uPrice": 11.6
+    },
+    {
+      "keyName": "kl046",
+      "number": "046",
+      "name": "Kit Punta de Eje  SN-16-B Chevrolet Cheyenne 1500-3500 Delantero",
+      "uPrice": 4.22
+    },
+    {
+      "keyName": "kl047",
+      "number": "047",
+      "name": "Kit Punta de Eje  SN-20 Ford Autos hasta el 84",
+      "uPrice": 5.46
+    },
+    {
+      "keyName": "kl048",
+      "number": "048",
+      "name": "Kit Punta de Eje  SN-21 Ford 600/750 Rosca Fina Modelo Nuevo",
+      "uPrice": 8.11
+    },
+    {
+      "keyName": "kl049",
+      "number": "049",
+      "name": "Kit Punta de Eje  SN-21-A Ford 600/750 Rosca Gruesa Modelo Viejo",
+      "uPrice": 8.11
+    },
+    {
+      "keyName": "kl050",
+      "number": "050",
+      "name": "Kit Punta de Eje  SN-22 Volkswagen Trasero S/Campana",
+      "uPrice": 7.04
+    },
+    {
+      "keyName": "kl051",
+      "number": "051",
+      "name": "Kit Punta de Eje  SN-23 Volkswagen C/Campana",
+      "uPrice": 10.9
+    },
+    {
+      "keyName": "kl052",
+      "number": "052",
+      "name": "Kit Punta de Eje  SN-24 Ford Sierra Trasero Izquierdo",
+      "uPrice": 8.59
+    },
+    {
+      "keyName": "kl053",
+      "number": "053",
+      "name": "Kit Punta de Eje  SN-25 Ford Sierra Trasero Derecho",
+      "uPrice": 8.59
+    },
+    {
+      "keyName": "kl054",
+      "number": "054",
+      "name": "Kit Punta de Eje  SN-28 Fiat Tempra Delantero",
+      "uPrice": 9.38
+    },
+    {
+      "keyName": "kl055",
+      "number": "055",
+      "name": "Kit Punta de Eje  SN-29 Fiat/Lada Derecho",
+      "uPrice": 4.68
+    },
+    {
+      "keyName": "kl056",
+      "number": "056",
+      "name": "Kit Punta de Eje  SN-30 Fiat/Lada Izquierdo",
+      "uPrice": 4.68
+    },
+    {
+      "keyName": "kl057",
+      "number": "057",
+      "name": "Kit Punta de Eje  SN-31 Fiat UNO/Festiva/Cavalier Delantero",
+      "uPrice": 5.8
+    },
+    {
+      "keyName": "kl058",
+      "number": "058",
+      "name": "Kit Punta de Eje  SN-33 Ford Fiesta Power Delantero",
+      "uPrice": 7.26
+    },
+    {
+      "keyName": "kl059",
+      "number": "059",
+      "name": "Kit Punta de Eje  SN-35 Toyota Corolla SKY año 86-91",
+      "uPrice": 5.1
+    },
+    {
+      "keyName": "kl060",
+      "number": "060",
+      "name": "Kit Punta de Eje  SN-36 Toyota Corolla SKY año 91-96",
+      "uPrice": 7.32
+    },
+    {
+      "keyName": "kl061",
+      "number": "061",
+      "name": "Kit Punta de Eje  SN-37 Toyota Starlet/Maverick Trasero",
+      "uPrice": 4.22
+    },
+    {
+      "keyName": "kl062",
+      "number": "062",
+      "name": "Kit Punta de Eje  SN-40 Chevrolet Monza/Corsa Delantero",
+      "uPrice": 8.59
+    },
+    {
+      "keyName": "kl063",
+      "number": "063",
+      "name": "Kit Punta de Eje  SN-42 Chevrolet Century año 88-95/Blazer 4X4",
+      "uPrice": 9.06
+    },
+    {
+      "keyName": "kl064",
+      "number": "064",
+      "name": "Kit de ajuste satelite y planetario Toyota Spicer 2F y 3F",
+      "uPrice": 11.2
+    },
+    {
+      "keyName": "kl065",
+      "number": "065",
+      "name": "Tuerca de túnel de seguridad con teflón para ford F-350",
+      "uPrice": 12.0
+    },
+    {
+      "keyName": "kl066",
+      "number": "066",
+      "name": "Tuerca punta de eje 18mm Spark/Matiz",
+      "uPrice": 4.8
     }
   ],
   "bc": [
@@ -5631,163 +5778,175 @@
       "number": "001",
       "keyName": "bc001",
       "name": "Empacadura Base de Carburador Ford 1 Boca",
-      "uPrice": 0.56
+      "uPrice": 0.72
     },
     {
       "number": "002",
       "keyName": "bc002",
       "name": "Empacadura Base de Carburador Chevrolet 1 Boca",
-      "uPrice": 0.56
+      "uPrice": 0.72
     },
     {
       "number": "003",
       "keyName": "bc003",
       "name": "Empacadura Base de Carburador Dodge 318",
-      "uPrice": 0.58
+      "uPrice": 0.74
     },
     {
       "number": "004",
       "keyName": "bc004",
       "name": "Empacadura Base de Carburador Corcel/Sierra",
-      "uPrice": 0.69
+      "uPrice": 0.9
     },
     {
       "number": "005",
       "keyName": "bc005",
       "name": "Empacadura Base de Carburador Che. Century",
-      "uPrice": 0.69
+      "uPrice": 0.9
     },
     {
       "number": "006",
       "keyName": "bc006",
       "name": "Empacadura Base de Carburador Ford 2 Bocas",
-      "uPrice": 1.22
+      "uPrice": 1.58
     },
     {
       "number": "007",
       "keyName": "bc007",
       "name": "Empacadura Base de Carburador Chevrolet 2 Bocas",
-      "uPrice": 1.12
+      "uPrice": 1.54
     },
     {
       "number": "008",
       "keyName": "bc008",
       "name": "Empacadura Base de Carburador Chevrolet 4 Bocas",
-      "uPrice": 1.36
+      "uPrice": 1.78
     },
     {
       "number": "009",
       "keyName": "bc009",
       "name": "Empacadura Base de Carburador Ford 4 Bocas",
-      "uPrice": 1.58
+      "uPrice": 2.06
     },
     {
       "number": "010",
       "keyName": "bc010",
       "name": "Base Carburador Che. Century Buick",
-      "uPrice": 1.01
+      "uPrice": 1.31
     },
     {
       "number": "011",
       "keyName": "bc011",
       "name": "Base de Carburador Chevrolet C-60",
-      "uPrice": 0.74
+      "uPrice": 0.96
     },
     {
       "number": "013",
       "keyName": "bc013",
       "name": "Base de Carburador TBI TODOS",
-      "uPrice": 0.43
+      "uPrice": 0.56
     },
     {
       "number": "014",
       "keyName": "bc014",
       "name": "Base de Carburador Chevette 1 Boca Webber",
-      "uPrice": 0.46
+      "uPrice": 0.59
     },
     {
       "number": "015",
       "keyName": "bc015",
       "name": "Base de Carburador Ford Motor 332",
-      "uPrice": 1.58
+      "uPrice": 2.06
     },
     {
       "number": "016",
       "keyName": "bc016",
       "name": "Empacadura Base de Carburador Chev 4 Tornillos",
-      "uPrice": 0.82
+      "uPrice": 1.06
     },
     {
       "number": "017",
       "keyName": "bc017",
       "name": "Empacadura Base de Carburador 1 Boca",
-      "uPrice": 0.56
+      "uPrice": 0.72
     },
     {
       "number": "018",
       "keyName": "bc018",
       "name": "Empacadura Base de Carburador Chev Solex 2 Bocas",
-      "uPrice": 0.38
+      "uPrice": 0.5
     },
     {
       "number": "019",
       "keyName": "bc019",
       "name": "Empacadura Base de Carburador Blazer TBI",
-      "uPrice": 0.43
+      "uPrice": 0.56
     },
     {
       "number": "020",
       "keyName": "bc020",
       "name": "Base de Carburador Racer, Cielo, Daewo",
-      "uPrice": 0.62
+      "uPrice": 0.8
     },
     {
       "number": "021",
       "keyName": "bc021",
       "name": "Base de Carburador Ford 2 B Motor 302 Nuevo",
-      "uPrice": 1.22
+      "uPrice": 1.58
     },
     {
       "number": "022",
       "keyName": "bc022",
       "name": "Base de Carburador Moto China (Todas)",
-      "uPrice": 0.38
+      "uPrice": 0.5
     },
     {
       "number": "023",
       "keyName": "bc023",
       "name": "Base de Carburador Toyota Corolla 1.7 94-98 Baby Camry/Machito/Araya/Sky",
-      "uPrice": 0.43
+      "uPrice": 0.56
     },
     {
       "number": "024",
       "keyName": "bc024",
       "name": "Base de Carburador Fiat Uno 147/Solex/Lada/Chevette 1 Boca",
-      "uPrice": 0.56
+      "uPrice": 0.72
     },
     {
       "number": "025",
       "keyName": "bc025",
       "name": "Base de Carburador Fiat Uno / Duna /Regatta 1.4 1.6",
-      "uPrice": 0.58
+      "uPrice": 0.74
     },
     {
       "number": "026",
       "keyName": "bc026",
       "name": "Base de Carburador Ford Festiva",
-      "uPrice": 0.43
+      "uPrice": 0.56
     },
     {
       "number": "027",
       "keyName": "bc027",
       "name": "Base de Carburador Swift 1.6/Mitsubishi Lancer",
-      "uPrice": 0.43
+      "uPrice": 0.56
     },
     {
       "number": "028",
       "keyName": "bc028",
       "name": "Base de Carburador Toyota Corolla / Avila 86-89",
-      "uPrice": 0.43
+      "uPrice": 0.56
+    },
+    {
+      "number": "029",
+      "keyName": "bc029",
+      "name": "Junta de Carter Caja Chevrolet Corsa 1.3L/1.4L",
+      "uPrice": 1.6
+    },
+    {
+      "number": "30",
+      "keyName": "bc30",
+      "name": "Junta de Carter Caja Daewoo Racer/Cielo 1500cc 8v/Chevrolet Monza 1800cc 8v",
+      "uPrice": 1.6
     }
   ],
   "le": [
@@ -5795,73 +5954,73 @@
       "number": "001",
       "keyName": "le001",
       "name": "Lápiz Estabilizador 10' Explorer",
-      "uPrice": 15.09
+      "uPrice": 20.37
     },
     {
       "number": "002",
       "keyName": "le002",
       "name": "Lápiz Estabilizador 8' Tahoe, Silverado, Avalenche",
-      "uPrice": 13.31
+      "uPrice": 17.97
     },
     {
       "number": "003",
       "keyName": "le003",
       "name": "Lápiz Estabilizador 7' Fortaleza",
-      "uPrice": 11.57
+      "uPrice": 15.62
     },
     {
       "number": "004",
       "keyName": "le004",
       "name": "Lápiz Estabilizador 5' Terius",
-      "uPrice": 9.79
+      "uPrice": 13.23
     },
     {
       "number": "005",
       "keyName": "le005",
       "name": "Lápiz Estabilizador 6' Mazda Gran Tiger",
-      "uPrice": 10.74
+      "uPrice": 14.5
     },
     {
       "number": "006",
       "keyName": "le006",
       "name": "Lápiz Estabilizador 5' Neon, Focus",
-      "uPrice": 10.11
+      "uPrice": 13.65
     },
     {
       "number": "007",
       "keyName": "le007",
       "name": "Lápiz Estabilizador 6' Mitsubishi",
-      "uPrice": 10.74
+      "uPrice": 14.5
     },
     {
       "number": "008",
       "keyName": "le008",
       "name": "Lápiz Estabilizador 5' Universal",
-      "uPrice": 10.1
+      "uPrice": 13.63
     },
     {
       "number": "009",
       "keyName": "le009",
       "name": "Lápiz Estabilizador 6' Universal",
-      "uPrice": 11.02
+      "uPrice": 14.9
     },
     {
       "number": "010",
       "keyName": "le010",
       "name": "Lápiz Estabilizador 7' Universal",
-      "uPrice": 11.97
+      "uPrice": 16.14
     },
     {
       "number": "011",
       "keyName": "le011",
       "name": "Lápiz Estabilizador 8' Universal",
-      "uPrice": 13.31
+      "uPrice": 17.97
     },
     {
       "number": "012",
       "keyName": "le012",
       "name": "Lápiz Estabilizador 9' Universal",
-      "uPrice": 14.91
+      "uPrice": 20.13
     }
   ],
   "ga": [
@@ -5869,19 +6028,19 @@
       "number": "001",
       "keyName": "ga001",
       "name": "Gorro Valvula 4 Ranuras 11/32' Motor Ford 460 Carburador de Nylon (C38) / Motor Ford 302 Carburador de Nylon (C36) / Motor Ford 300 de Nylon (C36)",
-      "uPrice": 0.19
+      "uPrice": 0.27
     },
     {
       "number": "002",
       "keyName": "ga002",
       "name": "Gorro Valvula 6 Ranuras 5/16' Motor Jeep 258, CJ5 de Nylon (C36) / Motor Ford Mustang Sierra Nylon (C37) ",
-      "uPrice": 0.19
+      "uPrice": 0.27
     },
     {
       "number": "003",
       "keyName": "ga003",
       "name": "Gorro Valvula Liso 3/8' Motor Ford 360,370,390 de Nylon (C38) / Motor Ford 8 Cilindro De Nylon (C36) / Motor Ford 460 Carburador de Nylon (C36)",
-      "uPrice": 0.19
+      "uPrice": 0.27
     },
     {
       "number": "004",
@@ -5899,31 +6058,31 @@
       "number": "005",
       "keyName": "ga005",
       "name": "Gorro Valvula Dodge 3/18' Dodge",
-      "uPrice": 5.6
+      "uPrice": 6.4
     },
     {
       "number": "006",
       "keyName": "ga006",
       "name": "Gorro Valvula Vortec (Nylon) Vortec",
-      "uPrice": 0.13
+      "uPrice": 0.18
     },
     {
       "number": "007",
       "keyName": "ga007",
       "name": "Kit Gorro de Valvula Vortec (Nylon) Vortec",
-      "uPrice": 2.88
+      "uPrice": 4.0
     },
     {
       "number": "008",
       "keyName": "ga008",
       "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Aluminio) Caliper Chevrolet 73674-X Kit (Alum)",
-      "uPrice": 0.82
+      "uPrice": 1.55
     },
     {
       "number": "008H",
       "keyName": "ga008H",
       "name": "Kit Antiruido de Caliper Chevrolet 73674-X (Hierro) Caliper Chevrolet 73674-X Kit (Hierro)",
-      "uPrice": 1.6
+      "uPrice": 2.16
     },
     {
       "number": "009",
@@ -5947,7 +6106,19 @@
       "number": "012",
       "keyName": "ga012",
       "name": "Goma Base Amortiguador Arauca",
-      "uPrice": 2.08
+      "uPrice": 2.82
+    },
+    {
+      "number": "013",
+      "keyName": "ga013",
+      "name": "Goma para Gorro Valvula PC Azul (solo Goma)",
+      "uPrice": 1.12
+    },
+    {
+      "number": "014",
+      "keyName": "ga014",
+      "name": "Kit Gorro de Valvula Chev 305 350 Vortec Viton",
+      "uPrice": 8.0
     }
   ],
   "bcd": [
@@ -5955,7 +6126,7 @@
       "number": "374",
       "keyName": "bcd374",
       "name": "Buje de Cajetin Renault Twingo / Wagon R",
-      "uPrice": 0.48
+      "uPrice": 0.66
     }
   ],
   "otac": [
