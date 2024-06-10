@@ -178,6 +178,18 @@
         }
       ],
       "keyName": "combo006"
+    },
+    {
+      "number": "013",
+      "name": "Oring Bomba de Gasolina Ford: Fiesta/EcoSport/Focus/Ka",
+      "uPrice": 2.63,
+      "keyName": "pobg20"
+    },
+    {
+      "number": "014",
+      "name": "Oring Bomba de Gasolina Chery: Orinoco/X1/Arauca/Corsa Speed",
+      "uPrice": 2.51,
+      "keyName": "pobg21"
     }
   ],
   "kit": [
