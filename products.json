@@ -3710,6 +3710,36 @@
       "name": "Oring de Refrigeración 5/8 Sobre Medida",
       "uPrice": 0.3045,
       "keyName": "oref020"
+    },
+    {
+      "number": "021",
+      "name": "Oring de Refrigeración 1/4 Normal (Económico)",
+      "uPrice": 0.1003,
+      "keyName": "orefec001"
+    },
+    {
+      "number": "022",
+      "name": "Oring de Refrigeración 7/16 (13/32) Normal (Económico)",
+      "uPrice": 0.1003,
+      "keyName": "orefec004"
+    },
+    {
+      "number": "023",
+      "name": "Oring de Refrigeración 9/16 Normal (Económico)",
+      "uPrice": 0.1304,
+      "keyName": "orefec005"
+    },
+    {
+      "number": "024",
+      "name": "Oring de Refrigeración 5/16 Sobre Medida (Económico)",
+      "uPrice": 0.1008,
+      "keyName": "orefec008"
+    },
+    {
+      "number": "025",
+      "name": "Oring de Refrigeración 9/16 Sobre Medida (Económico)",
+      "uPrice": 0.1502,
+      "keyName": "orefec011"
     }
   ],
   "orefk": [
