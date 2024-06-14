@@ -194,49 +194,49 @@
     {
       "number": "015",
       "name": "Silicon gris mega grey 85grs (Caja 12 unidades)",
-      "uPrice": 13.56,
-      "keyName": "pmg02a"
+      "uPrice": 13.2,
+      "keyName": "psilgrismg"
     },
     {
       "number": "016",
       "name": "2068 Bomba de Gasolina Universal (Bolsa-Pila)",
-      "uPrice": 8.29,
+      "uPrice": 8.1,
       "keyName": "p2068fk"
     },
     {
       "number": "017",
       "name": "8012 Bomba de Gasolina Universal Externa Redonda (Lata) (Pila)",
-      "uPrice": 12.18,
+      "uPrice": 12.1,
       "keyName": "p8012eclipse"
     },
     {
       "number": "018",
       "name": "Cepillo Limpia Parabrisas 16\"",
-      "uPrice": 2.13,
+      "uPrice": 2.1,
       "keyName": "pcep16"
     },
     {
       "number": "019",
       "name": "Cepillo Limpia Parabrisas 18\"",
-      "uPrice": 2.13,
+      "uPrice": 2.1,
       "keyName": "pcep18"
     },
     {
       "number": "020",
       "name": "Cepillo Limpia Parabrisas 20\"",
-      "uPrice": 2.13,
+      "uPrice": 2.1,
       "keyName": "pcep20"
     },
     {
       "number": "021",
       "name": "Cepillo Limpia Parabrisas 22\"",
-      "uPrice": 2.13,
+      "uPrice": 2.1,
       "keyName": "pcep22"
     },
     {
       "number": "022",
       "name": "Cepillo Limpia Parabrisas 24\"",
-      "uPrice": 2.13,
+      "uPrice": 2.1,
       "keyName": "pcep24"
     }
   ],
@@ -245,7 +245,7 @@
       "number": "001",
       "name": "Silicon gris mega grey 85grs (Caja 12 unidades)",
       "uPrice": 16.37,
-      "keyName": "mg02a"
+      "keyName": "silgrismg"
     },
     {
       "number": "002",
