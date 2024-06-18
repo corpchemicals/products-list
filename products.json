@@ -238,6 +238,54 @@
       "name": "Cepillo Limpia Parabrisas 24\"",
       "uPrice": 2.1,
       "keyName": "pcep24"
+    },
+    {
+      "number": "023",
+      "name": "Oring Bomba de Gasolina Aveo / Optra",
+      "uPrice": 1.546,
+      "keyName": "pobg001d90"
+    },
+    {
+      "number": "024",
+      "name": "Oring Bomba de Gasolina Renault: Twingo/Sybmol/Logan y Clio",
+      "uPrice": 1.7237,
+      "keyName": "pobg002d90"
+    },
+    {
+      "number": "025",
+      "name": "Oring Bomba de Gasolina Corsa",
+      "uPrice": 2.34066,
+      "keyName": "pobg003d90"
+    },
+    {
+      "number": "026",
+      "name": "Oring Bomba de Gasolina Ford FX 150",
+      "uPrice": 2.01684,
+      "keyName": "pobg004d90"
+    },
+    {
+      "number": "027",
+      "name": "Oring Bomba de Gasolina Peugeot 207 / 307 / 408",
+      "uPrice": 2.04708,
+      "keyName": "pobg006d90"
+    },
+    {
+      "number": "028",
+      "name": "Oring Bomba de Gasolina Toyota 4 Runner (2003 a 2008) ",
+      "uPrice": 2.03154,
+      "keyName": "pobg007d90"
+    },
+    {
+      "number": "029",
+      "name": "Oring Bomba de Gasolina Toyota Corolla",
+      "uPrice": 2.01684,
+      "keyName": "pobg008d90"
+    },
+    {
+      "number": "030",
+      "name": "Oring Bomba de Gasolina Yaris Belta/Sport 2006-2014",
+      "uPrice": 2.03154,
+      "keyName": "pobg018d90"
     }
   ],
   "auxiliar": [
