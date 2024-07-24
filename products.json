@@ -181,111 +181,63 @@
     },
     {
       "number": "013",
-      "name": "Oring Bomba de Gasolina Ford: Fiesta/EcoSport/Focus/Ka",
-      "uPrice": 2.63,
-      "keyName": "pobg20"
-    },
-    {
-      "number": "014",
-      "name": "Oring Bomba de Gasolina Chery: Orinoco/X1/Arauca/Corsa Speed",
-      "uPrice": 2.51,
-      "keyName": "pobg21"
-    },
-    {
-      "number": "015",
       "name": "Silicon gris mega grey 85grs (Caja 12 unidades)",
       "uPrice": 13.2,
       "keyName": "psilgrismg"
     },
     {
-      "number": "016",
+      "number": "014",
       "name": "2068 Bomba de Gasolina Universal (Bolsa-Pila)",
       "uPrice": 8.1,
       "keyName": "p2068fk"
     },
     {
-      "number": "017",
+      "number": "015",
       "name": "8012 Bomba de Gasolina Universal Externa Redonda (Lata) (Pila)",
       "uPrice": 12.1,
       "keyName": "p8012eclipse"
     },
     {
-      "number": "018",
+      "number": "016",
       "name": "Cepillo Limpia Parabrisas 16\"",
       "uPrice": 2.1,
       "keyName": "pcep16"
     },
     {
-      "number": "019",
+      "number": "017",
       "name": "Cepillo Limpia Parabrisas 18\"",
       "uPrice": 2.1,
       "keyName": "pcep18"
     },
     {
-      "number": "020",
+      "number": "018",
       "name": "Cepillo Limpia Parabrisas 20\"",
       "uPrice": 2.1,
       "keyName": "pcep20"
     },
     {
-      "number": "021",
+      "number": "019",
       "name": "Cepillo Limpia Parabrisas 22\"",
       "uPrice": 2.1,
       "keyName": "pcep22"
     },
     {
-      "number": "022",
+      "number": "020",
       "name": "Cepillo Limpia Parabrisas 24\"",
       "uPrice": 2.1,
       "keyName": "pcep24"
     },
     {
-      "number": "023",
-      "name": "Oring Bomba de Gasolina Aveo / Optra",
-      "uPrice": 1.546,
-      "keyName": "pobg001d90"
+      "number": "021",
+      "name": "Relay 80 AMP. 5 Patas",
+      "uPrice": 1.38,
+      "keyName": "80amprel"
     },
     {
-      "number": "024",
-      "name": "Oring Bomba de Gasolina Renault: Twingo/Sybmol/Logan y Clio",
-      "uPrice": 1.7237,
-      "keyName": "pobg002d90"
-    },
-    {
-      "number": "025",
-      "name": "Oring Bomba de Gasolina Corsa",
-      "uPrice": 2.34066,
-      "keyName": "pobg003d90"
-    },
-    {
-      "number": "026",
-      "name": "Oring Bomba de Gasolina Ford FX 150",
-      "uPrice": 2.01684,
-      "keyName": "pobg004d90"
-    },
-    {
-      "number": "027",
-      "name": "Oring Bomba de Gasolina Peugeot 207 / 307 / 408",
-      "uPrice": 2.04708,
-      "keyName": "pobg006d90"
-    },
-    {
-      "number": "028",
-      "name": "Oring Bomba de Gasolina Toyota 4 Runner (2003 a 2008) ",
-      "uPrice": 2.03154,
-      "keyName": "pobg007d90"
-    },
-    {
-      "number": "029",
-      "name": "Oring Bomba de Gasolina Toyota Corolla",
-      "uPrice": 2.01684,
-      "keyName": "pobg008d90"
-    },
-    {
-      "number": "030",
-      "name": "Oring Bomba de Gasolina Yaris Belta/Sport 2006-2014",
-      "uPrice": 2.03154,
-      "keyName": "pobg018d90"
+      "number": "022",
+      "name": "Conector para Relay 5 Patas (plástico)",
+      "uPrice": 1.0,
+      "keyName": "rb5ccer"
     }
   ],
   "auxiliar": [
@@ -336,6 +288,18 @@
       "name": "Cepillo Limpia Parabrisas 24\"",
       "uPrice": 2.58,
       "keyName": "cep24"
+    },
+    {
+      "number": "009",
+      "name": "Relay 80 AMP. 5 Patas",
+      "uPrice": 1.67,
+      "keyName": "80amprel"
+    },
+    {
+      "number": "009",
+      "name": "Conector para Relay 5 Patas (plástico)",
+      "uPrice": 1.21,
+      "keyName": "rb5ccer"
     }
   ],
   "kit": [
