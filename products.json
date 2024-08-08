@@ -1234,6 +1234,30 @@
       "name": "Separador Acanalado Honda",
       "uPrice": 0.2571,
       "keyName": "oiny013"
+    },
+    {
+      "number": "014",
+      "name": "Tapon Honda",
+      "uPrice": 0.13,
+      "keyName": "oiny014"
+    },
+    {
+      "number": "015",
+      "name": "Asiento Liso Honda",
+      "uPrice": 0.53,
+      "keyName": "oiny015"
+    },
+    {
+      "number": "016",
+      "name": "Oring Alto Nissan B13 - B14",
+      "uPrice": 0.2476,
+      "keyName": "oiny016"
+    },
+    {
+      "number": "017",
+      "name": "Oring Bajo Nissan B13 - B14",
+      "uPrice": 0.1764,
+      "keyName": "oiny017"
     }
   ],
   "mic": [
@@ -1308,6 +1332,48 @@
       "name": "Microfiltro Honda Civic (Máximo Caudal)",
       "uPrice": 0.2571,
       "keyName": "mic012"
+    },
+    {
+      "number": "013",
+      "name": "Microfiltro CAMARA Toyota Fortuner",
+      "uPrice": 1.2808,
+      "keyName": "mic013"
+    },
+    {
+      "number": "014",
+      "name": "Microfiltro CAMARA Toyota Yaris",
+      "uPrice": 1.2808,
+      "keyName": "mic014"
+    },
+    {
+      "number": "015",
+      "name": "Microfiltro CAMARA Toyota 4 RUNNER",
+      "uPrice": 1.2808,
+      "keyName": "mic015"
+    },
+    {
+      "number": "016",
+      "name": "Microfiltro CAMARA Toyota Corolla",
+      "uPrice": 1.2808,
+      "keyName": "mic016"
+    },
+    {
+      "number": "017",
+      "name": "Microfiltro Nissan B13 - B14",
+      "uPrice": 0.4076,
+      "keyName": "mic017"
+    },
+    {
+      "number": "018",
+      "name": "Microfiltro CAVALIER - 1 A",
+      "uPrice": 0.3632,
+      "keyName": "mic018"
+    },
+    {
+      "number": "019",
+      "name": "Microfiltro CAVALIER - 2 B",
+      "uPrice": 0.4076,
+      "keyName": "mic019"
     }
   ],
   "oba": [
