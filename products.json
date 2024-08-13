@@ -1154,6 +1154,131 @@
         }
       ],
       "keyName": "kit038"
+    },
+    {
+      "number": "039",
+      "name": "Kit de Inyección Turpial - Festiva 4 CIL.",
+      "uPrice": 1.57,
+      "content": [
+        {
+          "category": "oiny",
+          "number": "003",
+          "amount": 4
+        },
+        {
+          "category": "oiny",
+          "number": "008",
+          "amount": 4
+        },
+        {
+          "category": "mic",
+          "number": "001",
+          "amount": 4
+        }
+      ],
+      "keyName": "kit039"
+    },
+    {
+      "number": "040",
+      "name": "Kit de Inyección Subaru 4 Cil.",
+      "uPrice": 2.43,
+      "content": [
+        {
+          "category": "oiny",
+          "number": "001",
+          "amount": 4
+        },
+        {
+          "category": "or000",
+          "number": "020",
+          "amount": 4
+        },
+        {
+          "category": "mic",
+          "number": "010",
+          "amount": 4
+        }
+      ],
+      "keyName": "kit040"
+    },
+    {
+      "number": "041",
+      "name": "Kit de Inyección NISSAN B13 - B14 4 CIL.",
+      "uPrice": 3.43,
+      "content": [
+        {
+          "category": "oiny",
+          "number": "016",
+          "amount": 4
+        },
+        {
+          "category": "oiny",
+          "number": "017",
+          "amount": 4
+        },
+        {
+          "category": "mic",
+          "number": "017",
+          "amount": 4
+        }
+      ],
+      "keyName": "kit041"
+    },
+    {
+      "number": "042",
+      "name": "Kit de Inyección CAVALIER TAPA RAYADA 4 CIL.",
+      "uPrice": 3.73,
+      "content": [
+        {
+          "category": "or000",
+          "number": "014",
+          "amount": 4
+        },
+        {
+          "category": "or000",
+          "number": "020",
+          "amount": 4
+        },
+        {
+          "category": "mic",
+          "number": "018",
+          "amount": 4
+        },
+        {
+          "category": "mic",
+          "number": "019",
+          "amount": 4
+        }
+      ],
+      "keyName": "kit042"
+    },
+    {
+      "number": "043",
+      "name": "Kit de Inyección HONDA 4 CIL. Civic - Integra - Accord",
+      "uPrice": 5.71,
+      "content": [
+        {
+          "category": "oiny",
+          "number": "015",
+          "amount": 4
+        },
+        {
+          "category": "oiny",
+          "number": "009",
+          "amount": 4
+        },
+        {
+          "category": "oiny",
+          "number": "013",
+          "amount": 4
+        },
+        {
+          "category": "mic",
+          "number": "012",
+          "amount": 4
+        }
+      ],
+      "keyName": "kit043"
     }
   ],
   "oiny": [
