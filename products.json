@@ -1222,6 +1222,24 @@
         }
       ],
       "keyName": "kit043"
+    },
+    {
+      "number": "044",
+      "name": "Kit de Inyección Universal 8 Cil.",
+      "uPrice": 4.54,
+      "content": [
+        {
+          "category": "oiny",
+          "number": "004",
+          "amount": 16
+        },
+        {
+          "category": "mic",
+          "number": "001",
+          "amount": 8
+        }
+      ],
+      "keyName": "kit044"
     }
   ],
   "oiny": [
@@ -6472,6 +6490,12 @@
       "keyName": "obgd90008",
       "name": "Oring Bomba de Gasolina Toyota Corolla (Dureza 90)",
       "uPrice": 3.3614
+    },
+    {
+      "number": "009",
+      "keyName": "obgd90009",
+      "name": "Oring Bomba de Gasolina Silverado 2009 - 2014 / Tahoe / Avalanche",
+      "uPrice": 3.9
     },
     {
       "number": "010",
