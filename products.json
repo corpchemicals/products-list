@@ -1164,7 +1164,7 @@
     },
     {
       "number": "042",
-      "name": "Kit de Inyección CAVALIER TAPA RAYADA 4 CIL.",
+      "name": "Kit de Inyección CAVALIER TAPA RAYADA 4 CIL. NBR/NBR",
       "uPrice": 3.73,
       "content": [
         {
@@ -1240,6 +1240,34 @@
         }
       ],
       "keyName": "kit044"
+    },
+    {
+      "number": "045",
+      "name": "Kit de Inyección CAVALIER TAPA RAYADA 4 CIL. VITON/VITON",
+      "uPrice": 5.98,
+      "content": [
+        {
+          "category": "oref",
+          "number": "016",
+          "amount": 4
+        },
+        {
+          "category": "orv",
+          "number": "020",
+          "amount": 4
+        },
+        {
+          "category": "mic",
+          "number": "018",
+          "amount": 4
+        },
+        {
+          "category": "mic",
+          "number": "019",
+          "amount": 4
+        }
+      ],
+      "keyName": "kit045"
     }
   ],
   "oiny": [
